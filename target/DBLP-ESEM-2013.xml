@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="403053">:facetid:toc:\"db/conf/esem/esem2013.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">67.15</time>
+<completions total="1" computed="1" sent="1">
+<c sc="57" dc="57" oc="57" id="43943596">:facetid:toc:db/conf/esem/esem2013.bht</c>
+</completions>
+<hits total="57" computed="57" sent="57" first="0">
+<hit score="1" id="4223124">
+<info><authors><author pid="38/3828">Apostolos Ampatzoglou</author><author pid="121/2968">Antonios Gkortzis</author><author pid="40/10278">Sofia Charalampidou</author><author pid="30/3651">Paris Avgeriou</author></authors><title>An Embedded Multiple-Case Study on OSS Design Quality Assessment across Domains.</title><venue>ESEM</venue><pages>255-258</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/AmpatzoglouGCA13</key><doi>10.1109/ESEM.2013.48</doi><ee>https://doi.org/10.1109/ESEM.2013.48</ee><url>https://dblp.org/rec/conf/esem/AmpatzoglouGCA13</url></info>
+<url>URL#4223124</url>
+</hit>
+<hit score="1" id="4223125">
+<info><authors><author pid="19/1006-2">Chetan Arora 0002</author><author pid="25/6367">Mehrdad Sabetzadeh</author><author pid="93/1501">Lionel C. Briand</author><author pid="89/6569">Frank Zimmer</author><author pid="133/8138">Raul Gnaga</author></authors><title>Automatic Checking of Conformance to Requirement Boilerplates via Text Chunking: An Industrial Case Study.</title><venue>ESEM</venue><pages>35-44</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/AroraSBZG13</key><doi>10.1109/ESEM.2013.13</doi><ee>https://doi.org/10.1109/ESEM.2013.13</ee><url>https://dblp.org/rec/conf/esem/AroraSBZG13</url></info>
+<url>URL#4223125</url>
+</hit>
+<hit score="1" id="4223126">
+<info><authors><author pid="120/1963">Damir Azhar</author><author pid="18/2915">Patricia Riddle</author><author pid="m/EMendes">Emilia Mendes</author><author pid="73/4484">Nikolaos Mittas</author><author pid="16/4783">Lefteris Angelis</author></authors><title>Using Ensembles for Web Effort Estimation.</title><venue>ESEM</venue><pages>173-182</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/AzharRMMA13</key><doi>10.1109/ESEM.2013.25</doi><ee>https://doi.org/10.1109/ESEM.2013.25</ee><url>https://dblp.org/rec/conf/esem/AzharRMMA13</url></info>
+<url>URL#4223126</url>
+</hit>
+<hit score="1" id="4223127">
+<info><authors><author pid="b/StefanBiffl">Stefan Biffl</author><author pid="83/3614">Estefanía Serral</author><author pid="60/2067">Dietmar Winkler 0001</author><author pid="48/6304">Nelly Condori-Fernández</author><author pid="24/1437">Oscar Dieste</author><author pid="35/4144">Natalia Juristo Juzgado</author></authors><title>Replication Data Management: Needs and Solutions - An Initial Evaluation of Conceptual Approaches for Integrating Heterogeneous Replication Study Data.</title><venue>ESEM</venue><pages>233-242</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/BifflSWCDJ13</key><doi>10.1109/ESEM.2013.60</doi><ee>https://doi.org/10.1109/ESEM.2013.60</ee><url>https://dblp.org/rec/conf/esem/BifflSWCDJ13</url></info>
+<url>URL#4223127</url>
+</hit>
+<hit score="1" id="4223128">
+<info><authors><author pid="47/9384">Markus Borg</author><author pid="24/24">Per Runeson</author></authors><title>IR in Software Traceability: From a Bird&apos;s Eye View.</title><venue>ESEM</venue><pages>243-246</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/BorgR13</key><doi>10.1109/ESEM.2013.39</doi><ee>https://doi.org/10.1109/ESEM.2013.39</ee><url>https://dblp.org/rec/conf/esem/BorgR13</url></info>
+<url>URL#4223128</url>
+</hit>
+<hit score="1" id="4223129">
+<info><authors><author pid="18/11159">Amiangshu Bosu</author><author pid="c/JeffreyCCarver">Jeffrey C. Carver</author></authors><title>Impact of Peer Code Review on Peer Impression Formation: A Survey.</title><venue>ESEM</venue><pages>133-142</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/BosuC13</key><doi>10.1109/ESEM.2013.23</doi><ee>https://doi.org/10.1109/ESEM.2013.23</ee><url>https://dblp.org/rec/conf/esem/BosuC13</url></info>
+<url>URL#4223129</url>
+</hit>
+<hit score="1" id="4223130">
+<info><authors><author pid="01/338">David Budgen</author><author pid="k/BarbaraAKitchenham">Barbara A. Kitchenham</author><author pid="21/4595">Pearl Brereton</author></authors><title>The Case for Knowledge Translation.</title><venue>ESEM</venue><pages>263-266</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/BudgenKB13</key><doi>10.1109/ESEM.2013.41</doi><ee>https://doi.org/10.1109/ESEM.2013.41</ee><url>https://dblp.org/rec/conf/esem/BudgenKB13</url></info>
+<url>URL#4223130</url>
+</hit>
+<hit score="1" id="4223131">
+<info><authors><author pid="01/338">David Budgen</author><author pid="k/BarbaraAKitchenham">Barbara A. Kitchenham</author><author pid="92/6895">Stuart M. Charters</author><author pid="42/1124">Shirley Gibbs</author><author pid="49/1139">Amnart Pohthong</author><author pid="86/7853">Jacky Keung</author><author pid="21/4595">Pearl Brereton</author></authors><title>Lessons from Conducting a Distributed Quasi-experiment.</title><venue>ESEM</venue><pages>143-152</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/BudgenKCGPKB13</key><doi>10.1109/ESEM.2013.12</doi><ee>https://doi.org/10.1109/ESEM.2013.12</ee><url>https://dblp.org/rec/conf/esem/BudgenKCGPKB13</url></info>
+<url>URL#4223131</url>
+</hit>
+<hit score="1" id="4223132">
+<info><authors><author pid="11/7657">Gul Calikli</author><author pid="55/2997">Ayse Bener</author><author pid="121/2731">Turgay Aytac</author><author pid="139/6945">Ovunc Bozcan</author></authors><title>Towards a Metric Suite Proposal to Quantify Confirmation Biases of Developers.</title><venue>ESEM</venue><pages>363-372</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/CalikliBAB13</key><doi>10.1109/ESEM.2013.47</doi><ee>https://doi.org/10.1109/ESEM.2013.47</ee><url>https://dblp.org/rec/conf/esem/CalikliBAB13</url></info>
+<url>URL#4223132</url>
+</hit>
+<hit score="1" id="4223133">
+<info><authors><author pid="c/JeffreyCCarver">Jeffrey C. Carver</author><author pid="200/1800">Edgar E. Hassler</author><author pid="139/6957">Elis Hernandes</author><author pid="31/2231">Nicholas A. Kraft</author></authors><title>Identifying Barriers to the Systematic Literature Review Process.</title><venue>ESEM</venue><pages>203-212</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/CarverHHK13</key><doi>10.1109/ESEM.2013.28</doi><ee>https://doi.org/10.1109/ESEM.2013.28</ee><url>https://dblp.org/rec/conf/esem/CarverHHK13</url></info>
+<url>URL#4223133</url>
+</hit>
+<hit score="1" id="4223134">
+<info><authors><author pid="127/6161">Alexander Delater</author><author pid="p/BarbaraPaech">Barbara Paech</author></authors><title>Tracing Requirements and Source Code during Software Development: An Empirical Study.</title><venue>ESEM</venue><pages>25-34</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/DelaterP13</key><doi>10.1109/ESEM.2013.16</doi><ee>https://doi.org/10.1109/ESEM.2013.16</ee><url>https://dblp.org/rec/conf/esem/DelaterP13</url></info>
+<url>URL#4223134</url>
+</hit>
+<hit score="1" id="4223135">
+<info><authors><author pid="131/1331">Diego Delgado</author><author pid="234/2434">Alexandra Martínez</author></authors><title>Cost Effectiveness of Unit Testing: A Case Study in a Financial Institution.</title><venue>ESEM</venue><pages>340-347</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/DelgadoM13</key><doi>10.1109/ESEM.2013.50</doi><ee>https://doi.org/10.1109/ESEM.2013.50</ee><url>https://dblp.org/rec/conf/esem/DelgadoM13</url></info>
+<url>URL#4223135</url>
+</hit>
+<hit score="1" id="4223136">
+<info><authors><author pid="139/6936">Carla Fernandez-Corrales</author><author pid="15/2948">Marcelo Jenkins</author><author pid="123/1086">Jorge Villegas</author></authors><title>Application of Statistical Process Control to Software Defect Metrics: An Industry Experience Report.</title><venue>ESEM</venue><pages>323-331</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/Fernandez-CorralesJV13</key><doi>10.1109/ESEM.2013.51</doi><ee>https://doi.org/10.1109/ESEM.2013.51</ee><url>https://dblp.org/rec/conf/esem/Fernandez-CorralesJV13</url></info>
+<url>URL#4223136</url>
+</hit>
+<hit score="1" id="4223137">
+<info><authors><author pid="70/9016">Davide Fucci</author><author pid="62/1974">Burak Turhan</author></authors><title>A Replicated Experiment on the Effectiveness of Test-First Development.</title><venue>ESEM</venue><pages>103-112</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/FucciT13</key><doi>10.1109/ESEM.2013.15</doi><ee>https://doi.org/10.1109/ESEM.2013.15</ee><url>https://dblp.org/rec/conf/esem/FucciT13</url></info>
+<url>URL#4223137</url>
+</hit>
+<hit score="1" id="4223138">
+<info><authors><author pid="69/6391">Zhimin He</author><author pid="52/7880">Fayola Peters</author><author pid="m/TimMenzies">Tim Menzies</author><author pid="55/4341">Ye Yang</author></authors><title>Learning from Open-Source Projects: An Empirical Study on Defect Prediction.</title><venue>ESEM</venue><pages>45-54</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/HePMY13</key><doi>10.1109/ESEM.2013.20</doi><ee>https://doi.org/10.1109/ESEM.2013.20</ee><url>https://dblp.org/rec/conf/esem/HePMY13</url></info>
+<url>URL#4223138</url>
+</hit>
+<hit score="1" id="4223139">
+<info><authors><author pid="51/7904">Ville Heikkilä</author><author pid="86/1975">Maria Paasivaara</author><author pid="28/3392">Casper Lassenius</author></authors><title>ScrumBut, But Does it Matter? A Mixed-Method Study of the Planning Process of a Multi-team Scrum Organization.</title><venue>ESEM</venue><pages>85-94</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/HeikkilaPL13</key><doi>10.1109/ESEM.2013.27</doi><ee>https://doi.org/10.1109/ESEM.2013.27</ee><url>https://dblp.org/rec/conf/esem/HeikkilaPL13</url></info>
+<url>URL#4223139</url>
+</hit>
+<hit score="1" id="4223140">
+<info><authors><author pid="48/9525">Mona Erfani Joorabchi</author><author pid="72/4471-1">Ali Mesbah 0001</author><author pid="k/PhilippeKruchten">Philippe Kruchten</author></authors><title>Real Challenges in Mobile App Development.</title><venue>ESEM</venue><pages>15-24</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/JoorabchiMK13</key><doi>10.1109/ESEM.2013.9</doi><ee>https://doi.org/10.1109/ESEM.2013.9</ee><url>https://dblp.org/rec/conf/esem/JoorabchiMK13</url></info>
+<url>URL#4223140</url>
+</hit>
+<hit score="1" id="4223141">
+<info><authors><author pid="48/7984">Jessica Jung</author><author pid="05/8783">Kai Höfig</author><author pid="81/4994">Dominik Domis</author><author pid="17/6328">Andreas Jedlitschka</author><author pid="59/4764">Martin Hiller</author></authors><title>Experimental Comparison of Two Safety Analysis Methods and Its Replication.</title><venue>ESEM</venue><pages>223-232</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/JungHDJH13</key><doi>10.1109/ESEM.2013.59</doi><ee>https://doi.org/10.1109/ESEM.2013.59</ee><url>https://dblp.org/rec/conf/esem/JungHDJH13</url></info>
+<url>URL#4223141</url>
+</hit>
+<hit score="1" id="4223142">
+<info><authors><author pid="35/4144">Natalia Juristo Juzgado</author></authors><title>Towards Understanding Replication of Software Engineering Experiments.</title><venue>ESEM</venue><pages>4</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/Juzgado13</key><doi>10.1109/ESEM.2013.64</doi><ee>https://doi.org/10.1109/ESEM.2013.64</ee><url>https://dblp.org/rec/conf/esem/Juzgado13</url></info>
+<url>URL#4223142</url>
+</hit>
+<hit score="1" id="4223143">
+<info><authors><author pid="17/7305">Jonathan L. Krein</author><author pid="23/4402">Charles D. Knutson</author><author pid="54/3155">Lutz Prechelt</author><author pid="b/ChristianBird">Christian Bird</author></authors><title>Message from the RESER 2013 Workshop Chairs.</title><venue>ESEM</venue><pages>395</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/KreinKPB13</key><doi>10.1109/ESEM.2013.57</doi><ee>https://doi.org/10.1109/ESEM.2013.57</ee><url>https://dblp.org/rec/conf/esem/KreinKPB13</url></info>
+<url>URL#4223143</url>
+</hit>
+<hit score="1" id="4223144">
+<info><authors><author pid="k/PhilippeKruchten">Philippe Kruchten</author><author pid="40/3241">Robert L. Nord</author><author pid="86/5769">Ipek Ozkaya</author><author pid="89/536">Davide Falessi</author></authors><title>Message from the MTD 2013 Workshop Chairs.</title><venue>ESEM</venue><pages>396</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/KruchtenNOF13</key><doi>10.1109/ESEM.2013.58</doi><ee>https://doi.org/10.1109/ESEM.2013.58</ee><url>https://dblp.org/rec/conf/esem/KruchtenNOF13</url></info>
+<url>URL#4223144</url>
+</hit>
+<hit score="1" id="4223145">
+<info><authors><author pid="47/3991">Peter M. Kruse</author><author pid="48/6304">Nelly Condori-Fernández</author><author pid="v/TanjaEJVos">Tanja E. J. Vos</author><author pid="71/5961">Alessandra Bagnato</author><author pid="65/2809">Etienne Brosse</author></authors><title>Combinatorial Testing Tool Learnability in an Industrial Environment.</title><venue>ESEM</venue><pages>304-312</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/KruseCVBB13</key><doi>10.1109/ESEM.2013.49</doi><ee>https://doi.org/10.1109/ESEM.2013.49</ee><url>https://dblp.org/rec/conf/esem/KruseCVBB13</url></info>
+<url>URL#4223145</url>
+</hit>
+<hit score="1" id="4223146">
+<info><authors><author pid="139/6939">Katsiaryna Labunets</author><author pid="59/6145">Fabio Massacci</author><author pid="18/3134">Federica Paci</author><author pid="00/9836">Le Minh Sang Tran</author></authors><title>An Experimental Comparison of Two Risk-Based Security Methods.</title><venue>ESEM</venue><pages>163-172</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/LabunetsMPT13</key><doi>10.1109/ESEM.2013.29</doi><ee>https://doi.org/10.1109/ESEM.2013.29</ee><url>https://dblp.org/rec/conf/esem/LabunetsMPT13</url></info>
+<url>URL#4223146</url>
+</hit>
+<hit score="1" id="4223147">
+<info><authors><author pid="139/6950">Lina Lagerberg</author><author pid="139/6937">Tor Skude</author><author pid="67/5114">Pär Emanuelsson</author><author pid="59/4490">Kristian Sandahl</author><author pid="137/2918">Daniel Stahl</author></authors><title>The Impact of Agile Principles and Practices on Large-Scale Software Development Projects: A Multiple-Case Study of Two Projects at Ericsson.</title><venue>ESEM</venue><pages>348-356</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/LagerbergSESS13</key><doi>10.1109/ESEM.2013.53</doi><ee>https://doi.org/10.1109/ESEM.2013.53</ee><url>https://dblp.org/rec/conf/esem/LagerbergSESS13</url></info>
+<url>URL#4223147</url>
+</hit>
+<hit score="1" id="4223148">
+<info><authors><author pid="18/6893">Lucas Layman</author><author pid="77/3716">Madeline Diep</author><author pid="27/2828">Meiyappan Nagappan</author><author pid="81/3517">Janice Singer</author><author pid="d/RobertDeLine">Robert DeLine</author><author pid="v/GinaVenolia">Gina Venolia</author></authors><title>Debugging Revisited: Toward Understanding the Debugging Needs of Contemporary Software Developers.</title><venue>ESEM</venue><pages>383-392</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/LaymanDNSDV13</key><doi>10.1109/ESEM.2013.43</doi><ee>https://doi.org/10.1109/ESEM.2013.43</ee><url>https://dblp.org/rec/conf/esem/LaymanDNSDV13</url></info>
+<url>URL#4223148</url>
+</hit>
+<hit score="1" id="4223149">
+<info><authors><author pid="18/6893">Lucas Layman</author><author pid="139/6948">Gunnar Sigurdsson</author></authors><title>Using Amazon&apos;s Mechanical Turk for User Studies: Eight Things You Need to Know.</title><venue>ESEM</venue><pages>275-278</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/LaymanS13</key><doi>10.1109/ESEM.2013.42</doi><ee>https://doi.org/10.1109/ESEM.2013.42</ee><url>https://dblp.org/rec/conf/esem/LaymanS13</url></info>
+<url>URL#4223149</url>
+</hit>
+<hit score="1" id="4223150">
+<info><authors><author pid="26/1980">Christopher Marshall</author><author pid="21/4595">Pearl Brereton</author></authors><title>Tools to Support Systematic Literature Reviews in Software Engineering: A Mapping Study.</title><venue>ESEM</venue><pages>296-299</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/MarshallB13</key><doi>10.1109/ESEM.2013.32</doi><ee>https://doi.org/10.1109/ESEM.2013.32</ee><url>https://dblp.org/rec/conf/esem/MarshallB13</url></info>
+<url>URL#4223150</url>
+</hit>
+<hit score="1" id="4223151">
+<info><authors><author pid="121/2507">Rafael Maiani de Mello</author><author pid="t/GuilhermeTravassos">Guilherme Horta Travassos</author></authors><title>Would Sociable Software Engineers Observe Better?</title><venue>ESEM</venue><pages>279-282</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/MelloT13</key><doi>10.1109/ESEM.2013.33</doi><ee>https://doi.org/10.1109/ESEM.2013.33</ee><url>https://dblp.org/rec/conf/esem/MelloT13</url></info>
+<url>URL#4223151</url>
+</hit>
+<hit score="1" id="4223152">
+<info><authors><author pid="134/9002">Itzel Dominguez Mendoza</author><author pid="63/5192">D. Richard Kuhn</author><author pid="34/757">Raghu Kacker</author><author pid="284/8639-1">Yu Lei 0001</author></authors><title>CCM: A Tool for Measuring Combinatorial Coverage of System State Space.</title><venue>ESEM</venue><pages>291</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/MendozaKKL13</key><doi>10.1109/ESEM.2013.44</doi><ee>https://doi.org/10.1109/ESEM.2013.44</ee><url>https://dblp.org/rec/conf/esem/MendozaKKL13</url></info>
+<url>URL#4223152</url>
+</hit>
+<hit score="1" id="4223153">
+<info><authors><author pid="41/539">Andrew Meneely</author><author pid="139/6941">Harshavardhan Srinivasan</author><author pid="139/6942">Ayemi Musa</author><author pid="139/6940">Alberto Rodriguez Tejeda</author><author pid="139/6952">Matthew Mokary</author><author pid="139/6955">Brian Spates</author></authors><title>When a Patch Goes Bad: Exploring the Properties of Vulnerability-Contributing Commits.</title><venue>ESEM</venue><pages>65-74</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/MeneelySMTMS13</key><doi>10.1109/ESEM.2013.19</doi><ee>https://doi.org/10.1109/ESEM.2013.19</ee><url>https://dblp.org/rec/conf/esem/MeneelySMTMS13</url></info>
+<url>URL#4223153</url>
+</hit>
+<hit score="1" id="4223154">
+<info><authors><author pid="139/6947">Toshiki Mori</author><author pid="139/6953">Shurei Tamura</author><author pid="139/6946">Shingo Kakui</author></authors><title>Incremental Estimation of Project Failure Risk with Naive Bayes Classifier.</title><venue>ESEM</venue><pages>283-286</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/MoriTK13</key><doi>10.1109/ESEM.2013.40</doi><ee>https://doi.org/10.1109/ESEM.2013.40</ee><url>https://dblp.org/rec/conf/esem/MoriTK13</url></info>
+<url>URL#4223154</url>
+</hit>
+<hit score="1" id="4223155">
+<info><authors><author pid="24/4066">Brendan Murphy</author><author pid="b/ChristianBird">Christian Bird</author><author pid="19/3622-1">Thomas Zimmermann 0001</author><author pid="w/LaurieAWilliams">Laurie A. Williams</author><author pid="91/1758">Nachiappan Nagappan</author><author pid="68/0">Andrew Begel</author></authors><title>Have Agile Techniques been the Silver Bullet for Software Development at Microsoft?</title><venue>ESEM</venue><pages>75-84</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/MurphyBZWNB13</key><doi>10.1109/ESEM.2013.21</doi><ee>https://doi.org/10.1109/ESEM.2013.21</ee><url>https://dblp.org/rec/conf/esem/MurphyBZWNB13</url></info>
+<url>URL#4223155</url>
+</hit>
+<hit score="1" id="4223156">
+<info><authors><author pid="79/1959">Sebastian Nanz</author><author pid="33/8170">Scott West</author><author pid="126/5144">Kaue Soares da Silveira</author><author pid="m/BertrandMeyer">Bertrand Meyer 0001</author></authors><title>Benchmarking Usability and Performance of Multicore Languages.</title><venue>ESEM</venue><pages>183-192</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/NanzWSM13</key><doi>10.1109/ESEM.2013.10</doi><ee>https://doi.org/10.1109/ESEM.2013.10</ee><url>https://dblp.org/rec/conf/esem/NanzWSM13</url></info>
+<url>URL#4223156</url>
+</hit>
+<hit score="1" id="4223157">
+<info><authors><author pid="34/2299">Cu D. Nguyen</author><author pid="71/2760">Bilha Mendelson</author><author pid="02/4975">Daniel Citron</author><author pid="20/1380">Onn Shehory</author><author pid="v/TanjaEJVos">Tanja E. J. Vos</author><author pid="48/6304">Nelly Condori-Fernández</author></authors><title>Evaluating the FITTEST Automated Testing Tools: An Industrial Case Study.</title><venue>ESEM</venue><pages>332-339</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/NguyenMCSVC13</key><doi>10.1109/ESEM.2013.61</doi><ee>https://doi.org/10.1109/ESEM.2013.61</ee><url>https://dblp.org/rec/conf/esem/NguyenMCSVC13</url></info>
+<url>URL#4223157</url>
+</hit>
+<hit score="1" id="4223158">
+<info><authors><author pid="36/2522">John Noll</author><author pid="71/8388">Dominik Seichter</author><author pid="91/4078">Sarah Beecham</author></authors><title>Can Automated Text Classification Improve Content Analysis of Software Project Data?</title><venue>ESEM</venue><pages>300-303</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/NollSB13</key><doi>10.1109/ESEM.2013.52</doi><ee>https://doi.org/10.1109/ESEM.2013.52</ee><url>https://dblp.org/rec/conf/esem/NollSB13</url></info>
+<url>URL#4223158</url>
+</hit>
+<hit score="1" id="4223159">
+<info><authors><author pid="15/10805">Frolin S. Ocariza Jr.</author><author pid="139/6958">Kartik Bajaj</author><author pid="91/5344">Karthik Pattabiraman</author><author pid="72/4471-1">Ali Mesbah 0001</author></authors><title>An Empirical Study of Client-Side JavaScript Bugs.</title><venue>ESEM</venue><pages>55-64</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/OcarizaBPM13</key><doi>10.1109/ESEM.2013.18</doi><ee>https://doi.org/10.1109/ESEM.2013.18</ee><url>https://dblp.org/rec/conf/esem/OcarizaBPM13</url></info>
+<url>URL#4223159</url>
+</hit>
+<hit score="1" id="4223160">
+<info><authors><author pid="78/10607">Carol Passos</author><author pid="14/3678">Daniela S. Cruzes</author><author pid="139/6949">Arthur Hayne</author><author pid="m/ManoelGMendonca">Manoel G. Mendonça</author></authors><title>Recommendations to the Adoption of New Software Practices: A Case Study of Team Intention and Behavior in Three Software Companies.</title><venue>ESEM</venue><pages>313-322</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/PassosCHM13</key><doi>10.1109/ESEM.2013.31</doi><ee>https://doi.org/10.1109/ESEM.2013.31</ee><url>https://dblp.org/rec/conf/esem/PassosCHM13</url></info>
+<url>URL#4223160</url>
+</hit>
+<hit score="1" id="4223161">
+<info><authors><author pid="92/3113">Birgit Penzenstadler</author><author pid="69/8522">Daniel Méndez Fernández</author><author pid="77/11109">Jonas Eckhardt</author></authors><title>Understanding the Impact of Artefact-Based RE - Design of a Replication Study.</title><venue>ESEM</venue><pages>267-270</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/PenzenstadlerFE13</key><doi>10.1109/ESEM.2013.46</doi><ee>https://doi.org/10.1109/ESEM.2013.46</ee><url>https://dblp.org/rec/conf/esem/PenzenstadlerFE13</url></info>
+<url>URL#4223161</url>
+</hit>
+<hit score="1" id="4223162">
+<info><authors><author pid="76/1903">Marco Piccioni</author><author pid="78/6422">Carlo A. Furia</author><author pid="m/BertrandMeyer">Bertrand Meyer 0001</author></authors><title>An Empirical Study of API Usability.</title><venue>ESEM</venue><pages>5-14</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/PiccioniFM13</key><doi>10.1109/ESEM.2013.14</doi><ee>https://doi.org/10.1109/ESEM.2013.14</ee><url>https://dblp.org/rec/conf/esem/PiccioniFM13</url></info>
+<url>URL#4223162</url>
+</hit>
+<hit score="1" id="4223163">
+<info><authors><author pid="p/DanielPort">Daniel Port</author><author pid="53/9190">Joel M. Wilf</author></authors><title>The Value of Certifying Software Release Readiness: An Exploratory Study of Certification for a Critical System at JPL.</title><venue>ESEM</venue><pages>373-382</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/PortW13</key><doi>10.1109/ESEM.2013.54</doi><ee>https://doi.org/10.1109/ESEM.2013.54</ee><url>https://dblp.org/rec/conf/esem/PortW13</url></info>
+<url>URL#4223163</url>
+</hit>
+<hit score="1" id="4223164">
+<info><authors><author pid="128/2872">Ronnie E. S. Santos</author><author pid="66/5081">Fabio Q. B. da Silva</author></authors><title>Motivation to Perform Systematic Reviews and their Impact on Software Engineering Practice.</title><venue>ESEM</venue><pages>292-295</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/SantosS13</key><doi>10.1109/ESEM.2013.36</doi><ee>https://doi.org/10.1109/ESEM.2013.36</ee><url>https://dblp.org/rec/conf/esem/SantosS13</url></info>
+<url>URL#4223164</url>
+</hit>
+<hit score="1" id="4223165">
+<info><authors><author pid="s/BShneiderman">Ben Shneiderman</author></authors><title>High Impact Research: Blending Basic and Applied Methods.</title><venue>ESEM</venue><pages>3</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/Shneiderman13</key><doi>10.1109/ESEM.2013.63</doi><ee>https://doi.org/10.1109/ESEM.2013.63</ee><url>https://dblp.org/rec/conf/esem/Shneiderman13</url></info>
+<url>URL#4223165</url>
+</hit>
+<hit score="1" id="4223166">
+<info><authors><author pid="66/5081">Fabio Q. B. da Silva</author><author pid="139/6951">Shirley S. J. O. Cruz</author><author pid="80/10609">Tatiana B. Gouveia</author><author pid="c/LuizFernandoCapretz">Luiz Fernando Capretz</author></authors><title>Using Meta-ethnography to Synthesize Research: A Worked Example of the Relations between Personality and Software Team Processes.</title><venue>ESEM</venue><pages>153-162</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/SilvaCGC13</key><doi>10.1109/ESEM.2013.11</doi><ee>https://doi.org/10.1109/ESEM.2013.11</ee><url>https://dblp.org/rec/conf/esem/SilvaCGC13</url></info>
+<url>URL#4223166</url>
+</hit>
+<hit score="1" id="4223167">
+<info><authors><author pid="30/4138">Darja Smite</author><author pid="14/3678">Daniela S. Cruzes</author></authors><title>Expectations and Achievements: A Longitudinal Study on an Offshoring Strategy.</title><venue>ESEM</venue><pages>123-132</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/SmiteC13</key><doi>10.1109/ESEM.2013.17</doi><ee>https://doi.org/10.1109/ESEM.2013.17</ee><url>https://dblp.org/rec/conf/esem/SmiteC13</url></info>
+<url>URL#4223167</url>
+</hit>
+<hit score="1" id="4223168">
+<info><authors><author pid="09/2658">Martín Solari</author></authors><title>Identifying Experimental Incidents in Software Engineering Replications.</title><venue>ESEM</venue><pages>213-222</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/Solari13</key><doi>10.1109/ESEM.2013.26</doi><ee>https://doi.org/10.1109/ESEM.2013.26</ee><url>https://dblp.org/rec/conf/esem/Solari13</url></info>
+<url>URL#4223168</url>
+</hit>
+<hit score="1" id="4223169">
+<info><authors><author pid="26/694">Kathryn T. Stolee</author><author pid="e/SebastianGElbaum">Sebastian G. Elbaum</author></authors><title>On the Use of Input/Output Queries for Code Search.</title><venue>ESEM</venue><pages>251-254</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/StoleeE13</key><doi>10.1109/ESEM.2013.35</doi><ee>https://doi.org/10.1109/ESEM.2013.35</ee><url>https://dblp.org/rec/conf/esem/StoleeE13</url></info>
+<url>URL#4223169</url>
+</hit>
+<hit score="1" id="4223170">
+<info><authors><author pid="78/9660">Viktoria Gulliksen Stray</author><author pid="82/11346">Yngve Lindsjørn</author><author pid="32/889">Dag I. K. Sjøberg</author></authors><title>Obstacles to Efficient Daily Meetings in Agile Development Projects: A Case Study.</title><venue>ESEM</venue><pages>95-102</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/StrayLS13</key><doi>10.1109/ESEM.2013.30</doi><ee>https://doi.org/10.1109/ESEM.2013.30</ee><url>https://dblp.org/rec/conf/esem/StrayLS13</url></info>
+<url>URL#4223170</url>
+</hit>
+<hit score="1" id="4223171">
+<info><authors><author pid="40/5782">Jeffrey Stuckman</author><author pid="139/6956">Kent Wills</author><author pid="p/JamesMPurtilo">James Purtilo</author></authors><title>Evaluating Software Product Metrics with Synthetic Defect Data.</title><venue>ESEM</venue><pages>259-262</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/StuckmanWP13</key><doi>10.1109/ESEM.2013.38</doi><ee>https://doi.org/10.1109/ESEM.2013.38</ee><url>https://dblp.org/rec/conf/esem/StuckmanWP13</url></info>
+<url>URL#4223171</url>
+</hit>
+<hit score="1" id="4223172">
+<info><authors><author pid="139/6954">Taneli Taipale</author><author pid="139/6943">Mika Qvist</author><author pid="62/1974">Burak Turhan</author></authors><title>Constructing Defect Predictors and Communicating the Outcomes to Practitioners.</title><venue>ESEM</venue><pages>357-362</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/TaipaleQT13</key><doi>10.1109/ESEM.2013.45</doi><ee>https://doi.org/10.1109/ESEM.2013.45</ee><url>https://dblp.org/rec/conf/esem/TaipaleQT13</url></info>
+<url>URL#4223172</url>
+</hit>
+<hit score="1" id="4223173">
+<info><authors><author pid="69/8557">Federico Tomassetti</author><author pid="63/2259">Marco Torchiano</author><author pid="37/8127">Antonio Vetrò</author></authors><title>Classification of Language Interactions.</title><venue>ESEM</venue><pages>287-290</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/TomassettiTV13</key><doi>10.1109/ESEM.2013.34</doi><ee>https://doi.org/10.1109/ESEM.2013.34</ee><url>https://dblp.org/rec/conf/esem/TomassettiTV13</url></info>
+<url>URL#4223173</url>
+</hit>
+<hit score="1" id="4223174">
+<info><authors><author pid="62/1974">Burak Turhan</author><author pid="w/StefanWagner1">Stefan Wagner 0001</author><author pid="55/2997">Ayse Bener</author><author pid="d/MassimilianoDiPenta">Massimiliano Di Penta</author><author pid="55/4341">Ye Yang</author></authors><title>Message from the PROMISE 2013 Chairs.</title><venue>ESEM</venue><pages>394</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/TurhanWBPY13</key><doi>10.1109/ESEM.2013.7</doi><ee>https://doi.org/10.1109/ESEM.2013.7</ee><url>https://dblp.org/rec/conf/esem/TurhanWBPY13</url></info>
+<url>URL#4223174</url>
+</hit>
+<hit score="1" id="4223175">
+<info><authors><author pid="80/9358">Varsha Veerappa</author><author pid="07/4427">Rachel Harrison</author></authors><title>An Empirical Validation of Coupling Metrics Using Automated Refactoring.</title><venue>ESEM</venue><pages>271-274</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/VeerappaH13</key><doi>10.1109/ESEM.2013.37</doi><ee>https://doi.org/10.1109/ESEM.2013.37</ee><url>https://dblp.org/rec/conf/esem/VeerappaH13</url></info>
+<url>URL#4223175</url>
+</hit>
+<hit score="1" id="4223176">
+<info><authors><author pid="w/StefanWagner1">Stefan Wagner 0001</author><author pid="69/8522">Daniel Méndez Fernández</author></authors><title>Message from the IDoESE 2013 Doctoral Symposium Chairs.</title><venue>ESEM</venue><pages>393</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/WagnerF13</key><doi>10.1109/ESEM.2013.6</doi><ee>https://doi.org/10.1109/ESEM.2013.6</ee><url>https://dblp.org/rec/conf/esem/WagnerF13</url></info>
+<url>URL#4223176</url>
+</hit>
+<hit score="1" id="4223177">
+<info><authors><author pid="62/3151-9">Song Wang 0009</author><author pid="43/2368-1">Wen Zhang 0001</author><author pid="55/4341">Ye Yang</author><author pid="97/6505-1">Qing Wang 0001</author></authors><title>DevNet: Exploring Developer Collaboration in Heterogeneous Networks of Bug Repositories.</title><venue>ESEM</venue><pages>193-202</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/WangZYW13</key><doi>10.1109/ESEM.2013.24</doi><ee>https://doi.org/10.1109/ESEM.2013.24</ee><url>https://dblp.org/rec/conf/esem/WangZYW13</url></info>
+<url>URL#4223177</url>
+</hit>
+<hit score="1" id="4223178">
+<info><authors><author pid="42/8477">Jialiang Xie</author><author pid="07/4732-1">Minghui Zhou 0001</author><author pid="79/6124">Audris Mockus</author></authors><title>Impact of Triage: A Study of Mozilla and Gnome.</title><venue>ESEM</venue><pages>247-250</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/XieZM13</key><doi>10.1109/ESEM.2013.62</doi><ee>https://doi.org/10.1109/ESEM.2013.62</ee><url>https://dblp.org/rec/conf/esem/XieZM13</url></info>
+<url>URL#4223178</url>
+</hit>
+<hit score="1" id="4223179">
+<info><authors><author pid="130/2272">Xiaozhen Xue</author><author pid="45/6830">Akbar Siami Namin</author></authors><title>How Significant is the Effect of Fault Interactions on Coverage-Based Fault Localizations?</title><venue>ESEM</venue><pages>113-122</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/XueN13</key><doi>10.1109/ESEM.2013.22</doi><ee>https://doi.org/10.1109/ESEM.2013.22</ee><url>https://dblp.org/rec/conf/esem/XueN13</url></info>
+<url>URL#4223179</url>
+</hit>
+<hit score="1" id="4335580">
+<info><title>2013 ACM / IEEE International Symposium on Empirical Software Engineering and Measurement, Baltimore, Maryland, USA, October 10-11, 2013</title><venue>ESEM</venue><publisher>IEEE Computer Society</publisher><year>2013</year><type>Editorship</type><key>conf/esem/2013</key><ee>https://ieeexplore.ieee.org/xpl/conhome/6681322/proceeding</ee><url>https://dblp.org/rec/conf/esem/2013</url></info>
+<url>URL#4335580</url>
+</hit>
+</hits>
+</result>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="230226">:facetid:toc:\"db/conf/esem/esem2023.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">0.47</time>
+<completions total="1" computed="1" sent="1">
+<c sc="38" dc="38" oc="38" id="43938318">:facetid:toc:db/conf/esem/esem2023.bht</c>
+</completions>
+<hits total="38" computed="38" sent="38" first="0">
+<hit score="1" id="404838">
+<info><authors><author pid="170/4309">Sharif Ahmed</author><author pid="232/5670">Nasir U. Eisty</author></authors><title>Exploring the Advances in Identifying Useful Code Review Comments.</title><venue>ESEM</venue><pages>1-7</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/AhmedE23</key><doi>10.1109/ESEM56168.2023.10304792</doi><ee>https://doi.org/10.1109/ESEM56168.2023.10304792</ee><url>https://dblp.org/rec/conf/esem/AhmedE23</url></info>
+<url>URL#404838</url>
+</hit>
+<hit score="1" id="404839">
+<info><authors><author pid="78/8234">Aitor Arrieta</author><author pid="283/3421">Pablo Valle</author><author pid="357/0721">Asier Iriarte</author><author pid="143/1115">Miren Illarramendi</author></authors><title>How Do Deep Learning Faults Affect AI-Enabled Cyber-Physical Systems in Operation? A Preliminary Study Based on DeepCrime Mutation Operators.</title><venue>ESEM</venue><pages>1-7</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/ArrietaVII23</key><doi>10.1109/ESEM56168.2023.10304794</doi><ee>https://doi.org/10.1109/ESEM56168.2023.10304794</ee><url>https://dblp.org/rec/conf/esem/ArrietaVII23</url></info>
+<url>URL#404839</url>
+</hit>
+<hit score="1" id="404840">
+<info><authors><author pid="221/1638">Caio Barbosa</author><author pid="199/5439">Anderson G. Uchôa</author><author pid="87/1273">Daniel Coutinho</author><author pid="90/9459">Wesley K. G. Assunção</author><author pid="206/5735">Anderson Oliveira</author><author pid="g/AlessandroFGarcia">Alessandro Garcia 0001</author><author pid="22/7095">Baldoino Fonseca</author><author pid="360/8431">Matheus Rabelo</author><author pid="360/8333">José Eric Coelho</author><author pid="360/8487">Eryka Carvalho</author><author pid="360/8458">Henrique Santos 0003</author></authors><title>Beyond the Code: Investigating the Effects of Pull Request Conversations on Design Decay.</title><venue>ESEM</venue><pages>1-12</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/BarbosaUCAOGFRCCS23</key><doi>10.1109/ESEM56168.2023.10304805</doi><ee>https://doi.org/10.1109/ESEM56168.2023.10304805</ee><url>https://dblp.org/rec/conf/esem/BarbosaUCAOGFRCCS23</url></info>
+<url>URL#404840</url>
+</hit>
+<hit score="1" id="404841">
+<info><authors><author pid="327/7370">Setu Kumar Basak</author><author pid="351/1416">Jamison Cox</author><author pid="117/3983">Bradley Reaves</author><author pid="w/LaurieAWilliams">Laurie A. Williams</author></authors><title>A Comparative Study of Software Secrets Reporting by Secret Detection Tools.</title><venue>ESEM</venue><pages>1-12</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/BasakCRW23</key><doi>10.1109/ESEM56168.2023.10304853</doi><ee>https://doi.org/10.1109/ESEM56168.2023.10304853</ee><url>https://dblp.org/rec/conf/esem/BasakCRW23</url></info>
+<url>URL#404841</url>
+</hit>
+<hit score="1" id="404842">
+<info><authors><author pid="360/8476">Mahi Begoug</author><author pid="274/6599">Narjes Bessghaier</author><author pid="73/6919-1">Ali Ouni 0001</author><author pid="243/1650">Eman Abdullah AlOmar</author><author pid="140/0883">Mohamed Wiem Mkaouer</author></authors><title>What Do Infrastructure-as-Code Practitioners Discuss: An Empirical Study on Stack Overflow.</title><venue>ESEM</venue><pages>1-12</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/BegougBOAM23</key><doi>10.1109/ESEM56168.2023.10304847</doi><ee>https://doi.org/10.1109/ESEM56168.2023.10304847</ee><url>https://dblp.org/rec/conf/esem/BegougBOAM23</url></info>
+<url>URL#404842</url>
+</hit>
+<hit score="1" id="404843">
+<info><authors><author pid="11/3536">Beatriz Bernárdez 0001</author><author pid="33/7569">José Antonio Parejo</author><author pid="258/7824">Margarita Cruz</author><author pid="13/6175">Salvador Muñoz</author><author pid="c/AntonioRuizCortes">Antonio Ruiz-Cortés</author></authors><title>On the Impact and Lessons Learned from Mindfulness Practice in a Real-World Software Company.</title><venue>ESEM</venue><pages>1-12</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/BernardezPCMR23</key><doi>10.1109/ESEM56168.2023.10304864</doi><ee>https://doi.org/10.1109/ESEM56168.2023.10304864</ee><url>https://dblp.org/rec/conf/esem/BernardezPCMR23</url></info>
+<url>URL#404843</url>
+</hit>
+<hit score="1" id="404844">
+<info><authors><author pid="276/6208">Alexander Berndt</author><author pid="94/3942">Zoltán Nochta</author><author pid="152/9554">Thomas Bach</author></authors><title>The Vocabulary of Flaky Tests in the Context of SAP HANA.</title><venue>ESEM</venue><pages>1-9</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/BerndtNB23</key><doi>10.1109/ESEM56168.2023.10304860</doi><ee>https://doi.org/10.1109/ESEM56168.2023.10304860</ee><url>https://dblp.org/rec/conf/esem/BerndtNB23</url></info>
+<url>URL#404844</url>
+</hit>
+<hit score="1" id="404845">
+<info><authors><author pid="48/5662">Fabio Calefato</author><author pid="238/0016">Luigi Quaranta</author><author pid="29/4646">Filippo Lanubile</author><author pid="38/3792">Marcos Kalinowski</author></authors><title>Assessing the Use of AutoML for Data-Driven Software Engineering.</title><venue>ESEM</venue><pages>1-12</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/CalefatoQLK23</key><doi>10.1109/ESEM56168.2023.10304796</doi><ee>https://doi.org/10.1109/ESEM56168.2023.10304796</ee><url>https://dblp.org/rec/conf/esem/CalefatoQLK23</url></info>
+<url>URL#404845</url>
+</hit>
+<hit score="1" id="404846">
+<info><authors><author pid="347/9437">Joel Castaño</author><author pid="124/8870">Silverio Martínez-Fernández</author><author pid="f/XavierFranch">Xavier Franch</author><author pid="178/2147">Justus Bogner</author></authors><title>Exploring the Carbon Footprint of Hugging Face&apos;s ML Models: A Repository Mining Study.</title><venue>ESEM</venue><pages>1-12</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/CastanoMFB23</key><doi>10.1109/ESEM56168.2023.10304801</doi><ee>https://doi.org/10.1109/ESEM56168.2023.10304801</ee><url>https://dblp.org/rec/conf/esem/CastanoMFB23</url></info>
+<url>URL#404846</url>
+</hit>
+<hit score="1" id="404847">
+<info><authors><author pid="352/5300">Joshua Aldrich Edbert</author><author pid="263/3370">Shahrima Jannat Oishwee</author><author pid="328/8766">Shubhashis Karmakar</author><author pid="150/3264">Zadia Codabux</author><author pid="210/6216">Roberto Verdecchia</author></authors><title>Exploring Technical Debt in Security Questions on Stack Overflow.</title><venue>ESEM</venue><pages>1-12</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/EdbertOKCV23</key><doi>10.1109/ESEM56168.2023.10304868</doi><ee>https://doi.org/10.1109/ESEM56168.2023.10304868</ee><url>https://dblp.org/rec/conf/esem/EdbertOKCV23</url></info>
+<url>URL#404847</url>
+</hit>
+<hit score="1" id="404848">
+<info><authors><author pid="269/4771">Max Hort</author><author pid="276/7353">Anastasiia Grishina</author><author pid="m/LeonMoonen">Leon Moonen</author></authors><title>An Exploratory Literature Study on Sharing and Energy Use of Language Models for Source Code.</title><venue>ESEM</venue><pages>1-12</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/HortGM23</key><doi>10.1109/ESEM56168.2023.10304803</doi><ee>https://doi.org/10.1109/ESEM56168.2023.10304803</ee><url>https://dblp.org/rec/conf/esem/HortGM23</url></info>
+<url>URL#404848</url>
+</hit>
+<hit score="1" id="404849">
+<info><authors><author pid="169/6129">Oliver Karras</author><author pid="350/4966">Felix Wernlein</author><author pid="184/6405">Jil Klünder</author><author pid="05/6406">Sören Auer</author></authors><title>Divide and Conquer the EmpiRE: A Community-Maintainable Knowledge Graph of Empirical Research in Requirements Engineering.</title><venue>ESEM</venue><pages>1-12</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/KarrasWKA23</key><doi>10.1109/ESEM56168.2023.10304795</doi><ee>https://doi.org/10.1109/ESEM56168.2023.10304795</ee><url>https://dblp.org/rec/conf/esem/KarrasWKA23</url></info>
+<url>URL#404849</url>
+</hit>
+<hit score="1" id="404850">
+<info><authors><author pid="47/3099">Jingyue Li</author><author pid="27/5428">Per Håkon Meland</author><author pid="259/0937">Jakob Svennevik Notland</author><author pid="357/1957">André Storhaug</author><author pid="357/1651">Jostein Hjortland Tysse</author></authors><title>Evaluating the Impact of ChatGPT on Exercises of a Software Security Course.</title><venue>ESEM</venue><pages>1-6</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/LiMNST23</key><doi>10.1109/ESEM56168.2023.10304857</doi><ee>https://doi.org/10.1109/ESEM56168.2023.10304857</ee><url>https://dblp.org/rec/conf/esem/LiMNST23</url></info>
+<url>URL#404850</url>
+</hit>
+<hit score="1" id="404851">
+<info><authors><author pid="26/10201">Zengyang Li</author><author pid="166/3792">Wenshuo Wang</author><author pid="45/9063">Sicheng Wang</author><author pid="57/3505-1">Peng Liang 0001</author><author pid="150/3125">Ran Mo</author></authors><title>Understanding Resolution of Multi-Language Bugs: An Empirical Study on Apache Projects.</title><venue>ESEM</venue><pages>1-11</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/LiWWLM23</key><doi>10.1109/ESEM56168.2023.10304793</doi><ee>https://doi.org/10.1109/ESEM56168.2023.10304793</ee><url>https://dblp.org/rec/conf/esem/LiWWLM23</url></info>
+<url>URL#404851</url>
+</hit>
+<hit score="1" id="404852">
+<info><authors><author pid="07/7910">Chenglin Li</author><author pid="122/0269">Yangyang Zhao</author><author pid="138/0251">Yibiao Yang</author><author pid="06/3406">Yuming Zhou</author><author pid="130/3498">Liming Nie</author><author pid="75/157">Zuohua Ding</author></authors><title>Investigating the Impact of Bug Dependencies on Bug-Fixing Time Prediction.</title><venue>ESEM</venue><pages>1-12</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/LiZYZND23</key><doi>10.1109/ESEM56168.2023.10304804</doi><ee>https://doi.org/10.1109/ESEM56168.2023.10304804</ee><url>https://dblp.org/rec/conf/esem/LiZYZND23</url></info>
+<url>URL#404852</url>
+</hit>
+<hit score="1" id="404853">
+<info><authors><author pid="318/2909">Addi Malviya-Thakur</author><author pid="79/6124">Audris Mockus</author><author pid="132/9368">Russell Zaretzki</author><author pid="132/0187">Bogdan C. Bichescu</author><author pid="90/6318">Randy V. Bradley</author></authors><title>How R Developers explain their Package Choice: A Survey.</title><venue>ESEM</venue><pages>1-12</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/MalviyaThakurMZBB23</key><doi>10.1109/ESEM56168.2023.10304869</doi><ee>https://doi.org/10.1109/ESEM56168.2023.10304869</ee><url>https://dblp.org/rec/conf/esem/MalviyaThakurMZBB23</url></info>
+<url>URL#404853</url>
+</hit>
+<hit score="1" id="404854">
+<info><authors><author pid="233/8405">Leandro de Almeida Melo</author><author pid="29/7640">Cleidson R. B. de Souza</author><author pid="167/2594">Marcelo Gattermann Perin</author><author pid="277/0406">Any Caroliny Duarte Batista de Almeida</author><author pid="27/902">Fernando Figueira Filho</author></authors><title>All For One and One For All: Investigating How Global Game Jam Participants Get and Offer Help.</title><venue>ESEM</venue><pages>1-12</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/MeloSPBF23</key><doi>10.1109/ESEM56168.2023.10304790</doi><ee>https://doi.org/10.1109/ESEM56168.2023.10304790</ee><url>https://dblp.org/rec/conf/esem/MeloSPBF23</url></info>
+<url>URL#404854</url>
+</hit>
+<hit score="1" id="404855">
+<info><authors><author pid="253/1149">Sushant Kumar Pandey</author><author pid="16/5647">Miroslaw Staron</author><author pid="92/5983">Jennifer Horkoff</author><author pid="39/2146">Miroslaw Ochodek</author><author pid="360/8499">Nicholas Mucci</author><author pid="128/3213">Darko Durisic</author></authors><title>TransDPR: Design Pattern Recognition Using Programming Language Models.</title><venue>ESEM</venue><pages>1-7</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/PandeySHOMD23</key><doi>10.1109/ESEM56168.2023.10304862</doi><ee>https://doi.org/10.1109/ESEM56168.2023.10304862</ee><url>https://dblp.org/rec/conf/esem/PandeySHOMD23</url></info>
+<url>URL#404855</url>
+</hit>
+<hit score="1" id="404856">
+<info><authors><author pid="360/8261">Dong Seon Park</author><author pid="360/8471">Ji Young Noh</author></authors><title>The Effect of Sprint Duration to the Velocity in a Large-Scale Embedded Software Project.</title><venue>ESEM</venue><pages>1-5</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/ParkN23</key><doi>10.1109/ESEM56168.2023.10304859</doi><ee>https://doi.org/10.1109/ESEM56168.2023.10304859</ee><url>https://dblp.org/rec/conf/esem/ParkN23</url></info>
+<url>URL#404856</url>
+</hit>
+<hit score="1" id="404857">
+<info><authors><author pid="360/8076">Stefan Reijenga</author><author pid="229/9030">Kousar Aslam</author><author pid="77/10481">Emitzá Guzmán</author></authors><title>Whistleblowing in the Software Industry: a Survey.</title><venue>ESEM</venue><pages>1-12</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/ReijengaAG23</key><doi>10.1109/ESEM56168.2023.10304802</doi><ee>https://doi.org/10.1109/ESEM56168.2023.10304802</ee><url>https://dblp.org/rec/conf/esem/ReijengaAG23</url></info>
+<url>URL#404857</url>
+</hit>
+<hit score="1" id="404858">
+<info><authors><author pid="360/8258">Irina Safonova</author><author pid="86/1975">Maria Paasivaara</author><author pid="28/3392">Casper Lassenius</author><author pid="188/4709">Ömer Uludag</author><author pid="223/3233">Abheeshta Putta</author></authors><title>Experienced Challenges of Adopting Agile Scaling Frameworks.</title><venue>ESEM</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/SafonovaPLUP23</key><doi>10.1109/ESEM56168.2023.10304858</doi><ee>https://doi.org/10.1109/ESEM56168.2023.10304858</ee><url>https://dblp.org/rec/conf/esem/SafonovaPLUP23</url></info>
+<url>URL#404858</url>
+</hit>
+<hit score="1" id="404859">
+<info><authors><author pid="128/2872">Ronnie Edson de Souza Santos</author><author pid="350/4249">Luiz Fernando de Lima</author><author pid="128/2725">Cleyton V. C. de Magalhães</author></authors><title>The Perspective of Software Professionals on Algorithmic Racism.</title><venue>ESEM</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/SantosLM23</key><doi>10.1109/ESEM56168.2023.10304856</doi><ee>https://doi.org/10.1109/ESEM56168.2023.10304856</ee><url>https://dblp.org/rec/conf/esem/SantosLM23</url></info>
+<url>URL#404859</url>
+</hit>
+<hit score="1" id="404860">
+<info><authors><author pid="30/8384">Juliana Saraiva</author><author pid="58/232">Sérgio Soares</author></authors><title>Privacy and Security Documents for Agile Software Engineering: An Experiment of LGPD Inventory Adoption.</title><venue>ESEM</venue><pages>1-9</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/SaraivaS23</key><doi>10.1109/ESEM56168.2023.10304806</doi><ee>https://doi.org/10.1109/ESEM56168.2023.10304806</ee><url>https://dblp.org/rec/conf/esem/SaraivaS23</url></info>
+<url>URL#404860</url>
+</hit>
+<hit score="1" id="404861">
+<info><authors><author pid="272/9859">Orvila Sarker</author><author pid="136/9482">Sherif Haggag</author><author pid="164/7182">Asangi Jayatilaka</author><author pid="360/8401">Chelsea Liu</author></authors><title>Personalized Guidelines for Design, Implementation and Evaluation of Anti-Phishing Interventions.</title><venue>ESEM</venue><pages>1-12</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/SarkerHJL23</key><doi>10.1109/ESEM56168.2023.10304861</doi><ee>https://doi.org/10.1109/ESEM56168.2023.10304861</ee><url>https://dblp.org/rec/conf/esem/SarkerHJL23</url></info>
+<url>URL#404861</url>
+</hit>
+<hit score="1" id="404862">
+<info><authors><author pid="274/7065">Jaydeb Sarker</author><author pid="264/7972">Sayma Sultana</author><author pid="163/6279">Steven R. Wilson 0001</author><author pid="18/11159">Amiangshu Bosu</author></authors><title>ToxiSpanSE: An Explainable Toxicity Detection in Code Review Comments.</title><venue>ESEM</venue><pages>1-12</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/SarkerSWB23</key><doi>10.1109/ESEM56168.2023.10304855</doi><ee>https://doi.org/10.1109/ESEM56168.2023.10304855</ee><url>https://dblp.org/rec/conf/esem/SarkerSWB23</url></info>
+<url>URL#404862</url>
+</hit>
+<hit score="1" id="404863">
+<info><authors><author pid="226/0135">Sohil Lal Shrestha</author><author pid="193/1453">Shafiul Azam Chowdhury</author><author pid="44/5831">Christoph Csallner</author></authors><title>Replicability Study: Corpora For Understanding Simulink Models &amp; Projects.</title><venue>ESEM</venue><pages>1-12</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/ShresthaCC23</key><doi>10.1109/ESEM56168.2023.10304867</doi><ee>https://doi.org/10.1109/ESEM56168.2023.10304867</ee><url>https://dblp.org/rec/conf/esem/ShresthaCC23</url></info>
+<url>URL#404863</url>
+</hit>
+<hit score="1" id="404864">
+<info><authors><author pid="351/1542">Gustavo da Silva</author><author pid="128/2872">Ronnie Edson de Souza Santos</author></authors><title>Comparing Mobile Testing Tools Using Documentary Analysis.</title><venue>ESEM</venue><pages>1-6</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/SilvaS23</key><doi>10.1109/ESEM56168.2023.10304798</doi><ee>https://doi.org/10.1109/ESEM56168.2023.10304798</ee><url>https://dblp.org/rec/conf/esem/SilvaS23</url></info>
+<url>URL#404864</url>
+</hit>
+<hit score="1" id="404865">
+<info><authors><author pid="54/7570">Elvys Soares</author><author pid="329/6771">Manoel Aranda III</author><author pid="338/4852">Naelson Oliveira</author><author pid="r/MarcioRibeiro">Márcio Ribeiro 0001</author><author pid="10/3240">Rohit Gheyi</author><author pid="354/6111">Emerson Souza</author><author pid="33/9369">Ivan Machado</author><author pid="s/AndreSantos">André L. M. Santos</author><author pid="22/7095">Baldoino Fonseca</author><author pid="21/824">Rodrigo Bonifácio</author></authors><title>Manual Tests Do Smell! Cataloging and Identifying Natural Language Test Smells.</title><venue>ESEM</venue><pages>1-11</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/SoaresAORGSMSFB23</key><doi>10.1109/ESEM56168.2023.10304800</doi><ee>https://doi.org/10.1109/ESEM56168.2023.10304800</ee><url>https://dblp.org/rec/conf/esem/SoaresAORGSMSFB23</url></info>
+<url>URL#404865</url>
+</hit>
+<hit score="1" id="404866">
+<info><authors><author pid="277/6566">Anastasiia Tkalich</author><author pid="26/6303">Nils Brede Moe</author><author pid="327/7603">Nina Haugland Andersen</author><author pid="78/9660">Viktoria Stray</author><author pid="347/7785">Astri Moksnes Barbala</author></authors><title>Pair Programming Practiced in Hybrid Work.</title><venue>ESEM</venue><pages>1-7</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/TkalichMASB23</key><doi>10.1109/ESEM56168.2023.10304797</doi><ee>https://doi.org/10.1109/ESEM56168.2023.10304797</ee><url>https://dblp.org/rec/conf/esem/TkalichMASB23</url></info>
+<url>URL#404866</url>
+</hit>
+<hit score="1" id="404867">
+<info><authors><author pid="274/6992">Asif Kamal Turzo</author><author pid="352/3217">Fahim Faysal</author><author pid="352/2840">Ovi Poddar</author><author pid="274/7065">Jaydeb Sarker</author><author pid="98/7632">Anindya Iqbal</author><author pid="18/11159">Amiangshu Bosu</author></authors><title>Towards Automated Classification of Code Review Feedback to Support Analytics.</title><venue>ESEM</venue><pages>1-12</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/TurzoFPSIB23</key><doi>10.1109/ESEM56168.2023.10304851</doi><ee>https://doi.org/10.1109/ESEM56168.2023.10304851</ee><url>https://dblp.org/rec/conf/esem/TurzoFPSIB23</url></info>
+<url>URL#404867</url>
+</hit>
+<hit score="1" id="404868">
+<info><authors><author pid="99/2479-1">Xiaofeng Wang 0001</author><author pid="128/3240">Henry Edison</author><author pid="172/0007">Dron Khanna</author><author pid="207/1553">Usman Rafiq</author></authors><title>How Many Papers Should You Review? A Research Synthesis of Systematic Literature Reviews in Software Engineering.</title><venue>ESEM</venue><pages>1-6</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/WangEKR23</key><doi>10.1109/ESEM56168.2023.10304863</doi><ee>https://doi.org/10.1109/ESEM56168.2023.10304863</ee><url>https://dblp.org/rec/conf/esem/WangEKR23</url></info>
+<url>URL#404868</url>
+</hit>
+<hit score="1" id="404869">
+<info><authors><author pid="11/7449">Yawen Wang</author><author pid="14/1915-1">Junjie Wang 0001</author><author pid="29/2726">Hongyu Zhang</author><author pid="261/1842">Kairui Wang</author><author pid="97/6505-1">Qing Wang 0001</author></authors><title>What are Pros and Cons? Stance Detection and Summarization on Feature Request.</title><venue>ESEM</venue><pages>1-12</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/WangWZWW23</key><doi>10.1109/ESEM56168.2023.10304865</doi><ee>https://doi.org/10.1109/ESEM56168.2023.10304865</ee><url>https://dblp.org/rec/conf/esem/WangWZWW23</url></info>
+<url>URL#404869</url>
+</hit>
+<hit score="1" id="404870">
+<info><authors><author pid="360/8151">Dingbang Wang</author><author pid="57/2056">Yu Zhao</author><author pid="78/5386-1">Lu Xiao 0001</author><author pid="51/8403">Tingting Yu</author></authors><title>An Empirical Study of Regression Testing for Android Apps in Continuous Integration Environment.</title><venue>ESEM</venue><pages>1-11</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/WangZXY23</key><doi>10.1109/ESEM56168.2023.10304799</doi><ee>https://doi.org/10.1109/ESEM56168.2023.10304799</ee><url>https://dblp.org/rec/conf/esem/WangZXY23</url></info>
+<url>URL#404870</url>
+</hit>
+<hit score="1" id="404871">
+<info><authors><author pid="15/1926">Jiaxin Yu</author><author pid="88/10522">Liming Fu</author><author pid="57/3505-1">Peng Liang 0001</author><author pid="29/11095">Amjed Tahir</author><author pid="13/7475">Mojtaba Shahin</author></authors><title>Security Defect Detection via Code Review: A Study of the OpenStack and Qt Communities.</title><venue>ESEM</venue><pages>1-12</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/YuFLTS23</key><doi>10.1109/ESEM56168.2023.10304852</doi><ee>https://doi.org/10.1109/ESEM56168.2023.10304852</ee><url>https://dblp.org/rec/conf/esem/YuFLTS23</url></info>
+<url>URL#404871</url>
+</hit>
+<hit score="1" id="404872">
+<info><authors><author pid="324/6402">Yueke Zhang</author><author pid="133/3698">Kevin Leach</author><author pid="39/6301-15">Yu Huang 0015</author></authors><title>Leveraging Evidence Theory to Improve Fault Localization: An Exploratory Study.</title><venue>ESEM</venue><pages>1-12</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/ZhangLH23</key><doi>10.1109/ESEM56168.2023.10304791</doi><ee>https://doi.org/10.1109/ESEM56168.2023.10304791</ee><url>https://dblp.org/rec/conf/esem/ZhangLH23</url></info>
+<url>URL#404872</url>
+</hit>
+<hit score="1" id="404873">
+<info><authors><author pid="97/8704-78">Lei Zhang 0078</author><author pid="339/7352">Mahsa Radnejad</author><author pid="08/4221">Andriy V. Miranskyy</author></authors><title>Identifying Flakiness in Quantum Programs.</title><venue>ESEM</venue><pages>1-7</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/ZhangRM23</key><doi>10.1109/ESEM56168.2023.10304850</doi><ee>https://doi.org/10.1109/ESEM56168.2023.10304850</ee><url>https://dblp.org/rec/conf/esem/ZhangRM23</url></info>
+<url>URL#404873</url>
+</hit>
+<hit score="1" id="404874">
+<info><authors><author pid="297/2168">Tahereh Zohdinasab</author><author pid="177/1943">Vincenzo Riccio</author><author pid="54/2734">Paolo Tonella</author></authors><title>An Empirical Study on Low- and High-Level Explanations of Deep Learning Misbehaviours.</title><venue>ESEM</venue><pages>1-11</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/esem/ZohdinasabRT23</key><doi>10.1109/ESEM56168.2023.10304866</doi><ee>https://doi.org/10.1109/ESEM56168.2023.10304866</ee><url>https://dblp.org/rec/conf/esem/ZohdinasabRT23</url></info>
+<url>URL#404874</url>
+</hit>
+<hit score="1" id="538903">
+<info><title>ACM/IEEE International Symposium on Empirical Software Engineering and Measurement, ESEM 2023, New Orleans, LA, USA, October 26-27, 2023</title><venue>ESEM</venue><publisher>IEEE</publisher><year>2023</year><type>Editorship</type><key>conf/esem/2023</key><doi>10.1109/ESEM56168.2023</doi><ee>https://doi.org/10.1109/ESEM56168.2023</ee><url>https://dblp.org/rec/conf/esem/2023</url></info>
+<url>URL#538903</url>
+</hit>
+</hits>
+</result>

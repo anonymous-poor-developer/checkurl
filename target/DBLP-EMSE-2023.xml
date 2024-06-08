@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="82899">:facetid:toc:\"db/journals/ese/ese28.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">1.63</time>
+<completions total="1" computed="1" sent="1">
+<c sc="153" dc="153" oc="153" id="44049487">:facetid:toc:db/journals/ese/ese28.bht</c>
+</completions>
+<hits total="153" computed="153" sent="153" first="0">
+<hit score="1" id="210943">
+<info><authors><author pid="166/5882">Ibtissam Abnane</author><author pid="97/377">Ali Idri</author><author pid="214/8065">Imane Chlioui</author><author pid="38/3673">Alain Abran</author></authors><title>Evaluating ensemble imputation in software effort estimation.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>2</number><pages>56</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/AbnaneICA23</key><doi>10.1007/S10664-022-10260-0</doi><ee>https://doi.org/10.1007/s10664-022-10260-0</ee><url>https://dblp.org/rec/journals/ese/AbnaneICA23</url></info>
+<url>URL#210943</url>
+</hit>
+<hit score="1" id="210944">
+<info><authors><author pid="302/4398">Amin Eslami Abyane</author><author pid="203/9320">Derui Zhu</author><author pid="123/7716">Roberto Souza 0001</author><author pid="20/6534-3">Lei Ma 0003</author><author pid="92/4860">Hadi Hemmati</author></authors><title>Towards understanding quality challenges of the federated learning for neural networks: a first look from the lens of robustness.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>2</number><pages>44</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/AbyaneZSMH23</key><doi>10.1007/S10664-022-10262-Y</doi><ee>https://doi.org/10.1007/s10664-022-10262-y</ee><url>https://dblp.org/rec/journals/ese/AbyaneZSMH23</url></info>
+<url>URL#210944</url>
+</hit>
+<hit score="1" id="210945">
+<info><authors><author pid="210/1470">Emad Aghayi</author><author pid="31/3605">Thomas D. LaToza</author></authors><title>A controlled experiment on the impact of microtasking on programming.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>1</number><pages>10</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/AghayiL23</key><doi>10.1007/S10664-022-10226-2</doi><ee>https://doi.org/10.1007/s10664-022-10226-2</ee><url>https://dblp.org/rec/journals/ese/AghayiL23</url></info>
+<url>URL#210945</url>
+</hit>
+<hit score="1" id="210946">
+<info><authors><author pid="336/6281">Roozbeh Aghili</author><author pid="02/3672-7">Heng Li 0007</author><author pid="32/147">Foutse Khomh</author></authors><title>Studying the characteristics of AIOps projects on GitHub.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>6</number><pages>143</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/AghiliLK23</key><doi>10.1007/S10664-023-10382-Z</doi><ee>https://doi.org/10.1007/s10664-023-10382-z</ee><url>https://dblp.org/rec/journals/ese/AghiliLK23</url></info>
+<url>URL#210946</url>
+</hit>
+<hit score="1" id="210947">
+<info><authors><author pid="241/9316">Abdulaziz Alaboudi</author><author pid="31/3605">Thomas D. LaToza</author></authors><title>What constitutes debugging? An exploratory study of debugging episodes.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>5</number><pages>117</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/AlaboudiL23</key><doi>10.1007/S10664-023-10352-5</doi><ee>https://doi.org/10.1007/s10664-023-10352-5</ee><url>https://dblp.org/rec/journals/ese/AlaboudiL23</url></info>
+<url>URL#210947</url>
+</hit>
+<hit score="1" id="210948">
+<info><authors><author pid="218/7779">Md. Abdullah Al Alamin</author><author pid="49/4012">Gias Uddin 0001</author><author pid="288/1044">Sanjay Malakar</author><author pid="29/7562">Sadia Afroz</author><author pid="288/0920">Tameem Bin Haider</author><author pid="98/7632">Anindya Iqbal</author></authors><title>Developer discussion topics on the adoption and barriers of low code software development platforms.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>1</number><pages>4</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/AlaminUMAHI23</key><doi>10.1007/S10664-022-10244-0</doi><ee>https://doi.org/10.1007/s10664-022-10244-0</ee><url>https://dblp.org/rec/journals/ese/AlaminUMAHI23</url></info>
+<url>URL#210948</url>
+</hit>
+<hit score="1" id="210949">
+<info><authors><author pid="221/9137">Amal Alazba</author><author pid="02/2893">Hamoud Aljamaan</author><author pid="51/821">Mohammad R. Alshayeb</author></authors><title>Deep learning approaches for bad smell detection: a systematic literature review.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>3</number><pages>77</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/AlazbaAA23</key><doi>10.1007/S10664-023-10312-Z</doi><ee>https://doi.org/10.1007/s10664-023-10312-z</ee><url>https://dblp.org/rec/journals/ese/AlazbaAA23</url></info>
+<url>URL#210949</url>
+</hit>
+<hit score="1" id="210950">
+<info><authors><author pid="272/9685">Mahmoud Alfadel</author><author pid="01/11078-1">Diego Elias Costa</author><author pid="05/5996">Emad Shihab</author></authors><title>Empirical analysis of security vulnerabilities in Python packages.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>3</number><pages>59</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/AlfadelCS23</key><doi>10.1007/S10664-022-10278-4</doi><ee>https://doi.org/10.1007/s10664-022-10278-4</ee><url>https://dblp.org/rec/journals/ese/AlfadelCS23</url></info>
+<url>URL#210950</url>
+</hit>
+<hit score="1" id="210951">
+<info><authors><author pid="200/2863">Reem Alfayez</author><author pid="324/3821">Yunyan Ding</author><author pid="152/8128">Robert Winn</author><author pid="324/3620">Ghaida Alfayez</author><author pid="339/0295">Christopher Harman</author><author pid="b/BarryWBoehm">Barry W. Boehm</author></authors><title>What is asked about technical debt (TD) on Stack Exchange question-and-answer (Q&amp;A) websites? An observational study.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>2</number><pages>35</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/AlfayezDWAHB23</key><doi>10.1007/S10664-022-10269-5</doi><ee>https://doi.org/10.1007/s10664-022-10269-5</ee><url>https://dblp.org/rec/journals/ese/AlfayezDWAHB23</url></info>
+<url>URL#210951</url>
+</hit>
+<hit score="1" id="210952">
+<info><authors><author pid="21/5939">Hirohisa Aman</author><author pid="87/4954">Sousuke Amasaki</author><author pid="30/4670">Tomoyuki Yokogawa</author><author pid="39/1005">Minoru Kawahara</author></authors><title>An automated detection of confusing variable pairs with highly similar compound names in Java and Python programs.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>5</number><pages>108</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/AmanAYK23</key><doi>10.1007/S10664-023-10339-2</doi><ee>https://doi.org/10.1007/s10664-023-10339-2</ee><url>https://dblp.org/rec/journals/ese/AmanAYK23</url></info>
+<url>URL#210952</url>
+</hit>
+<hit score="1" id="210953">
+<info><authors><author pid="160/1958">Deeksha M. Arya</author><author pid="73/4155-4">Jin L. C. Guo</author><author pid="r/MartinPRobillard">Martin P. Robillard</author></authors><title>How programmers find online learning resources.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>1</number><pages>23</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/AryaGR23</key><doi>10.1007/S10664-022-10246-Y</doi><ee>https://doi.org/10.1007/s10664-022-10246-y</ee><url>https://dblp.org/rec/journals/ese/AryaGR23</url></info>
+<url>URL#210953</url>
+</hit>
+<hit score="1" id="210954">
+<info><authors><author pid="318/1376">Owura Asare</author><author pid="27/2828">Meiyappan Nagappan</author><author pid="39/2508">N. Asokan</author></authors><title>Is GitHub&apos;s Copilot as bad as humans at introducing vulnerabilities in code?</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>6</number><pages>129</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/AsareNA23</key><doi>10.1007/S10664-023-10380-1</doi><ee>https://doi.org/10.1007/s10664-023-10380-1</ee><url>https://dblp.org/rec/journals/ese/AsareNA23</url></info>
+<url>URL#210954</url>
+</hit>
+<hit score="1" id="210955">
+<info><authors><author pid="256/2386">Noppadol Assavakamhaenghan</author><author pid="238/5682">Supatsara Wattanakriengkrai</author><author pid="289/7552">Naomichi Shimada</author><author pid="64/7675">Raula Gaikovina Kula</author><author pid="66/39">Takashi Ishio</author><author pid="73/942">Kenichi Matsumoto</author></authors><title>Does the first response matter for future contributions? A study of first contributions.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>3</number><pages>75</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/AssavakamhaenghanWSKIM23</key><doi>10.1007/S10664-023-10299-7</doi><ee>https://doi.org/10.1007/s10664-023-10299-7</ee><url>https://dblp.org/rec/journals/ese/AssavakamhaenghanWSKIM23</url></info>
+<url>URL#210955</url>
+</hit>
+<hit score="1" id="210956">
+<info><authors><author pid="274/8002">Hamdy Michael Ayas</author><author pid="03/5268">Philipp Leitner 0001</author><author pid="63/9280">Regina Hebig</author></authors><title>An empirical study of the systemic and technical migration towards microservices.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>4</number><pages>85</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/Ayas0H23</key><doi>10.1007/S10664-023-10308-9</doi><ee>https://doi.org/10.1007/s10664-023-10308-9</ee><url>https://dblp.org/rec/journals/ese/Ayas0H23</url></info>
+<url>URL#210956</url>
+</hit>
+<hit score="1" id="210957">
+<info><authors><author pid="223/4263">João Helis Bernardo</author><author pid="117/5533">Daniel Alencar da Costa</author><author pid="78/6010">Uirá Kulesza</author><author pid="29/1074">Christoph Treude</author></authors><title>The impact of a continuous integration service on the delivery time of merged pull requests.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>4</number><pages>97</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/BernardoCKT23</key><doi>10.1007/S10664-023-10327-6</doi><ee>https://doi.org/10.1007/s10664-023-10327-6</ee><url>https://dblp.org/rec/journals/ese/BernardoCKT23</url></info>
+<url>URL#210957</url>
+</hit>
+<hit score="1" id="210958">
+<info><authors><author pid="234/8122">Marthe Nordengen Berntzen</author><author pid="78/9660">Viktoria Stray</author><author pid="26/6303">Nils Brede Moe</author><author pid="33/4346">Rashina Hoda</author></authors><title>Responding to change over time: A longitudinal case study on changes in coordination mechanisms in large-scale agile.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>5</number><pages>114</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/BerntzenSMH23</key><doi>10.1007/S10664-023-10349-0</doi><ee>https://doi.org/10.1007/s10664-023-10349-0</ee><url>https://dblp.org/rec/journals/ese/BerntzenSMH23</url></info>
+<url>URL#210958</url>
+</hit>
+<hit score="1" id="210959">
+<info><authors><author pid="314/2389">Aaditya Bhatia</author><author pid="177/0479">Ellis E. Eghan</author><author pid="254/6217">Manel Grichi</author><author pid="317/1253">William G. Cavanagh</author><author pid="50/23">Zhen Ming (Jack) Jiang</author><author pid="98/6356">Bram Adams</author></authors><title>Towards a change taxonomy for machine learning pipelines.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>3</number><pages>60</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/BhatiaEGCJA23</key><doi>10.1007/S10664-022-10282-8</doi><ee>https://doi.org/10.1007/s10664-022-10282-8</ee><url>https://dblp.org/rec/journals/ese/BhatiaEGCJA23</url></info>
+<url>URL#210959</url>
+</hit>
+<hit score="1" id="210960">
+<info><authors><author pid="298/1159">Christian Birchler</author><author pid="298/1109">Sajad Khatiri</author><author pid="274/8183">Bill Bosshard</author><author pid="50/5924">Alessio Gambi</author><author pid="37/7547">Sebastiano Panichella</author></authors><title>Machine learning-based test selection for simulation-based testing of self-driving cars software.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>3</number><pages>71</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/BirchlerKBGP23</key><doi>10.1007/S10664-023-10286-Y</doi><ee>https://doi.org/10.1007/s10664-023-10286-y</ee><url>https://dblp.org/rec/journals/ese/BirchlerKBGP23</url></info>
+<url>URL#210960</url>
+</hit>
+<hit score="1" id="210961">
+<info><authors><author pid="19/1459">Elizabeth Bjarnason</author><author pid="309/0335">Patrik Åberg</author><author pid="37/10608">Nauman Bin Ali</author></authors><title>Software selection in large-scale software engineering: A model and criteria based on interactive rapid reviews.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>2</number><pages>51</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/BjarnasonAA23</key><doi>10.1007/S10664-023-10288-W</doi><ee>https://doi.org/10.1007/s10664-023-10288-w</ee><url>https://dblp.org/rec/journals/ese/BjarnasonAA23</url></info>
+<url>URL#210961</url>
+</hit>
+<hit score="1" id="210962">
+<info><authors><author pid="19/1459">Elizabeth Bjarnason</author><author pid="303/4756">Franz Lang</author><author pid="303/4973">Alexander Mjöberg</author></authors><title>An empirically based model of software prototyping: a mapping study and a multi-case study.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>5</number><pages>115</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/BjarnasonLM23</key><doi>10.1007/S10664-023-10331-W</doi><ee>https://doi.org/10.1007/s10664-023-10331-w</ee><url>https://dblp.org/rec/journals/ese/BjarnasonLM23</url></info>
+<url>URL#210962</url>
+</hit>
+<hit score="1" id="210963">
+<info><authors><author pid="50/10438">Kelly Blincoe</author><author pid="52/6482">Zhenchang Xing</author></authors><title>Preface to the Special issue on the 36th IEEE International Conference on Software Maintenance and Evolution (ICSME 2020).</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>3</number><pages>57</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/BlincoeX23</key><doi>10.1007/S10664-022-10268-6</doi><ee>https://doi.org/10.1007/s10664-022-10268-6</ee><url>https://dblp.org/rec/journals/ese/BlincoeX23</url></info>
+<url>URL#210963</url>
+</hit>
+<hit score="1" id="210964">
+<info><authors><author pid="178/2147">Justus Bogner</author><author pid="191/2184">Sebastian Kotstein</author><author pid="347/2277">Timo Pfaff</author></authors><title>Do RESTful API design rules have an impact on the understandability of Web APIs?</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>6</number><pages>132</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/BognerKP23</key><doi>10.1007/S10664-023-10367-Y</doi><ee>https://doi.org/10.1007/s10664-023-10367-y</ee><url>https://dblp.org/rec/journals/ese/BognerKP23</url></info>
+<url>URL#210964</url>
+</hit>
+<hit score="1" id="210965">
+<info><authors><author pid="b/JBorstler">Jürgen Börstler</author><author pid="166/2603">Kwabena Ebo Bennin</author><author pid="91/4520">Sara Hooshangi</author><author pid="j/JohanJeuring">Johan Jeuring</author><author pid="164/5260">Hieke Keuning</author><author pid="54/5424">Carsten Kleiner</author><author pid="68/1512">Bonnie K. MacKellar</author><author pid="201/4491">Rodrigo Duran 0001</author><author pid="39/5044">Harald Störrle</author><author pid="98/11176">Daniel Toll</author><author pid="202/1250">Jelle van Assema</author></authors><title>Developers talking about code quality.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>6</number><pages>128</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/BorstlerBHJKKMDSTA23</key><doi>10.1007/S10664-023-10381-0</doi><ee>https://doi.org/10.1007/s10664-023-10381-0</ee><url>https://dblp.org/rec/journals/ese/BorstlerBHJKKMDSTA23</url></info>
+<url>URL#210965</url>
+</hit>
+<hit score="1" id="210966">
+<info><authors><author pid="276/3404">Déaglán Connolly Bree</author><author pid="71/1464">Mel Ó Cinnéide</author></authors><title>Energy efficiency of the Visitor Pattern: contrasting Java and C++ implementations.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>6</number><pages>145</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/BreeC23</key><doi>10.1007/S10664-023-10387-8</doi><ee>https://doi.org/10.1007/s10664-023-10387-8</ee><url>https://dblp.org/rec/journals/ese/BreeC23</url></info>
+<url>URL#210966</url>
+</hit>
+<hit score="1" id="210967">
+<info><authors><author pid="35/5737">George G. Cabral</author><author pid="55/7992">Leandro L. Minku</author><author pid="80/3742">Adriano L. I. Oliveira</author><author pid="357/3300">Dinaldo A. Pessoa</author><author pid="276/3315">Sadia Tabassum</author></authors><title>An investigation of online and offline learning models for online Just-in-Time Software Defect Prediction.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>5</number><pages>121</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/CabralMOPT23</key><doi>10.1007/S10664-023-10335-6</doi><ee>https://doi.org/10.1007/s10664-023-10335-6</ee><url>https://dblp.org/rec/journals/ese/CabralMOPT23</url></info>
+<url>URL#210967</url>
+</hit>
+<hit score="1" id="210968">
+<info><authors><author pid="116/5375">Héctor Cadavid</author><author pid="36/6537">Vasilios Andrikopoulos</author><author pid="30/3651">Paris Avgeriou</author></authors><title>Improving hardware/software interface management in systems of systems through documentation as code.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>4</number><pages>100</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/CadavidAA23</key><doi>10.1007/S10664-023-10350-7</doi><ee>https://doi.org/10.1007/s10664-023-10350-7</ee><url>https://dblp.org/rec/journals/ese/CadavidAA23</url></info>
+<url>URL#210968</url>
+</hit>
+<hit score="1" id="210969">
+<info><authors><author pid="21/1408">Danilo Caivano</author><author pid="303/4768">Pietro Cassieri</author><author pid="13/10505-1">Simone Romano 0001</author><author pid="45/4173">Giuseppe Scanniello</author></authors><title>On the spread and evolution of dead methods in Java desktop applications: an exploratory study.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>3</number><pages>64</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/CaivanoCRS23</key><doi>10.1007/S10664-023-10303-0</doi><ee>https://doi.org/10.1007/s10664-023-10303-0</ee><url>https://dblp.org/rec/journals/ese/CaivanoCRS23</url></info>
+<url>URL#210969</url>
+</hit>
+<hit score="1" id="210970">
+<info><authors><author pid="247/9750">Shalini Chakraborty</author><author pid="34/10004">Grischa Liebel</author></authors><title>We do not understand what it says - studying student perceptions of software modelling.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>6</number><pages>149</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/ChakrabortyL23</key><doi>10.1007/S10664-023-10404-W</doi><ee>https://doi.org/10.1007/s10664-023-10404-w</ee><url>https://dblp.org/rec/journals/ese/ChakrabortyL23</url></info>
+<url>URL#210970</url>
+</hit>
+<hit score="1" id="210971">
+<info><authors><author pid="205/4031">Yihao Chen</author><author pid="120/0272">Eduardo Fernandes</author><author pid="98/6356">Bram Adams</author><author pid="h/AhmedEHassan">Ahmed E. Hassan</author></authors><title>On practitioners&apos; concerns when adopting service mesh frameworks.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>5</number><pages>113</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/ChenFAH23</key><doi>10.1007/S10664-023-10348-1</doi><ee>https://doi.org/10.1007/s10664-023-10348-1</ee><url>https://dblp.org/rec/journals/ese/ChenFAH23</url></info>
+<url>URL#210971</url>
+</hit>
+<hit score="1" id="210972">
+<info><authors><author pid="45/2913">Xiangping Chen</author><author pid="292/8163">Peiyong Liao</author><author pid="242/2043">Queping Kong</author><author pid="15/8391-2">Yuan Huang 0002</author><author pid="315/6597">Xiao-Cong Zhou</author></authors><title>Studying differentiated code to support smart contract update.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>5</number><pages>119</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/ChenLKHZ23</key><doi>10.1007/S10664-023-10359-Y</doi><ee>https://doi.org/10.1007/s10664-023-10359-y</ee><url>https://dblp.org/rec/journals/ese/ChenLKHZ23</url></info>
+<url>URL#210972</url>
+</hit>
+<hit score="1" id="210973">
+<info><authors><author pid="269/4723">Moataz Chouchen</author><author pid="73/6919-1">Ali Ouni 0001</author><author pid="303/0866">Jefferson Olongo</author><author pid="140/0883">Mohamed Wiem Mkaouer</author></authors><title>Learning to Predict Code Review Completion Time In Modern Code Review.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>4</number><pages>82</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/Chouchen0OM23</key><doi>10.1007/S10664-023-10300-3</doi><ee>https://doi.org/10.1007/s10664-023-10300-3</ee><url>https://dblp.org/rec/journals/ese/Chouchen0OM23</url></info>
+<url>URL#210973</url>
+</hit>
+<hit score="1" id="210974">
+<info><authors><author pid="197/4461">Adelina Ciurumelea</author><author pid="167/0171">Carol V. Alexandru</author><author pid="g/HaraldGall">Harald C. Gall</author><author pid="145/7686">Sebastian Proksch</author></authors><title>Completing Function Documentation Comments Using Structural Information.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>4</number><pages>86</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/CiurumeleaAGP23</key><doi>10.1007/S10664-022-10284-6</doi><ee>https://doi.org/10.1007/s10664-022-10284-6</ee><url>https://dblp.org/rec/journals/ese/CiurumeleaAGP23</url></info>
+<url>URL#210974</url>
+</hit>
+<hit score="1" id="210975">
+<info><authors><author pid="282/5221">José Aldo Silva da Costa</author><author pid="10/3240">Rohit Gheyi</author><author pid="f/FCFilho">Fernando Castor</author><author pid="349/5054">Pablo Roberto Fernandes de Oliveira</author><author pid="r/MarcioRibeiro">Márcio Ribeiro 0001</author><author pid="22/7095">Baldoino Fonseca</author></authors><title>Seeing confusion through a new lens: on the impact of atoms of confusion on novices&apos; code comprehension.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>4</number><pages>81</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/CostaGCO0F23</key><doi>10.1007/S10664-023-10311-0</doi><ee>https://doi.org/10.1007/s10664-023-10311-0</ee><url>https://dblp.org/rec/journals/ese/CostaGCO0F23</url></info>
+<url>URL#210975</url>
+</hit>
+<hit score="1" id="210976">
+<info><authors><author pid="117/5533">Daniel Alencar da Costa</author><author pid="338/6528">Natalie Grattan</author><author pid="95/5248">Nigel Stanger</author><author pid="119/0498">Sherlock A. Licorish</author></authors><title>Studying the characteristics of SQL-related development tasks: An empirical study.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>3</number><pages>69</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/CostaGSL23</key><doi>10.1007/S10664-023-10295-X</doi><ee>https://doi.org/10.1007/s10664-023-10295-x</ee><url>https://dblp.org/rec/journals/ese/CostaGSL23</url></info>
+<url>URL#210976</url>
+</hit>
+<hit score="1" id="210977">
+<info><authors><author pid="294/5439">Nadia Daoudi</author><author pid="117/9316">Kevin Allix</author><author pid="00/8006">Tegawendé F. Bissyandé</author><author pid="k/JacquesKlein">Jacques Klein</author></authors><title>Assessing the opportunity of combining state-of-the-art Android malware detectors.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>1</number><pages>22</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/DaoudiABK23</key><doi>10.1007/S10664-022-10249-9</doi><ee>https://doi.org/10.1007/s10664-022-10249-9</ee><url>https://dblp.org/rec/journals/ese/DaoudiABK23</url></info>
+<url>URL#210977</url>
+</hit>
+<hit score="1" id="210978">
+<info><authors><author pid="274/2115">Adina Deiner</author><author pid="313/9358">Patric Feldmeier</author><author pid="74/2259">Gordon Fraser 0001</author><author pid="295/6493">Sebastian Schweikl</author><author pid="259/4247">Wengran Wang</author></authors><title>Automated test generation for Scratch programs.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>3</number><pages>79</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/DeinerFFSW23</key><doi>10.1007/S10664-022-10255-X</doi><ee>https://doi.org/10.1007/s10664-022-10255-x</ee><url>https://dblp.org/rec/journals/ese/DeinerFFSW23</url></info>
+<url>URL#210978</url>
+</hit>
+<hit score="1" id="210979">
+<info><authors><author pid="201/0398">Davide Dell&apos;Anna</author><author pid="135/2727">Fatma Basak Aydemir</author><author pid="00/203">Fabiano Dalpiaz</author></authors><title>Evaluating classifiers in SE research: the ECSER pipeline and two replication studies.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>1</number><pages>3</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/DellAnnaAD23</key><doi>10.1007/S10664-022-10243-1</doi><ee>https://doi.org/10.1007/s10664-022-10243-1</ee><url>https://dblp.org/rec/journals/ese/DellAnnaAD23</url></info>
+<url>URL#210979</url>
+</hit>
+<hit score="1" id="210980">
+<info><authors><author pid="264/3638">Peter Devine</author><author pid="23/1879">Yun Sing Koh</author><author pid="50/10438">Kelly Blincoe</author></authors><title>Evaluating software user feedback classifier performance on unseen apps, datasets, and metadata.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>1</number><pages>26</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/DevineKB23</key><doi>10.1007/S10664-022-10254-Y</doi><ee>https://doi.org/10.1007/s10664-022-10254-y</ee><url>https://dblp.org/rec/journals/ese/DevineKB23</url></info>
+<url>URL#210980</url>
+</hit>
+<hit score="1" id="210981">
+<info><authors><author pid="02/82">Torgeir Dingsøyr</author><author pid="64/945">Finn Olav Bjørnson</author><author pid="246/9420">Julian Schrof</author><author pid="287/9576">Tor Sporsem</author></authors><title>A longitudinal explanatory case study of coordination in a very large development programme: the impact of transitioning from a first- to a second-generation large-scale agile development method.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>1</number><pages>1</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/DingsoyrBSS23</key><doi>10.1007/S10664-022-10230-6</doi><ee>https://doi.org/10.1007/s10664-022-10230-6</ee><url>https://dblp.org/rec/journals/ese/DingsoyrBSS23</url></info>
+<url>URL#210981</url>
+</hit>
+<hit score="1" id="210982">
+<info><authors><author pid="360/3516">Milica Ðordevic</author><author pid="119/5096">Michel Albonico</author><author pid="51/1171">Grace A. Lewis</author><author pid="35/1083">Ivano Malavolta</author><author pid="40/5357">Patricia Lago</author></authors><title>Computation offloading for ground robotic systems communicating over WiFi - an empirical exploration on performance and energy trade-offs.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>6</number><pages>140</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/DordevicALML23</key><doi>10.1007/S10664-023-10351-6</doi><ee>https://doi.org/10.1007/s10664-023-10351-6</ee><url>https://dblp.org/rec/journals/ese/DordevicALML23</url></info>
+<url>URL#210982</url>
+</hit>
+<hit score="1" id="210983">
+<info><authors><author pid="257/9830">Johannes Dorn</author><author pid="a/SvenApel">Sven Apel</author><author pid="99/1780">Norbert Siegmund</author></authors><title>Mastering uncertainty in performance estimations of configurable software systems.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>2</number><pages>33</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/DornAS23</key><doi>10.1007/S10664-022-10250-2</doi><ee>https://doi.org/10.1007/s10664-022-10250-2</ee><url>https://dblp.org/rec/journals/ese/DornAS23</url></info>
+<url>URL#210983</url>
+</hit>
+<hit score="1" id="210984">
+<info><authors><author pid="285/8503">Osama Ehsan</author><author pid="32/147">Foutse Khomh</author><author pid="55/3451-1">Ying Zou 0001</author><author pid="79/3415">Dong Qiu</author></authors><title>Ranking code clones to support maintenance activities.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>3</number><pages>70</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/EhsanKZQ23</key><doi>10.1007/S10664-023-10292-0</doi><ee>https://doi.org/10.1007/s10664-023-10292-0</ee><url>https://dblp.org/rec/journals/ese/EhsanKZQ23</url></info>
+<url>URL#210984</url>
+</hit>
+<hit score="1" id="210985">
+<info><authors><author pid="68/3691">Neil A. Ernst</author><author pid="73/1559">Maria Teresa Baldassarre</author></authors><title>Registered reports in software engineering.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>2</number><pages>55</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/ErnstB23</key><doi>10.1007/S10664-022-10277-5</doi><ee>https://doi.org/10.1007/s10664-022-10277-5</ee><url>https://dblp.org/rec/journals/ese/ErnstB23</url></info>
+<url>URL#210985</url>
+</hit>
+<hit score="1" id="210986">
+<info><authors><author pid="68/3691">Neil A. Ernst</author><author pid="r/MartinPRobillard">Martin P. Robillard</author></authors><title>A study of documentation for software architecture.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>5</number><pages>122</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/ErnstR23</key><doi>10.1007/S10664-023-10347-2</doi><ee>https://doi.org/10.1007/s10664-023-10347-2</ee><url>https://dblp.org/rec/journals/ese/ErnstR23</url></info>
+<url>URL#210986</url>
+</hit>
+<hit score="1" id="210987">
+<info><authors><author pid="89/536">Davide Falessi</author><author pid="340/4492">Simone Mesiano Laureani</author><author pid="326/5167">Jonida Çarka</author><author pid="326/5206">Matteo Esposito</author><author pid="117/5533">Daniel Alencar da Costa</author></authors><title>Enhancing the defectiveness prediction of methods and classes via JIT.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>2</number><pages>37</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/FalessiLCEC23</key><doi>10.1007/S10664-022-10261-Z</doi><ee>https://doi.org/10.1007/s10664-022-10261-z</ee><url>https://dblp.org/rec/journals/ese/FalessiLCEC23</url></info>
+<url>URL#210987</url>
+</hit>
+<hit score="1" id="210988">
+<info><authors><author pid="89/1229">Ying Fu</author><author pid="131/4289-1">Meng Yan 0001</author><author pid="00/1568-3">Zhou Xu 0003</author><author pid="06/2072-1">Xin Xia 0001</author><author pid="91/2989-2">Xiaohong Zhang 0002</author><author pid="43/3014-1">Dan Yang 0001</author></authors><title>An empirical study of the impact of log parsers on the performance of log-based anomaly detection.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>1</number><pages>6</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/FuYXXZY23</key><doi>10.1007/S10664-022-10214-6</doi><ee>https://doi.org/10.1007/s10664-022-10214-6</ee><url>https://dblp.org/rec/journals/ese/FuYXXZY23</url></info>
+<url>URL#210988</url>
+</hit>
+<hit score="1" id="210989">
+<info><authors><author pid="317/0411">Yuexiu Gao</author><author pid="29/2726">Hongyu Zhang</author><author pid="132/7875">Chen Lyu</author></authors><title>EnCoSum: enhanced semantic features for multi-scale multi-modal source code summarization.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>5</number><pages>126</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/GaoZL23</key><doi>10.1007/S10664-023-10384-X</doi><ee>https://doi.org/10.1007/s10664-023-10384-x</ee><url>https://dblp.org/rec/journals/ese/GaoZL23</url></info>
+<url>URL#210989</url>
+</hit>
+<hit score="1" id="210990">
+<info><authors><author pid="69/6171-2">Sergio García 0002</author><author pid="46/11388-1">Daniel Strüber 0001</author><author pid="15/1517">Davide Brugali</author><author pid="117/8705">Alessandro Di Fava</author><author pid="p/PatrizioPelliccione">Patrizio Pelliccione</author><author pid="22/6472">Thorsten Berger</author></authors><title>Software variability in service robotics.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>1</number><pages>24</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/GarciaSBFPB23</key><doi>10.1007/S10664-022-10231-5</doi><ee>https://doi.org/10.1007/s10664-022-10231-5</ee><url>https://dblp.org/rec/journals/ese/GarciaSBFPB23</url></info>
+<url>URL#210990</url>
+</hit>
+<hit score="1" id="210991">
+<info><authors><author pid="66/1148">Jesús M. González-Barahona</author><author pid="144/4628">Sergio Raúl Montes León</author><author pid="r/GregorioRobles">Gregorio Robles</author><author pid="53/2641">Stefano Zacchiroli</author></authors><title>The software heritage license dataset (2022 edition).</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>6</number><pages>147</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/GonzalezBarahonaLRZ23</key><doi>10.1007/S10664-023-10377-W</doi><ee>https://doi.org/10.1007/s10664-023-10377-w</ee><url>https://dblp.org/rec/journals/ese/GonzalezBarahonaLRZ23</url></info>
+<url>URL#210991</url>
+</hit>
+<hit score="1" id="210992">
+<info><authors><author pid="318/1211">Emanuela Guglielmi</author><author pid="183/2560">Simone Scalabrino</author><author pid="09/8523">Gabriele Bavota</author><author pid="18/6986">Rocco Oliveto</author></authors><title>Using gameplay videos for detecting issues in video games.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>6</number><pages>136</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/GuglielmiSBO23</key><doi>10.1007/S10664-023-10365-0</doi><ee>https://doi.org/10.1007/s10664-023-10365-0</ee><url>https://dblp.org/rec/journals/ese/GuglielmiSBO23</url></info>
+<url>URL#210992</url>
+</hit>
+<hit score="1" id="210993">
+<info><authors><author pid="148/4898">Giovani Guizzo</author><author pid="53/3248">Francesco Califano</author><author pid="18/7526">Federica Sarro</author><author pid="68/6536">Filomena Ferrucci</author><author pid="h/MarkHarman">Mark Harman</author></authors><title>Inferring test models from user bug reports using multi-objective search.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>4</number><pages>95</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/GuizzoCSFH23</key><doi>10.1007/S10664-023-10333-8</doi><ee>https://doi.org/10.1007/s10664-023-10333-8</ee><url>https://dblp.org/rec/journals/ese/GuizzoCSFH23</url></info>
+<url>URL#210993</url>
+</hit>
+<hit score="1" id="210994">
+<info><authors><author pid="274/2391">Mohammad Abdul Hadi</author><author pid="119/0200">Fatemeh H. Fard</author></authors><title>Evaluating pre-trained models for user feedback analysis in software engineering: a study on classification of app-reviews.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>4</number><pages>88</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/HadiF23</key><doi>10.1007/S10664-023-10314-X</doi><ee>https://doi.org/10.1007/s10664-023-10314-x</ee><url>https://dblp.org/rec/journals/ese/HadiF23</url></info>
+<url>URL#210994</url>
+</hit>
+<hit score="1" id="210995">
+<info><authors><author pid="290/1370">Yisi Han</author><author pid="153/2385">Zhendong Wang</author><author pid="07/6095-3">Yang Feng 0003</author><author pid="96/175">Zhihong Zhao</author><author pid="17/221">Yi Wang</author></authors><title>Cross-status communication and project outcomes in OSS development.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>3</number><pages>78</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/HanWFZW23</key><doi>10.1007/S10664-023-10298-8</doi><ee>https://doi.org/10.1007/s10664-023-10298-8</ee><url>https://dblp.org/rec/journals/ese/HanWFZW23</url></info>
+<url>URL#210995</url>
+</hit>
+<hit score="1" id="210996">
+<info><authors><author pid="150/3820">Johannes Härtel</author><author pid="l/RalfLammel">Ralf Lämmel</author></authors><title>Operationalizing validity of empirical software engineering studies.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>6</number><pages>153</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/HartelL23</key><doi>10.1007/S10664-023-10370-3</doi><ee>https://doi.org/10.1007/s10664-023-10370-3</ee><url>https://dblp.org/rec/journals/ese/HartelL23</url></info>
+<url>URL#210996</url>
+</hit>
+<hit score="1" id="210997">
+<info><authors><author pid="73/5681">Shinpei Hayashi</author><author pid="20/6995">Yann-Gaël Guéhéneuc</author><author pid="c/MRVChaudron">Michel R. V. Chaudron</author></authors><title>Introduction to the special issue on program comprehension.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>3</number><pages>68</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/HayashiGC23</key><doi>10.1007/S10664-022-10279-3</doi><ee>https://doi.org/10.1007/s10664-022-10279-3</ee><url>https://dblp.org/rec/journals/ese/HayashiGC23</url></info>
+<url>URL#210997</url>
+</hit>
+<hit score="1" id="210998">
+<info><authors><author pid="62/10102">Steffen Herbold</author><author pid="325/4373">Steffen Tunkel</author></authors><title>Differential testing for machine learning: an analysis for classification algorithms beyond deep learning.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>2</number><pages>34</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/HerboldT23</key><doi>10.1007/S10664-022-10273-9</doi><ee>https://doi.org/10.1007/s10664-022-10273-9</ee><url>https://dblp.org/rec/journals/ese/HerboldT23</url></info>
+<url>URL#210998</url>
+</hit>
+<hit score="1" id="210999">
+<info><authors><author pid="57/1034-2">Stefan Höppner</author><author pid="312/6533">Yves Haas</author><author pid="52/733">Matthias Tichy</author><author pid="200/7611">Katharina Juhnke</author></authors><title>Correction to: Advantages and disadvantages of (dedicated) model transformation languages.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>1</number><pages>25</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/HoppnerHTJ23</key><doi>10.1007/S10664-022-10264-W</doi><ee>https://doi.org/10.1007/s10664-022-10264-w</ee><url>https://dblp.org/rec/journals/ese/HoppnerHTJ23</url></info>
+<url>URL#210999</url>
+</hit>
+<hit score="1" id="211000">
+<info><authors><author pid="76/9820-1">Fang Hou 0001</author><author pid="70/6334">Slinger Jansen</author></authors><title>A systematic literature review on trust in the software ecosystem.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>1</number><pages>8</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/HouJ23</key><doi>10.1007/S10664-022-10238-Y</doi><ee>https://doi.org/10.1007/s10664-022-10238-y</ee><url>https://dblp.org/rec/journals/ese/HouJ23</url></info>
+<url>URL#211000</url>
+</hit>
+<hit score="1" id="211001">
+<info><authors><author pid="274/3847">Emanuele Iannone</author><author pid="150/3264">Zadia Codabux</author><author pid="118/9914">Valentina Lenarduzzi</author><author pid="33/2785">Andrea De Lucia</author><author pid="116/6732">Fabio Palomba</author></authors><title>Rubbing salt in the wound? A large-scale investigation into the effects of refactoring on security.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>4</number><pages>89</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/IannoneCLLP23</key><doi>10.1007/S10664-023-10287-X</doi><ee>https://doi.org/10.1007/s10664-023-10287-x</ee><url>https://dblp.org/rec/journals/ese/IannoneCLLP23</url></info>
+<url>URL#211001</url>
+</hit>
+<hit score="1" id="211002">
+<info><authors><author pid="352/5049">David Itzik</author><author pid="68/8799">G. K. Roy</author></authors><title>Does agile methodology fit all characteristics of software projects? Review and analysis.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>4</number><pages>105</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/ItzikR23</key><doi>10.1007/S10664-023-10334-7</doi><ee>https://doi.org/10.1007/s10664-023-10334-7</ee><url>https://dblp.org/rec/journals/ese/ItzikR23</url></info>
+<url>URL#211002</url>
+</hit>
+<hit score="1" id="211003">
+<info><authors><author pid="159/7643">Leonardo Horn Iwaya</author><author pid="03/1909">Muhammad Ali Babar 0001</author><author pid="26/3330">Awais Rashid</author><author pid="161/9723">Chamila Wijayarathna</author></authors><title>On the privacy of mental health apps.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>1</number><pages>2</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/IwayaBRW23</key><doi>10.1007/S10664-022-10236-0</doi><ee>https://doi.org/10.1007/s10664-022-10236-0</ee><url>https://dblp.org/rec/journals/ese/IwayaBRW23</url></info>
+<url>URL#211003</url>
+</hit>
+<hit score="1" id="211004">
+<info><authors><author pid="232/1977">Maliheh Izadi</author><author pid="322/0502">Mahtab Nejati</author><author pid="h/AbbasHeydarnoori">Abbas Heydarnoori</author></authors><title>Semantically-enhanced topic recommendation systems for software projects.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>2</number><pages>50</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/IzadiNH23</key><doi>10.1007/S10664-022-10272-W</doi><ee>https://doi.org/10.1007/s10664-022-10272-w</ee><url>https://dblp.org/rec/journals/ese/IzadiNH23</url></info>
+<url>URL#211004</url>
+</hit>
+<hit score="1" id="211005">
+<info><authors><author pid="185/1448">Zigui Jiang</author><author pid="328/1250">Xiuwen Tang</author><author pid="z/ZibinZheng">Zibin Zheng</author><author pid="162/8649">Jinyan Guo</author><author pid="53/1565">Xiapu Luo</author><author pid="49/5981">Yin Li</author></authors><title>Calling relationship investigation and application on Ethereum Blockchain System.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>2</number><pages>31</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/JiangTZGLL23</key><doi>10.1007/S10664-022-10240-4</doi><ee>https://doi.org/10.1007/s10664-022-10240-4</ee><url>https://dblp.org/rec/journals/ese/JiangTZGLL23</url></info>
+<url>URL#211005</url>
+</hit>
+<hit score="1" id="211006">
+<info><authors><author pid="249/6573">Arut Prakash Kaleeswaran</author><author pid="117/2141">Arne Nordmann</author><author pid="63/5586-1">Thomas Vogel 0001</author><author pid="55/4092">Lars Grunske</author></authors><title>A user study for evaluation of formal verification results and their explanation at Bosch.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>5</number><pages>125</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/KaleeswaranNVG23</key><doi>10.1007/S10664-023-10353-4</doi><ee>https://doi.org/10.1007/s10664-023-10353-4</ee><url>https://dblp.org/rec/journals/ese/KaleeswaranNVG23</url></info>
+<url>URL#211006</url>
+</hit>
+<hit score="1" id="211007">
+<info><authors><author pid="242/3948">Christian Kaltenecker</author><author pid="256/6171">Stefan Mühlbauer</author><author pid="04/9656">Alexander Grebhahn</author><author pid="99/1780">Norbert Siegmund</author><author pid="a/SvenApel">Sven Apel</author></authors><title>Performance evolution of configurable software systems: an empirical study.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>6</number><pages>152</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/KalteneckerMGSA23</key><doi>10.1007/S10664-023-10338-3</doi><ee>https://doi.org/10.1007/s10664-023-10338-3</ee><url>https://dblp.org/rec/journals/ese/KalteneckerMGSA23</url></info>
+<url>URL#211007</url>
+</hit>
+<hit score="1" id="211008">
+<info><authors><author pid="296/1131">Arthur V. Kamienski</author><author pid="76/2009">Abram Hindle</author><author pid="95/7251">Cor-Paul Bezemer</author></authors><title>Analyzing Techniques for Duplicate Question Detection on Q&amp;A Websites for Game Developers.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>1</number><pages>17</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/KamienskiHB23</key><doi>10.1007/S10664-022-10256-W</doi><ee>https://doi.org/10.1007/s10664-022-10256-w</ee><url>https://dblp.org/rec/journals/ese/KamienskiHB23</url></info>
+<url>URL#211008</url>
+</hit>
+<hit score="1" id="211009">
+<info><authors><author pid="123/7832">Ulf Kargén</author><author pid="292/7992">Noah Mauthe</author><author pid="s/NahidShahmehri">Nahid Shahmehri</author></authors><title>Android decompiler performance on benign and malicious apps: an empirical study.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>2</number><pages>48</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/KargenMS23</key><doi>10.1007/S10664-022-10281-9</doi><ee>https://doi.org/10.1007/s10664-022-10281-9</ee><url>https://dblp.org/rec/journals/ese/KargenMS23</url></info>
+<url>URL#211009</url>
+</hit>
+<hit score="1" id="211010">
+<info><authors><author pid="256/8742">Anjan Karmakar</author><author pid="121/4943">Miltiadis Allamanis</author><author pid="43/5822">Romain Robbes</author></authors><title>JEMMA: An extensible Java dataset for ML4Code applications.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>2</number><pages>54</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/KarmakarAR23</key><doi>10.1007/S10664-022-10275-7</doi><ee>https://doi.org/10.1007/s10664-022-10275-7</ee><url>https://dblp.org/rec/journals/ese/KarmakarAR23</url></info>
+<url>URL#211010</url>
+</hit>
+<hit score="1" id="211011">
+<info><authors><author pid="208/6990">Rrezarta Krasniqi</author><author pid="93/2585">Hyunsook Do</author></authors><title>A multi-model framework for semantically enhancing detection of quality-related bug report descriptions.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>2</number><pages>42</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/KrasniqiD23</key><doi>10.1007/S10664-022-10280-W</doi><ee>https://doi.org/10.1007/s10664-022-10280-w</ee><url>https://dblp.org/rec/journals/ese/KrasniqiD23</url></info>
+<url>URL#211011</url>
+</hit>
+<hit score="1" id="211012">
+<info><authors><author pid="139/6939">Katsiaryna Labunets</author><author pid="59/6145">Fabio Massacci</author><author pid="18/3134">Federica Paci</author><author pid="211/8144">Katja Tuma</author></authors><title>A new, evidence-based, theory for knowledge reuse in security risk analysis.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>4</number><pages>90</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/LabunetsMPT23</key><doi>10.1007/S10664-023-10321-Y</doi><ee>https://doi.org/10.1007/s10664-023-10321-y</ee><url>https://dblp.org/rec/journals/ese/LabunetsMPT23</url></info>
+<url>URL#211012</url>
+</hit>
+<hit score="1" id="211013">
+<info><authors><author pid="207/1993">Jinpeng Lan</author><author pid="04/10049">Lina Gong</author><author pid="150/3481">Jingxuan Zhang</author><author pid="07/1059-1">Haoxiang Zhang 0001</author></authors><title>BTLink : automatic link recovery between issues and commits based on pre-trained BERT model.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>4</number><pages>103</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/LanGZZ23</key><doi>10.1007/S10664-023-10342-7</doi><ee>https://doi.org/10.1007/s10664-023-10342-7</ee><url>https://dblp.org/rec/journals/ese/LanGZZ23</url></info>
+<url>URL#211013</url>
+</hit>
+<hit score="1" id="211014">
+<info><authors><author pid="23/1696">Luigi Lavazza</author><author pid="m/SandroMorasca">Sandro Morasca</author><author pid="360/9272">Marco Gatto</author></authors><title>An empirical study on software understandability and its dependence on code characteristics.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>6</number><pages>155</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/LavazzaMG23</key><doi>10.1007/S10664-023-10396-7</doi><ee>https://doi.org/10.1007/s10664-023-10396-7</ee><url>https://dblp.org/rec/journals/ese/LavazzaMG23</url></info>
+<url>URL#211014</url>
+</hit>
+<hit score="1" id="211015">
+<info><authors><author pid="79/5858">Yikun Li</author><author pid="40/4987">Mohamed Soliman</author><author pid="30/3651">Paris Avgeriou</author></authors><title>Automatic identification of self-admitted technical debt from four different sources.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>3</number><pages>65</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/LiSA23</key><doi>10.1007/S10664-023-10297-9</doi><ee>https://doi.org/10.1007/s10664-023-10297-9</ee><url>https://dblp.org/rec/journals/ese/LiSA23</url></info>
+<url>URL#211015</url>
+</hit>
+<hit score="1" id="211016">
+<info><authors><author pid="326/5075">Jiahuei Lin</author><author pid="98/6356">Bram Adams</author><author pid="h/AhmedEHassan">Ahmed E. Hassan</author></authors><title>On the coordination of vulnerability fixes.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>6</number><pages>151</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/LinAH23</key><doi>10.1007/S10664-023-10403-X</doi><ee>https://doi.org/10.1007/s10664-023-10403-x</ee><url>https://dblp.org/rec/journals/ese/LinAH23</url></info>
+<url>URL#211016</url>
+</hit>
+<hit score="1" id="211017">
+<info><authors><author pid="326/5075">Jiahuei Lin</author><author pid="07/1059-1">Haoxiang Zhang 0001</author><author pid="98/6356">Bram Adams</author><author pid="h/AhmedEHassan">Ahmed E. Hassan</author></authors><title>Vulnerability management in Linux distributions.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>2</number><pages>47</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/LinZAH23</key><doi>10.1007/S10664-022-10267-7</doi><ee>https://doi.org/10.1007/s10664-022-10267-7</ee><url>https://dblp.org/rec/journals/ese/LinZAH23</url></info>
+<url>URL#211017</url>
+</hit>
+<hit score="1" id="211018">
+<info><authors><author pid="15/1777">Di Liu</author><author pid="07/6095-3">Yang Feng 0003</author><author pid="168/9143">Yanyan Yan</author><author pid="46/5742">Baowen Xu</author></authors><title>Towards understanding bugs in Python interpreters.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>1</number><pages>19</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/LiuFYX23</key><doi>10.1007/S10664-022-10239-X</doi><ee>https://doi.org/10.1007/s10664-022-10239-x</ee><url>https://dblp.org/rec/journals/ese/LiuFYX23</url></info>
+<url>URL#211018</url>
+</hit>
+<hit score="1" id="211019">
+<info><authors><author pid="256/6133">Stephan Lukasczyk</author><author pid="271/4573">Florian Kroiß</author><author pid="74/2259">Gordon Fraser 0001</author></authors><title>An empirical study of automated unit test generation for Python.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>2</number><pages>36</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/LukasczykKF23</key><doi>10.1007/S10664-022-10248-W</doi><ee>https://doi.org/10.1007/s10664-022-10248-w</ee><url>https://dblp.org/rec/journals/ese/LukasczykKF23</url></info>
+<url>URL#211019</url>
+</hit>
+<hit score="1" id="211020">
+<info><authors><author pid="314/3554">Vittunyuta Maeprasart</author><author pid="238/5682">Supatsara Wattanakriengkrai</author><author pid="64/7675">Raula Gaikovina Kula</author><author pid="29/1074">Christoph Treude</author><author pid="73/942">Kenichi Matsumoto</author></authors><title>Understanding the role of external pull requests in the NPM ecosystem.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>4</number><pages>84</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/MaeprasartWKTM23</key><doi>10.1007/S10664-023-10315-W</doi><ee>https://doi.org/10.1007/s10664-023-10315-w</ee><url>https://dblp.org/rec/journals/ese/MaeprasartWKTM23</url></info>
+<url>URL#211020</url>
+</hit>
+<hit score="1" id="211021">
+<info><authors><author pid="251/5964">Jahanzaib Malik</author><author pid="61/1343">Fabrizio Pastore</author></authors><title>An empirical study of vulnerabilities in edge frameworks to support security testing improvement.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>4</number><pages>99</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/MalikP23</key><doi>10.1007/S10664-023-10330-X</doi><ee>https://doi.org/10.1007/s10664-023-10330-x</ee><url>https://dblp.org/rec/journals/ese/MalikP23</url></info>
+<url>URL#211021</url>
+</hit>
+<hit score="1" id="211022">
+<info><authors><author pid="164/6913">Zainab Masood</author><author pid="50/10438">Kelly Blincoe</author><author pid="d/DanielaEDamian">Daniela E. Damian</author></authors><title>What have we learned? A conceptual framework on New Zealand software professionals and companies&apos; response to COVID-19.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>5</number><pages>109</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/MasoodBD23</key><doi>10.1007/S10664-023-10309-8</doi><ee>https://doi.org/10.1007/s10664-023-10309-8</ee><url>https://dblp.org/rec/journals/ese/MasoodBD23</url></info>
+<url>URL#211022</url>
+</hit>
+<hit score="1" id="211023">
+<info><authors><author pid="132/9621">Antonio Mastropaolo</author><author pid="200/9157">Emad Aghajani</author><author pid="202/1470">Luca Pascarella</author><author pid="09/8523">Gabriele Bavota</author></authors><title>Automated variable renaming: are we there yet?</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>2</number><pages>45</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/MastropaoloAPB23</key><doi>10.1007/S10664-022-10274-8</doi><ee>https://doi.org/10.1007/s10664-022-10274-8</ee><url>https://dblp.org/rec/journals/ese/MastropaoloAPB23</url></info>
+<url>URL#211023</url>
+</hit>
+<hit score="1" id="211024">
+<info><authors><author pid="249/1704">Patrícia G. F. Matsubara</author><author pid="70/3474">Igor Steinmacher</author><author pid="77/7361">Bruno Gadelha</author><author pid="48/5">Tayana Conte</author></authors><title>Much more than a prediction: Expert-based software effort estimation as a behavioral act.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>4</number><pages>98</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/MatsubaraSGC23</key><doi>10.1007/S10664-023-10332-9</doi><ee>https://doi.org/10.1007/s10664-023-10332-9</ee><url>https://dblp.org/rec/journals/ese/MatsubaraSGC23</url></info>
+<url>URL#211024</url>
+</hit>
+<hit score="1" id="211025">
+<info><authors><author pid="296/3718">Pooya Rostami Mazrae</author><author pid="m/TomMens">Tom Mens</author><author pid="214/2551">Mehdi Golzadeh</author><author pid="84/7943">Alexandre Decan</author></authors><title>On the usage, co-usage and migration of CI/CD tools: A qualitative analysis.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>2</number><pages>52</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/MazraeMGD23</key><doi>10.1007/S10664-022-10285-5</doi><ee>https://doi.org/10.1007/s10664-022-10285-5</ee><url>https://dblp.org/rec/journals/ese/MazraeMGD23</url></info>
+<url>URL#211025</url>
+</hit>
+<hit score="1" id="211026">
+<info><authors><author pid="172/9033">Sahar Mehrpour</author><author pid="31/3605">Thomas D. LaToza</author></authors><title>Can static analysis tools find more defects?</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>1</number><pages>5</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/MehrpourL23</key><doi>10.1007/S10664-022-10232-4</doi><ee>https://doi.org/10.1007/s10664-022-10232-4</ee><url>https://dblp.org/rec/journals/ese/MehrpourL23</url></info>
+<url>URL#211026</url>
+</hit>
+<hit score="1" id="211027">
+<info><authors><author pid="289/5934">Mehran Meidani</author><author pid="223/4602">Maxime Lamothe</author><author pid="31/8127">Shane McIntosh</author></authors><title>Assessing the exposure of software changes.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>2</number><pages>41</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/MeidaniLM23</key><doi>10.1007/S10664-022-10270-Y</doi><ee>https://doi.org/10.1007/s10664-022-10270-y</ee><url>https://dblp.org/rec/journals/ese/MeidaniLM23</url></info>
+<url>URL#211027</url>
+</hit>
+<hit score="1" id="211028">
+<info><authors><author pid="180/3638">Qing Mi</author><author pid="02/7774">Yi Zhan</author><author pid="349/5252">Han Weng</author><author pid="349/5317">Qinghang Bao</author><author pid="349/5472">Longjie Cui</author><author pid="32/32">Wei Ma</author></authors><title>A graph-based code representation method to improve code readability classification.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>4</number><pages>87</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/MiZWBCM23</key><doi>10.1007/S10664-023-10319-6</doi><ee>https://doi.org/10.1007/s10664-023-10319-6</ee><url>https://dblp.org/rec/journals/ese/MiZWBCM23</url></info>
+<url>URL#211028</url>
+</hit>
+<hit score="1" id="211029">
+<info><authors><author pid="298/0637">Paulina Stevia Nouwou Mindom</author><author pid="42/1656">Amin Nikanjam</author><author pid="32/147">Foutse Khomh</author></authors><title>A comparison of reinforcement learning frameworks for software testing tasks.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>5</number><pages>111</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/MindomNK23</key><doi>10.1007/S10664-023-10363-2</doi><ee>https://doi.org/10.1007/s10664-023-10363-2</ee><url>https://dblp.org/rec/journals/ese/MindomNK23</url></info>
+<url>URL#211029</url>
+</hit>
+<hit score="1" id="211030">
+<info><authors><author pid="192/3920">Saikat Mondal</author><author pid="49/4012">Gias Uddin 0001</author><author pid="03/5761">Chanchal K. Roy</author></authors><title>Automatic prediction of rejected edits in Stack Overflow.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>1</number><pages>9</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/MondalUR23</key><doi>10.1007/S10664-022-10242-2</doi><ee>https://doi.org/10.1007/s10664-022-10242-2</ee><url>https://dblp.org/rec/journals/ese/MondalUR23</url></info>
+<url>URL#211030</url>
+</hit>
+<hit score="1" id="211031">
+<info><authors><author pid="246/3388">Caique Moreira</author><author pid="122/4837">Breno B. N. de França</author><author pid="48/5">Tayana Uchôa Conte</author></authors><title>Analyzing the BizDev interface in an enterprise context: a case of developers acting in business.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>6</number><pages>154</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/MoreiraFC23</key><doi>10.1007/S10664-023-10383-Y</doi><ee>https://doi.org/10.1007/s10664-023-10383-y</ee><url>https://dblp.org/rec/journals/ese/MoreiraFC23</url></info>
+<url>URL#211031</url>
+</hit>
+<hit score="1" id="211032">
+<info><authors><author pid="283/4388">Mohammad Mehdi Morovati</author><author pid="42/1656">Amin Nikanjam</author><author pid="32/147">Foutse Khomh</author><author pid="50/23">Zhen Ming (Jack) Jiang</author></authors><title>Bugs in machine learning-based systems: a faultload benchmark.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>3</number><pages>62</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/MorovatiNKJ23</key><doi>10.1007/S10664-023-10291-1</doi><ee>https://doi.org/10.1007/s10664-023-10291-1</ee><url>https://dblp.org/rec/journals/ese/MorovatiNKJ23</url></info>
+<url>URL#211032</url>
+</hit>
+<hit score="1" id="211033">
+<info><authors><author pid="274/7893">Biruk Asmare Muse</author><author pid="32/147">Foutse Khomh</author><author pid="73/3515">Giuliano Antoniol</author></authors><title>Refactoring practices in the context of data-intensive systems.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>2</number><pages>46</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/MuseKA23</key><doi>10.1007/S10664-022-10271-X</doi><ee>https://doi.org/10.1007/s10664-022-10271-x</ee><url>https://dblp.org/rec/journals/ese/MuseKA23</url></info>
+<url>URL#211033</url>
+</hit>
+<hit score="1" id="211034">
+<info><authors><author pid="329/8811">Kollin Napier</author><author pid="68/8855">Tanmay Bhowmik</author><author pid="49/6937-2">Shaowei Wang 0002</author></authors><title>An empirical study of text-based machine learning models for vulnerability detection.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>2</number><pages>38</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/NapierBW23</key><doi>10.1007/S10664-022-10276-6</doi><ee>https://doi.org/10.1007/s10664-022-10276-6</ee><url>https://dblp.org/rec/journals/ese/NapierBW23</url></info>
+<url>URL#211034</url>
+</hit>
+<hit score="1" id="211035">
+<info><authors><author pid="117/9217">Arif Nurwidyantoro</author><author pid="13/7475">Mojtaba Shahin</author><author pid="c/MRVChaudron">Michel Chaudron</author><author pid="77/8121">Waqar Hussain</author><author pid="199/8240">Harsha Perera</author><author pid="117/3859">Rifat Ara Shams</author><author pid="w/JonWhittle">Jon Whittle 0001</author></authors><title>Integrating human values in software development using a human values dashboard.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>3</number><pages>67</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/NurwidyantoroSCHPSW23</key><doi>10.1007/S10664-023-10305-Y</doi><ee>https://doi.org/10.1007/s10664-023-10305-y</ee><url>https://dblp.org/rec/journals/ese/NurwidyantoroSCHPSW23</url></info>
+<url>URL#211035</url>
+</hit>
+<hit score="1" id="211036">
+<info><authors><author pid="208/7434">Humphrey O. Obie</author><author pid="283/5668">Hung Du</author><author pid="274/7598">Kashumi Madampe</author><author pid="13/7475">Mojtaba Shahin</author><author pid="317/0265">Idowu Ilekura</author><author pid="g/JohnCGrundy">John C. Grundy</author><author pid="53/2189-29">Li Li 0029</author><author pid="w/JonWhittle">Jon Whittle 0001</author><author pid="62/1974">Burak Turhan</author><author pid="193/7816">Hourieh Khalajzadeh</author></authors><title>Automated detection, categorisation and developers&apos; experience with the violations of honesty in mobile apps.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>6</number><pages>134</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/ObieDMSIGLWTK23</key><doi>10.1007/S10664-023-10361-4</doi><ee>https://doi.org/10.1007/s10664-023-10361-4</ee><url>https://dblp.org/rec/journals/ese/ObieDMSIGLWTK23</url></info>
+<url>URL#211036</url>
+</hit>
+<hit score="1" id="211037">
+<info><authors><author pid="10/8661">Ozan Özkan</author><author pid="165/0091">Önder Babur</author><author pid="v/MarkvandenBrand">Mark van den Brand</author></authors><title>Refactoring with domain-driven design in an industrial context.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>4</number><pages>94</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/OzkanBB23</key><doi>10.1007/S10664-023-10310-1</doi><ee>https://doi.org/10.1007/s10664-023-10310-1</ee><url>https://dblp.org/rec/journals/ese/OzkanBB23</url></info>
+<url>URL#211037</url>
+</hit>
+<hit score="1" id="211038">
+<info><authors><author pid="311/8807">Michael Pacheco</author><author pid="97/10540">Gustavo Ansaldi Oliva</author><author pid="202/1487">Gopi Krishnan Rajbahadur</author><author pid="h/AhmedEHassan">Ahmed E. Hassan</author></authors><title>What makes Ethereum blockchain transactions be processed fast or slow? An empirical study.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>2</number><pages>39</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/PachecoORH23</key><doi>10.1007/S10664-022-10283-7</doi><ee>https://doi.org/10.1007/s10664-022-10283-7</ee><url>https://dblp.org/rec/journals/ese/PachecoORH23</url></info>
+<url>URL#211038</url>
+</hit>
+<hit score="1" id="211039">
+<info><authors><author pid="326/7899">Ranindya Paramitha</author><author pid="59/6145">Fabio Massacci</author></authors><title>Technical leverage analysis in the Python ecosystem.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>6</number><pages>139</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/ParamithaM23</key><doi>10.1007/S10664-023-10355-2</doi><ee>https://doi.org/10.1007/s10664-023-10355-2</ee><url>https://dblp.org/rec/journals/ese/ParamithaM23</url></info>
+<url>URL#211039</url>
+</hit>
+<hit score="1" id="211040">
+<info><authors><author pid="276/3422">Owain Parry</author><author pid="47/5095">Gregory M. Kapfhammer</author><author pid="116/7598">Michael Hilton</author><author pid="33/13">Phil McMinn</author></authors><title>Empirically evaluating flaky test detection techniques combining test case rerunning and machine learning models.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>3</number><pages>72</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/ParryKHM23</key><doi>10.1007/S10664-023-10307-W</doi><ee>https://doi.org/10.1007/s10664-023-10307-w</ee><url>https://dblp.org/rec/journals/ese/ParryKHM23</url></info>
+<url>URL#211040</url>
+</hit>
+<hit score="1" id="211041">
+<info><authors><author pid="265/5554">José Carlos Pazos</author><author pid="39/2543">Jean-Sébastien Légaré</author><author pid="98/5324">Ivan Beschastnikh</author></authors><title>XSnare: application-specific client-side cross-site scripting protection.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>5</number><pages>110</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/PazosLB23</key><doi>10.1007/S10664-023-10323-W</doi><ee>https://doi.org/10.1007/s10664-023-10323-w</ee><url>https://dblp.org/rec/journals/ese/PazosLB23</url></info>
+<url>URL#211041</url>
+</hit>
+<hit score="1" id="211042">
+<info><authors><author pid="260/6818">Kewen Peng</author><author pid="242/3948">Christian Kaltenecker</author><author pid="99/1780">Norbert Siegmund</author><author pid="a/SvenApel">Sven Apel</author><author pid="m/TimMenzies">Tim Menzies</author></authors><title>VEER: enhancing the interpretability of model-based optimizations.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>3</number><pages>61</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/PengKSAM23</key><doi>10.1007/S10664-023-10296-W</doi><ee>https://doi.org/10.1007/s10664-023-10296-w</ee><url>https://dblp.org/rec/journals/ese/PengKSAM23</url></info>
+<url>URL#211042</url>
+</hit>
+<hit score="1" id="211043">
+<info><authors><author pid="23/8779">Justyna Petke</author><author pid="97/3773">Brad Alexander</author><author pid="47/1088">Earl T. Barr</author><author pid="57/5601">Alexander E. I. Brownlee</author><author pid="94/7030-7">Markus Wagner 0007</author><author pid="62/659">David Robert White</author></authors><title>Program transformation landscapes for automated program modification using Gin.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>4</number><pages>104</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/PetkeABBWW23</key><doi>10.1007/S10664-023-10344-5</doi><ee>https://doi.org/10.1007/s10664-023-10344-5</ee><url>https://dblp.org/rec/journals/ese/PetkeABBWW23</url></info>
+<url>URL#211043</url>
+</hit>
+<hit score="1" id="211044">
+<info><authors><author pid="242/6301">Valentina Piantadosi</author><author pid="183/2560">Simone Scalabrino</author><author pid="s/AlexanderSerebrenik">Alexander Serebrenik</author><author pid="09/1798">Nicole Novielli</author><author pid="18/6986">Rocco Oliveto</author></authors><title>Do attention and memory explain the performance of software developers?</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>5</number><pages>112</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/PiantadosiSSNO23</key><doi>10.1007/S10664-023-10316-9</doi><ee>https://doi.org/10.1007/s10664-023-10316-9</ee><url>https://dblp.org/rec/journals/ese/PiantadosiSSNO23</url></info>
+<url>URL#211044</url>
+</hit>
+<hit score="1" id="211045">
+<info><authors><author pid="64/1594">Felipe Curty do Rego Pinto</author><author pid="25/3645">Leonardo Gresta Paulino Murta</author></authors><title>On the assignment of commits to releases.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>2</number><pages>32</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/PintoM23</key><doi>10.1007/S10664-022-10263-X</doi><ee>https://doi.org/10.1007/s10664-022-10263-x</ee><url>https://dblp.org/rec/journals/ese/PintoM23</url></info>
+<url>URL#211045</url>
+</hit>
+<hit score="1" id="211046">
+<info><authors><author pid="244/2380">Goran Piskachev</author><author pid="69/3369">Matthias Becker</author><author pid="94/5744">Eric Bodden</author></authors><title>Can the configuration of static analyses make resolving security vulnerabilities more effective? - A user study.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>5</number><pages>118</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/PiskachevBB23</key><doi>10.1007/S10664-023-10354-3</doi><ee>https://doi.org/10.1007/s10664-023-10354-3</ee><url>https://dblp.org/rec/journals/ese/PiskachevBB23</url></info>
+<url>URL#211046</url>
+</hit>
+<hit score="1" id="211047">
+<info><authors><author pid="06/10426">Akond Rahman</author><author pid="299/2259">Dibyendu Brinto Bose</author><author pid="273/5585">Raunak Shakya</author><author pid="05/9103">Rahul Pandita</author></authors><title>Come for syntax, stay for speed, understand defects: an empirical study of defects in Julia programs.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>4</number><pages>93</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/RahmanBSP23</key><doi>10.1007/S10664-023-10328-5</doi><ee>https://doi.org/10.1007/s10664-023-10328-5</ee><url>https://dblp.org/rec/journals/ese/RahmanBSP23</url></info>
+<url>URL#211047</url>
+</hit>
+<hit score="1" id="211048">
+<info><authors><author pid="335/3503">Dhivyabharathi Ramasamy</author><author pid="91/7572">Cristina Sarasua</author><author pid="83/5261">Alberto Bacchelli</author><author pid="b/AbrahamBernstein">Abraham Bernstein</author></authors><title>Workflow analysis of data science code in public GitHub repositories.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>1</number><pages>7</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/RamasamySBB23</key><doi>10.1007/S10664-022-10229-Z</doi><ee>https://doi.org/10.1007/s10664-022-10229-z</ee><url>https://dblp.org/rec/journals/ese/RamasamySBB23</url></info>
+<url>URL#211048</url>
+</hit>
+<hit score="1" id="211049">
+<info><authors><author pid="335/3503">Dhivyabharathi Ramasamy</author><author pid="91/7572">Cristina Sarasua</author><author pid="83/5261">Alberto Bacchelli</author><author pid="b/AbrahamBernstein">Abraham Bernstein</author></authors><title>Visualising data science workflows to support third-party notebook comprehension: an empirical study.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>3</number><pages>58</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/RamasamySBB23a</key><doi>10.1007/S10664-023-10289-9</doi><ee>https://doi.org/10.1007/s10664-023-10289-9</ee><url>https://dblp.org/rec/journals/ese/RamasamySBB23a</url></info>
+<url>URL#211049</url>
+</hit>
+<hit score="1" id="211050">
+<info><authors><author pid="132/7171">Talita Vieira Ribeiro</author><author pid="06/7402">Paulo Sérgio Medeiros dos Santos</author><author pid="t/GuilhermeTravassos">Guilherme Horta Travassos</author></authors><title>On the Investigation of Empirical Contradictions - Aggregated Results of Local Studies on Readability and Comprehensibility of Source Code.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>6</number><pages>148</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/RibeiroST23</key><doi>10.1007/S10664-023-10360-5</doi><ee>https://doi.org/10.1007/s10664-023-10360-5</ee><url>https://dblp.org/rec/journals/ese/RibeiroST23</url></info>
+<url>URL#211050</url>
+</hit>
+<hit score="1" id="211051">
+<info><authors><author pid="166/6879">Thaís Rocha</author><author pid="b/PauloBorba">Paulo Borba</author></authors><title>Using acceptance tests to predict merge conflict risk.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>2</number><pages>27</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/RochaB23</key><doi>10.1007/S10664-022-10266-8</doi><ee>https://doi.org/10.1007/s10664-022-10266-8</ee><url>https://dblp.org/rec/journals/ese/RochaB23</url></info>
+<url>URL#211051</url>
+</hit>
+<hit score="1" id="211052">
+<info><authors><author pid="10/9946-2">Daniel Russo 0002</author><author pid="173/5206">Paul H. P. Hanel</author><author pid="271/0240">Seraphina Altnickel</author><author pid="139/3792">Niels van Berkel</author></authors><title>Satisfaction and performance of software developers during enforced work from home in the COVID-19 pandemic.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>2</number><pages>53</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/RussoHAB23</key><doi>10.1007/S10664-023-10293-Z</doi><ee>https://doi.org/10.1007/s10664-023-10293-z</ee><url>https://dblp.org/rec/journals/ese/RussoHAB23</url></info>
+<url>URL#211052</url>
+</hit>
+<hit score="1" id="211053">
+<info><authors><author pid="241/3976">Renaud Rwemalika</author><author pid="202/9996">Sarra Habchi</author><author pid="00/7677">Mike Papadakis</author><author pid="95/5206">Yves Le Traon</author><author pid="305/3608">Marie-Claude Brasseur</author></authors><title>Smells in system user interactive tests.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>1</number><pages>20</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/RwemalikaHPTB23</key><doi>10.1007/S10664-022-10251-1</doi><ee>https://doi.org/10.1007/s10664-022-10251-1</ee><url>https://dblp.org/rec/journals/ese/RwemalikaHPTB23</url></info>
+<url>URL#211053</url>
+</hit>
+<hit score="1" id="211054">
+<info><authors><author pid="160/9087">Syeda Khairunnesa Samantha</author><author pid="241/9346">Shibbir Ahmed</author><author pid="228/5729">Sayem Mohammad Imtiaz</author><author pid="r/HrideshRajan">Hridesh Rajan</author><author pid="66/2755">Gary T. Leavens</author></authors><title>What kinds of contracts do ML APIs need?</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>6</number><pages>142</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/SamanthaAIRL23</key><doi>10.1007/S10664-023-10320-Z</doi><ee>https://doi.org/10.1007/s10664-023-10320-z</ee><url>https://dblp.org/rec/journals/ese/SamanthaAIRL23</url></info>
+<url>URL#211054</url>
+</hit>
+<hit score="1" id="211055">
+<info><authors><author pid="289/0005">Fabio Santos</author><author pid="260/0391">Joseph Vargovich</author><author pid="166/2138">Bianca Trinkenreich</author><author pid="203/0063">Ítalo Santos</author><author pid="344/0963">Jacob Penney</author><author pid="117/4593">Ricardo Britto 0001</author><author pid="161/7127">João Felipe Pimentel</author><author pid="06/10439">Igor Wiese</author><author pid="70/3474">Igor Steinmacher</author><author pid="26/6565">Anita Sarma</author><author pid="68/5072">Marco Aurélio Gerosa</author></authors><title>Tag that issue: applying API-domain labels in issue tracking systems.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>5</number><pages>116</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/SantosVTSPBPWSSG23</key><doi>10.1007/S10664-023-10329-4</doi><ee>https://doi.org/10.1007/s10664-023-10329-4</ee><url>https://dblp.org/rec/journals/ese/SantosVTSPBPWSSG23</url></info>
+<url>URL#211055</url>
+</hit>
+<hit score="1" id="211056">
+<info><authors><author pid="335/3142">Christian Schürhoff</author><author pid="h/StefanHanenberg">Stefan Hanenberg</author><author pid="g/VolkerGruhn">Volker Gruhn</author></authors><title>An empirical study on a single company&apos;s cost estimations of 338 software projects.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>1</number><pages>11</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/SchurhoffHG23</key><doi>10.1007/S10664-022-10245-Z</doi><ee>https://doi.org/10.1007/s10664-022-10245-z</ee><url>https://dblp.org/rec/journals/ese/SchurhoffHG23</url></info>
+<url>URL#211056</url>
+</hit>
+<hit score="1" id="211057">
+<info><authors><author pid="132/2259">Ramy Shahin</author><author pid="359/6686">Rafael F. Toledo</author><author pid="237/8570">Robert Hackman</author><author pid="r/SRamesh">S. Ramesh 0002</author><author pid="a/JMAtlee">Joanne M. Atlee</author><author pid="c/MarshaChechik">Marsha Chechik</author></authors><title>Applying declarative analysis to industrial automotive software product line models.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>2</number><pages>40</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/ShahinTHSAC23</key><doi>10.1007/S10664-023-10290-2</doi><ee>https://doi.org/10.1007/s10664-023-10290-2</ee><url>https://dblp.org/rec/journals/ese/ShahinTHSAC23</url></info>
+<url>URL#211057</url>
+</hit>
+<hit score="1" id="211058">
+<info><authors><author pid="349/5520">Sheik Shameer</author><author pid="180/0034">Gema Rodríguez-Pérez</author><author pid="27/2828">Meiyappan Nagappan</author></authors><title>Relationship between diversity of collaborative group members&apos; race and ethnicity and the frequency of their collaborative contributions in GitHub.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>4</number><pages>83</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/ShameerRN23</key><doi>10.1007/S10664-023-10313-Y</doi><ee>https://doi.org/10.1007/s10664-023-10313-y</ee><url>https://dblp.org/rec/journals/ese/ShameerRN23</url></info>
+<url>URL#211058</url>
+</hit>
+<hit score="1" id="211059">
+<info><authors><author pid="53/8825">Lwin Khin Shar</author><author pid="166/5793">Biniam Fisseha Demissie</author><author pid="52/3888">Mariano Ceccato</author><author pid="337/0921">Yan Naing Tun</author><author pid="89/6793-1">David Lo 0001</author><author pid="82/3572">Lingxiao Jiang</author><author pid="357/9449">Christoph Bienert</author></authors><title>Experimental comparison of features, analyses, and classifiers for Android malware detection.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>6</number><pages>130</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/SharDCTLJB23</key><doi>10.1007/S10664-023-10375-Y</doi><ee>https://doi.org/10.1007/s10664-023-10375-y</ee><url>https://dblp.org/rec/journals/ese/SharDCTLJB23</url></info>
+<url>URL#211059</url>
+</hit>
+<hit score="1" id="211060">
+<info><authors><author pid="75/8719-1">Tushar Sharma 0001</author><author pid="155/7241">Stefanos Georgiou</author><author pid="43/10965">Maria Kechagia</author><author pid="357/3072">Taher A. Ghaleb</author><author pid="18/7526">Federica Sarro</author></authors><title>Investigating developers&apos; perception on software testability and its effects.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>5</number><pages>120</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/SharmaGKGS23</key><doi>10.1007/S10664-023-10373-0</doi><ee>https://doi.org/10.1007/s10664-023-10373-0</ee><url>https://dblp.org/rec/journals/ese/SharmaGKGS23</url></info>
+<url>URL#211060</url>
+</hit>
+<hit score="1" id="211061">
+<info><authors><author pid="296/4159">Ensheng Shi</author><author pid="41/3458-1">Yanlin Wang 0001</author><author pid="213/3199">Lun Du</author><author pid="29/2726">Hongyu Zhang</author><author pid="23/3395">Shi Han</author><author pid="87/461-1">Dongmei Zhang 0001</author><author pid="98/6690-1">Hongbin Sun 0001</author></authors><title>CoCoAST: Representing Source Code via Hierarchical Splitting and Reconstruction of Abstract Syntax Trees.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>6</number><pages>135</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/ShiWDZHZS23</key><doi>10.1007/S10664-023-10378-9</doi><ee>https://doi.org/10.1007/s10664-023-10378-9</ee><url>https://dblp.org/rec/journals/ese/ShiWDZHZS23</url></info>
+<url>URL#211061</url>
+</hit>
+<hit score="1" id="211062">
+<info><authors><author pid="129/2667">Liyan Song</author><author pid="55/7992">Leandro L. Minku</author><author pid="26/3646">Xin Yao 0001</author></authors><title>On the validity of retrospective predictive performance evaluation procedures in just-in-time software defect prediction.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>5</number><pages>124</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/SongMY23</key><doi>10.1007/S10664-023-10341-8</doi><ee>https://doi.org/10.1007/s10664-023-10341-8</ee><url>https://dblp.org/rec/journals/ese/SongMY23</url></info>
+<url>URL#211062</url>
+</hit>
+<hit score="1" id="211063">
+<info><authors><author pid="65/657">Hengjie Song</author><author pid="135/6954">Guobin Wu</author><author pid="54/2166">Le Ma</author><author pid="04/3933">Yufei Pan</author><author pid="318/2236">Qingan Huang</author><author pid="132/8508">Siyu Jiang</author></authors><title>Adversarial domain adaptation for cross-project defect prediction.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>5</number><pages>127</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/SongWMPHJ23</key><doi>10.1007/S10664-023-10371-2</doi><ee>https://doi.org/10.1007/s10664-023-10371-2</ee><url>https://dblp.org/rec/journals/ese/SongWMPHJ23</url></info>
+<url>URL#211063</url>
+</hit>
+<hit score="1" id="211064">
+<info><authors><author pid="64/1715-1">Andrea Stocco 0001</author><author pid="309/7014">Brian Pulfer</author><author pid="54/2734">Paolo Tonella</author></authors><title>Model vs system level testing of autonomous driving systems: a replication and extension study.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>3</number><pages>73</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/StoccoPT23</key><doi>10.1007/S10664-023-10306-X</doi><ee>https://doi.org/10.1007/s10664-023-10306-x</ee><url>https://dblp.org/rec/journals/ese/StoccoPT23</url></info>
+<url>URL#211064</url>
+</hit>
+<hit score="1" id="211065">
+<info><authors><author pid="64/1715-1">Andrea Stocco 0001</author><author pid="20/1380">Onn Shehory</author><author pid="183/0177">Gunel Jahangirova</author><author pid="177/1943">Vincenzo Riccio</author><author pid="210/5787">Guy Barash</author><author pid="27/1084">Eitan Farchi</author><author pid="54/4272">Diptikalyan Saha</author></authors><title>Software testing in the machine learning era.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>3</number><pages>74</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/StoccoSJRBFS23</key><doi>10.1007/S10664-023-10326-7</doi><ee>https://doi.org/10.1007/s10664-023-10326-7</ee><url>https://dblp.org/rec/journals/ese/StoccoSJRBFS23</url></info>
+<url>URL#211065</url>
+</hit>
+<hit score="1" id="211066">
+<info><authors><author pid="264/7972">Sayma Sultana</author><author pid="274/6992">Asif Kamal Turzo</author><author pid="18/11159">Amiangshu Bosu</author></authors><title>Code reviews in open source projects : how do gender biases affect participation and outcomes?</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>4</number><pages>92</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/SultanaTB23</key><doi>10.1007/S10664-023-10324-9</doi><ee>https://doi.org/10.1007/s10664-023-10324-9</ee><url>https://dblp.org/rec/journals/ese/SultanaTB23</url></info>
+<url>URL#211066</url>
+</hit>
+<hit score="1" id="211067">
+<info><authors><author pid="36/2423">Yiming Sun</author><author pid="g/DanielMGerman">Daniel M. Germán</author><author pid="53/2641">Stefano Zacchiroli</author></authors><title>Using the uniqueness of global identifiers to determine the provenance of Python software source code.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>5</number><pages>107</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/SunGZ23</key><doi>10.1007/S10664-023-10317-8</doi><ee>https://doi.org/10.1007/s10664-023-10317-8</ee><url>https://dblp.org/rec/journals/ese/SunGZ23</url></info>
+<url>URL#211067</url>
+</hit>
+<hit score="1" id="211068">
+<info><authors><author pid="257/9837">Chico Sundermann</author><author pid="134/4926">Tobias Heß</author><author pid="174/9223">Michael Nieke</author><author pid="247/3993">Paul Maximilian Bittner</author><author pid="276/8988">Jeffrey M. Young</author><author pid="04/7056">Thomas Thüm</author><author pid="03/4484">Ina Schaefer</author></authors><title>Evaluating state-of-the-art # SAT solvers on industrial configuration spaces.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>2</number><pages>29</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/SundermannHNBYTS23</key><doi>10.1007/S10664-022-10265-9</doi><ee>https://doi.org/10.1007/s10664-022-10265-9</ee><url>https://dblp.org/rec/journals/ese/SundermannHNBYTS23</url></info>
+<url>URL#211068</url>
+</hit>
+<hit score="1" id="211069">
+<info><authors><author pid="139/4328">William G. Temple</author><author pid="41/5979">Yue Wu</author><author pid="125/2938">Carmen Cheh</author><author pid="86/6196">Yuan Li</author><author pid="38/8396-1">Binbin Chen 0001</author><author pid="18/5985">Zbigniew T. Kalbarczyk</author><author pid="s/WilliamHSanders">William H. Sanders</author><author pid="n/DavidMNicol">David M. Nicol</author></authors><title>CyberSAGE: The cyber security argument graph evaluation tool.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>1</number><pages>18</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/TempleWCLCKSN23</key><doi>10.1007/S10664-021-10056-8</doi><ee>https://doi.org/10.1007/s10664-021-10056-8</ee><url>https://dblp.org/rec/journals/ese/TempleWCLCKSN23</url></info>
+<url>URL#211069</url>
+</hit>
+<hit score="1" id="211070">
+<info><authors><author pid="96/7337">Damiano Torre</author><author pid="347/6699">Frantzy Mesadieu</author><author pid="19/8820">Anitha Chennamaneni</author></authors><title>Deep learning techniques to detect cybersecurity attacks: a systematic mapping study.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>3</number><pages>76</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/TorreMC23</key><doi>10.1007/S10664-023-10302-1</doi><ee>https://doi.org/10.1007/s10664-023-10302-1</ee><url>https://dblp.org/rec/journals/ese/TorreMC23</url></info>
+<url>URL#211070</url>
+</hit>
+<hit score="1" id="211071">
+<info><authors><author pid="225/0294">Luca Traini</author><author pid="c/VittorioCortellessa">Vittorio Cortellessa</author><author pid="171/1962">Daniele Di Pompeo</author><author pid="76/1930-1">Michele Tucci 0001</author></authors><title>Towards effective assessment of steady state performance in Java software: are we there yet?</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>1</number><pages>13</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/TrainiCPT23</key><doi>10.1007/S10664-022-10247-X</doi><ee>https://doi.org/10.1007/s10664-022-10247-x</ee><url>https://dblp.org/rec/journals/ese/TrainiCPT23</url></info>
+<url>URL#211071</url>
+</hit>
+<hit score="1" id="211072">
+<info><authors><author pid="203/6855">Alexander Trautsch</author><author pid="201/2731">Johannes Erbel</author><author pid="62/10102">Steffen Herbold</author><author pid="g/JensGrabowski">Jens Grabowski</author></authors><title>What really changes when developers intend to improve their source code: a commit-level study of static metric value and static analysis warning changes.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>2</number><pages>30</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/TrautschEHG23</key><doi>10.1007/S10664-022-10257-9</doi><ee>https://doi.org/10.1007/s10664-022-10257-9</ee><url>https://dblp.org/rec/journals/ese/TrautschEHG23</url></info>
+<url>URL#211072</url>
+</hit>
+<hit score="1" id="211073">
+<info><authors><author pid="203/6855">Alexander Trautsch</author><author pid="62/10102">Steffen Herbold</author><author pid="g/JensGrabowski">Jens Grabowski</author></authors><title>Are automated static analysis tools worth it? An investigation into relative warning density and external software quality on the example of Apache open source projects.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>3</number><pages>66</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/TrautschHG23</key><doi>10.1007/S10664-023-10301-2</doi><ee>https://doi.org/10.1007/s10664-023-10301-2</ee><url>https://dblp.org/rec/journals/ese/TrautschHG23</url></info>
+<url>URL#211073</url>
+</hit>
+<hit score="1" id="211074">
+<info><authors><author pid="32/10803">Lucas Francisco da Matta Vegi</author><author pid="o/MarcoTuliodeOliveiraValente">Marco Túlio Valente</author></authors><title>Understanding code smells in Elixir functional language.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>4</number><pages>102</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/VegiV23</key><doi>10.1007/S10664-023-10343-6</doi><ee>https://doi.org/10.1007/s10664-023-10343-6</ee><url>https://dblp.org/rec/journals/ese/VegiV23</url></info>
+<url>URL#211074</url>
+</hit>
+<hit score="1" id="211075">
+<info><authors><author pid="171/6647">Melina C. Vidoni</author><author pid="150/3264">Zadia Codabux</author></authors><title>Towards a taxonomy of Roxygen documentation in R packages.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>4</number><pages>106</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/VidoniC23</key><doi>10.1007/S10664-023-10345-4</doi><ee>https://doi.org/10.1007/s10664-023-10345-4</ee><url>https://dblp.org/rec/journals/ese/VidoniC23</url></info>
+<url>URL#211075</url>
+</hit>
+<hit score="1" id="211076">
+<info><authors><author pid="40/3934">Dong Wang</author><author pid="191/9340">Masanari Kondo</author><author pid="88/3251">Yasutaka Kamei</author><author pid="64/7675">Raula Gaikovina Kula</author><author pid="85/2856">Naoyasu Ubayashi</author></authors><title>When conversations turn into work: a taxonomy of converted discussions and issues in GitHub.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>6</number><pages>138</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/WangKKKU23</key><doi>10.1007/S10664-023-10366-Z</doi><ee>https://doi.org/10.1007/s10664-023-10366-z</ee><url>https://dblp.org/rec/journals/ese/WangKKKU23</url></info>
+<url>URL#211076</url>
+</hit>
+<hit score="1" id="211077">
+<info><authors><author pid="40/3934">Dong Wang</author><author pid="49/6441">Tao Xiao</author><author pid="287/7790">Teyon Son</author><author pid="64/7675">Raula Gaikovina Kula</author><author pid="66/39">Takashi Ishio</author><author pid="88/3251">Yasutaka Kamei</author><author pid="73/942">Kenichi Matsumoto</author></authors><title>More than React: Investigating the Role of Emoji Reaction in GitHub Pull Requests.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>5</number><pages>123</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/WangXSKIKM23</key><doi>10.1007/S10664-023-10336-5</doi><ee>https://doi.org/10.1007/s10664-023-10336-5</ee><url>https://dblp.org/rec/journals/ese/WangXSKIKM23</url></info>
+<url>URL#211077</url>
+</hit>
+<hit score="1" id="211078">
+<info><authors><author pid="360/9680">Nimmi Rashinika Weeraddana</author><author pid="16/5989">Xiaoyan Xu</author><author pid="272/9685">Mahmoud Alfadel</author><author pid="31/8127">Shane McIntosh</author><author pid="27/2828">Meiyappan Nagappan</author></authors><title>An empirical comparison of ethnic and gender diversity of DevOps and non-DevOps contributions to open-source projects.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>6</number><pages>150</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/WeeraddanaXAMN23</key><doi>10.1007/S10664-023-10394-9</doi><ee>https://doi.org/10.1007/s10664-023-10394-9</ee><url>https://dblp.org/rec/journals/ese/WeeraddanaXAMN23</url></info>
+<url>URL#211078</url>
+</hit>
+<hit score="1" id="211079">
+<info><authors><author pid="09/7865">Charles Weir</author><author pid="183/8093">Ingolf Becker</author><author pid="87/6649">Lynne Blair</author></authors><title>Incorporating software security: using developer workshops to engage product managers.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>1</number><pages>21</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/WeirBB23</key><doi>10.1007/S10664-022-10252-0</doi><ee>https://doi.org/10.1007/s10664-022-10252-0</ee><url>https://dblp.org/rec/journals/ese/WeirBB23</url></info>
+<url>URL#211079</url>
+</hit>
+<hit score="1" id="211080">
+<info><authors><author pid="84/7025-4">Michael Weiss 0004</author><author pid="324/8794">André García Gómez</author><author pid="54/2734">Paolo Tonella</author></authors><title>Generating and detecting true ambiguity: a forgotten danger in DNN supervision testing.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>6</number><pages>146</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/WeissGT23</key><doi>10.1007/S10664-023-10393-W</doi><ee>https://doi.org/10.1007/s10664-023-10393-w</ee><url>https://dblp.org/rec/journals/ese/WeissGT23</url></info>
+<url>URL#211080</url>
+</hit>
+<hit score="1" id="211081">
+<info><authors><author pid="99/1109-1">Ming Wen 0001</author><author pid="351/8775">Yongcong Wang</author><author pid="03/1418">Yifan Xia</author><author pid="98/4156">Hai Jin 0001</author></authors><title>Evaluating seed selection for fuzzing JavaScript engines.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>6</number><pages>133</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/WenWXJ23</key><doi>10.1007/S10664-023-10340-9</doi><ee>https://doi.org/10.1007/s10664-023-10340-9</ee><url>https://dblp.org/rec/journals/ese/WenWXJ23</url></info>
+<url>URL#211081</url>
+</hit>
+<hit score="1" id="211082">
+<info><authors><author pid="205/9369">Mairieli Wessel</author><author pid="260/0391">Joseph Vargovich</author><author pid="68/5072">Marco Aurélio Gerosa</author><author pid="29/1074">Christoph Treude</author></authors><title>GitHub Actions: The Impact on the Pull Request Process.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>6</number><pages>131</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/WesselVGT23</key><doi>10.1007/S10664-023-10369-W</doi><ee>https://doi.org/10.1007/s10664-023-10369-w</ee><url>https://dblp.org/rec/journals/ese/WesselVGT23</url></info>
+<url>URL#211082</url>
+</hit>
+<hit score="1" id="211083">
+<info><authors><author pid="52/328-14">Di Wu 0014</author><author pid="59/1365">Xiao-Yuan Jing</author><author pid="29/2726-2">Hongyu Zhang 0002</author><author pid="06/3406">Yuming Zhou</author><author pid="46/5742">Baowen Xu</author></authors><title>Leveraging Stack Overflow to detect relevant tutorial fragments of APIs.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>1</number><pages>12</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/WuJZZX23</key><doi>10.1007/S10664-022-10235-1</doi><ee>https://doi.org/10.1007/s10664-022-10235-1</ee><url>https://dblp.org/rec/journals/ese/WuJZZX23</url></info>
+<url>URL#211083</url>
+</hit>
+<hit score="1" id="211084">
+<info><authors><author pid="203/1387">Xingfang Wu</author><author pid="02/3672-7">Heng Li 0007</author><author pid="32/147">Foutse Khomh</author></authors><title>On the effectiveness of log representation for log-based anomaly detection.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>6</number><pages>137</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/WuLK23</key><doi>10.1007/S10664-023-10364-1</doi><ee>https://doi.org/10.1007/s10664-023-10364-1</ee><url>https://dblp.org/rec/journals/ese/WuLK23</url></info>
+<url>URL#211084</url>
+</hit>
+<hit score="1" id="211085">
+<info><authors><author pid="49/6441">Tao Xiao</author><author pid="145/3950">Sebastian Baltes</author><author pid="57/4288">Hideaki Hata</author><author pid="29/1074">Christoph Treude</author><author pid="64/7675">Raula Gaikovina Kula</author><author pid="66/39">Takashi Ishio</author><author pid="73/942">Kenichi Matsumoto</author></authors><title>18 million links in commit messages: purpose, evolution, and decay.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>4</number><pages>91</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/XiaoBHTKIM23</key><doi>10.1007/S10664-023-10325-8</doi><ee>https://doi.org/10.1007/s10664-023-10325-8</ee><url>https://dblp.org/rec/journals/ese/XiaoBHTKIM23</url></info>
+<url>URL#211085</url>
+</hit>
+<hit score="1" id="211086">
+<info><authors><author pid="322/8227">Aoyang Yan</author><author pid="06/5514-1">Hao Zhong 0001</author><author pid="282/5998">Daohan Song</author><author pid="46/1223">Li Jia</author></authors><title>How do programmers fix bugs as workarounds? An empirical study on Apache projects.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>4</number><pages>96</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/YanZSJ23</key><doi>10.1007/S10664-023-10318-7</doi><ee>https://doi.org/10.1007/s10664-023-10318-7</ee><url>https://dblp.org/rec/journals/ese/YanZSJ23</url></info>
+<url>URL#211086</url>
+</hit>
+<hit score="1" id="211087">
+<info><authors><author pid="51/1629-9">Nan Yang 0009</author><author pid="67/2571">Pieter J. L. Cuijpers</author><author pid="237/8554">Dennis Hendriks</author><author pid="42/2894">Ramon R. H. Schiffelers</author><author pid="l/JJLukkien">Johan Lukkien</author><author pid="s/AlexanderSerebrenik">Alexander Serebrenik</author></authors><title>An interview study about the use of logs in embedded software engineering.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>2</number><pages>43</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/YangCHSLS23</key><doi>10.1007/S10664-022-10258-8</doi><ee>https://doi.org/10.1007/s10664-022-10258-8</ee><url>https://dblp.org/rec/journals/ese/YangCHSLS23</url></info>
+<url>URL#211087</url>
+</hit>
+<hit score="1" id="211088">
+<info><authors><author pid="25/5712-19">Guang Yang 0019</author><author pid="36/2728-10">Yu Zhou 0010</author><author pid="64/3062-5">Xiang Chen 0005</author><author pid="95/3760">Xiangyu Zhang</author><author pid="122/5246">Yiran Xu</author><author pid="38/3003-1">Tingting Han 0001</author><author pid="28/4743">Taolue Chen</author></authors><title>A syntax-guided multi-task learning approach for Turducken-style code generation.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>6</number><pages>141</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/YangZCZXHC23</key><doi>10.1007/S10664-023-10372-1</doi><ee>https://doi.org/10.1007/s10664-023-10372-1</ee><url>https://dblp.org/rec/journals/ese/YangZCZXHC23</url></info>
+<url>URL#211088</url>
+</hit>
+<hit score="1" id="211089">
+<info><authors><author pid="311/4530">Sai S. Yerramreddy</author><author pid="242/3943">Austin Mordahl</author><author pid="142/8203">Ugur Koc</author><author pid="120/0117">Shiyi Wei</author><author pid="18/2050">Jeffrey S. Foster</author><author pid="71/1827">Marine Carpuat</author><author pid="p/AdamAPorter">Adam A. Porter</author></authors><title>An empirical assessment of machine learning approaches for triaging reports of static analysis tools.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>2</number><pages>28</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/YerramreddyMKWFCP23</key><doi>10.1007/S10664-022-10253-Z</doi><ee>https://doi.org/10.1007/s10664-022-10253-z</ee><url>https://dblp.org/rec/journals/ese/YerramreddyMKWFCP23</url></info>
+<url>URL#211089</url>
+</hit>
+<hit score="1" id="211090">
+<info><authors><author pid="276/8988">Jeffrey M. Young</author><author pid="247/3993">Paul Maximilian Bittner</author><author pid="21/5375">Eric Walkingshaw</author><author pid="04/7056">Thomas Thüm</author></authors><title>Variational satisfiability solving: efficiently solving lots of related SAT problems.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>1</number><pages>14</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/ese/YoungBWT23</key><doi>10.1007/S10664-022-10217-3</doi><ee>https://doi.org/10.1007/s10664-022-10217-3</ee><url>https://dblp.org/rec/journals/ese/YoungBWT23</url></info>
+<url>URL#211090</url>
+</hit>
+<hit score="1" id="211091">
+<info><authors><author pid="28/1433">Liang Yu</author><author pid="133/4686">Emil Alégroth</author><author pid="09/10404">Panagiota Chatzipetrou</author><author pid="82/3504">Tony Gorschek</author></authors><title>Automated NFR testing in continuous integration environments: a multi-case study of Nordic companies.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>6</number><pages>144</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/YuACG23</key><doi>10.1007/S10664-023-10356-1</doi><ee>https://doi.org/10.1007/s10664-023-10356-1</ee><url>https://dblp.org/rec/journals/ese/YuACG23</url></info>
+<url>URL#211091</url>
+</hit>
+<hit score="1" id="211092">
+<info><authors><author pid="71/8694">Luciana A. M. Zaina</author><author pid="165/4102">Joelma Choma</author><author pid="274/2232">Jullia Saad</author><author pid="75/2785">Leonor Barroca 0001</author><author pid="s/HelenSharp">Helen Sharp</author><author pid="145/7688">Letícia Machado</author><author pid="29/7640">Cleidson R. B. de Souza</author></authors><title>What do software startups need from UX work?</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>3</number><pages>80</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/ZainaCSBSMS23</key><doi>10.1007/S10664-023-10322-X</doi><ee>https://doi.org/10.1007/s10664-023-10322-x</ee><url>https://dblp.org/rec/journals/ese/ZainaCSBSMS23</url></info>
+<url>URL#211092</url>
+</hit>
+<hit score="1" id="211093">
+<info><authors><author pid="276/3918">Kunsong Zhao</author><author pid="00/1568-3">Zhou Xu 0003</author><author pid="131/4289-1">Meng Yan 0001</author><author pid="15/4777-1">Tao Zhang 0001</author><author pid="68/2052-1">Lei Xue 0001</author><author pid="63/6525-2">Ming Fan 0002</author><author pid="86/7853">Jacky Keung</author></authors><title>The impact of class imbalance techniques on crashing fault residence prediction models.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>2</number><pages>49</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/ZhaoXYZXFK23</key><doi>10.1007/S10664-023-10294-Y</doi><ee>https://doi.org/10.1007/s10664-023-10294-y</ee><url>https://dblp.org/rec/journals/ese/ZhaoXYZXFK23</url></info>
+<url>URL#211093</url>
+</hit>
+<hit score="1" id="211094">
+<info><authors><author pid="06/5514-1">Hao Zhong 0001</author><author pid="31/6028">Xiaoyin Wang</author></authors><title>An empirical study on API usages from code search engine and local library.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>3</number><pages>63</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/ZhongW23</key><doi>10.1007/S10664-023-10304-Z</doi><ee>https://doi.org/10.1007/s10664-023-10304-z</ee><url>https://dblp.org/rec/journals/ese/ZhongW23</url></info>
+<url>URL#211094</url>
+</hit>
+<hit score="1" id="211095">
+<info><authors><author pid="150/1506">Théo Zimmermann</author><author pid="39/1255">Jean-Rémy Falleri</author></authors><title>A grounded theory of community package maintenance organizations.</title><venue>Empir. Softw. Eng.</venue><volume>28</volume><number>4</number><pages>101</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/ese/ZimmermannF23</key><doi>10.1007/S10664-023-10337-4</doi><ee>https://doi.org/10.1007/s10664-023-10337-4</ee><url>https://dblp.org/rec/journals/ese/ZimmermannF23</url></info>
+<url>URL#211095</url>
+</hit>
+</hits>
+</result>

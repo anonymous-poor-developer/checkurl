@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="82990">:facetid:toc:\"db/journals/ese/ese8.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">65.08</time>
+<completions total="1" computed="1" sent="1">
+<c sc="15" dc="15" oc="15" id="44049494">:facetid:toc:db/journals/ese/ese8.bht</c>
+</completions>
+<hits total="15" computed="15" sent="15" first="0">
+<hit score="1" id="6213162">
+<info><authors><author pid="73/3515">Giuliano Antoniol</author><author pid="19/667">Roberto Fiutem</author><author pid="62/1877">Christopher J. Lokan</author></authors><title>Object-Oriented Function Points: An Empirical Validation.</title><venue>Empir. Softw. Eng.</venue><volume>8</volume><number>3</number><pages>225-254</pages><year>2003</year><type>Journal Articles</type><access>closed</access><key>journals/ese/AntoniolFL03</key><doi>10.1023/A:1024472727275</doi><ee>https://doi.org/10.1023/A:1024472727275</ee><url>https://dblp.org/rec/journals/ese/AntoniolFL03</url></info>
+<url>URL#6213162</url>
+</hit>
+<hit score="1" id="6213163">
+<info><authors><author pid="91/4078">Sarah Beecham</author><author pid="69/3214">Tracy Hall</author><author pid="15/642">Austen Rainer</author></authors><title>Software Process Improvement Problems in Twelve Software Companies: An Empirical Analysis.</title><venue>Empir. Softw. Eng.</venue><volume>8</volume><number>1</number><pages>7-42</pages><year>2003</year><type>Journal Articles</type><access>unavailable</access><key>journals/ese/BeechamHR03</key><url>https://dblp.org/rec/journals/ese/BeechamHR03</url></info>
+<url>URL#6213163</url>
+</hit>
+<hit score="1" id="6213164">
+<info><authors><author pid="39/5334">Griselda Giraudo</author><author pid="54/2734">Paolo Tonella</author></authors><title>Designing and Conducting an Empirical Study on Test Management Automation.</title><venue>Empir. Softw. Eng.</venue><volume>8</volume><number>1</number><pages>59-81</pages><year>2003</year><type>Journal Articles</type><access>unavailable</access><key>journals/ese/GiraudoT03</key><url>https://dblp.org/rec/journals/ese/GiraudoT03</url></info>
+<url>URL#6213164</url>
+</hit>
+<hit score="1" id="6213165">
+<info><authors><author pid="39/2221">Nadine Hanebutte</author><author pid="16/1860">Carol S. Taylor</author><author pid="d/ReinerRDumke">Reiner R. Dumke</author></authors><title>Techniques of Successful Application of Factor Analysis in Software Measurement.</title><venue>Empir. Softw. Eng.</venue><volume>8</volume><number>1</number><pages>43-57</pages><year>2003</year><type>Journal Articles</type><access>unavailable</access><key>journals/ese/HanebutteTD03</key><url>https://dblp.org/rec/journals/ese/HanebutteTD03</url></info>
+<url>URL#6213165</url>
+</hit>
+<hit score="1" id="6213166">
+<info><authors><author pid="k/TMKhoshgoftaar">Taghi M. Khoshgoftaar</author><author pid="93/1631">Naeem Seliya</author></authors><title>Fault Prediction Modeling for Software Quality Estimation: Comparing Commonly Used Techniques.</title><venue>Empir. Softw. Eng.</venue><volume>8</volume><number>3</number><pages>255-283</pages><year>2003</year><type>Journal Articles</type><access>closed</access><key>journals/ese/KhoshgoftaarS03</key><doi>10.1023/A:1024424811345</doi><ee>https://doi.org/10.1023/A:1024424811345</ee><url>https://dblp.org/rec/journals/ese/KhoshgoftaarS03</url></info>
+<url>URL#6213166</url>
+</hit>
+<hit score="1" id="6213167">
+<info><authors><author pid="k/TMKhoshgoftaar">Taghi M. Khoshgoftaar</author><author pid="93/1631">Naeem Seliya</author></authors><title>Analogy-Based Practical Classification Rules for Software Quality Estimation.</title><venue>Empir. Softw. Eng.</venue><volume>8</volume><number>4</number><pages>325-350</pages><year>2003</year><type>Journal Articles</type><access>closed</access><key>journals/ese/KhoshgoftaarS03a</key><doi>10.1023/A:1025316301168</doi><ee>https://doi.org/10.1023/A:1025316301168</ee><url>https://dblp.org/rec/journals/ese/KhoshgoftaarS03a</url></info>
+<url>URL#6213167</url>
+</hit>
+<hit score="1" id="6213168">
+<info><authors><author pid="06/6043">Mikael Lindvall</author><author pid="t/RoseanneTesorieroTvedt">Roseanne Tesoriero Tvedt</author><author pid="87/6979">Patricia Costa</author></authors><title>An Empirically-Based Process for Software Architecture Evaluation.</title><venue>Empir. Softw. Eng.</venue><volume>8</volume><number>1</number><pages>83-108</pages><year>2003</year><type>Journal Articles</type><access>unavailable</access><key>journals/ese/LindvallTC03</key><url>https://dblp.org/rec/journals/ese/LindvallTC03</url></info>
+<url>URL#6213168</url>
+</hit>
+<hit score="1" id="6213169">
+<info><authors><author pid="m/EMendes">Emilia Mendes</author><author pid="w/IanDWatson">Ian D. Watson</author><author pid="28/774">Chris Triggs</author><author pid="43/1246">Nile Mosley</author><author pid="93/6557">Steve Counsell</author></authors><title>A Comparative Study of Cost Estimation Models for Web Hypermedia Applications.</title><venue>Empir. Softw. Eng.</venue><volume>8</volume><number>2</number><pages>163-196</pages><year>2003</year><type>Journal Articles</type><access>unavailable</access><key>journals/ese/MendesWTMC03</key><url>https://dblp.org/rec/journals/ese/MendesWTMC03</url></info>
+<url>URL#6213169</url>
+</hit>
+<hit score="1" id="6213170">
+<info><authors><author pid="p/DietmarPfahl">Dietmar Pfahl</author><author pid="13/4144">Oliver Laitenberger</author><author pid="39/565">Jörg Dorsch</author><author pid="42/6131">Günther Ruhe</author></authors><title>An Externally Replicated Experiment for Evaluating the Learning Effectiveness of Using Simulations in Software Project Management Education.</title><venue>Empir. Softw. Eng.</venue><volume>8</volume><number>4</number><pages>367-395</pages><year>2003</year><type>Journal Articles</type><access>closed</access><key>journals/ese/PfahlLDR03</key><doi>10.1023/A:1025320418915</doi><ee>https://doi.org/10.1023/A:1025320418915</ee><url>https://dblp.org/rec/journals/ese/PfahlLDR03</url></info>
+<url>URL#6213170</url>
+</hit>
+<hit score="1" id="6213171">
+<info><authors><author pid="09/5320">Maurizio Pighin</author><author pid="97/3274">Vili Podgorelec</author><author pid="96/2660">Peter Kokol</author></authors><title>Fault-Threshold Prediction with Linear Programming Methodologies.</title><venue>Empir. Softw. Eng.</venue><volume>8</volume><number>2</number><pages>117-138</pages><year>2003</year><type>Journal Articles</type><access>unavailable</access><key>journals/ese/PighinPK03</key><url>https://dblp.org/rec/journals/ese/PighinPK03</url></info>
+<url>URL#6213171</url>
+</hit>
+<hit score="1" id="6213172">
+<info><authors><author pid="s/StephenRSchach">Stephen R. Schach</author><author pid="74/3468">Bo Jin</author><author pid="35/4417">Liguo Yu</author><author pid="19/4802">Gillian Z. Heller</author><author pid="o/AJeffersonOffutt">A. Jefferson Offutt</author></authors><title>Determining the Distribution of Maintenance Categories: Survey versus Measurement.</title><venue>Empir. Softw. Eng.</venue><volume>8</volume><number>4</number><pages>351-365</pages><year>2003</year><type>Journal Articles</type><access>closed</access><key>journals/ese/SchachJYHO03</key><doi>10.1023/A:1025368318006</doi><ee>https://doi.org/10.1023/A:1025368318006</ee><url>https://dblp.org/rec/journals/ese/SchachJYHO03</url></info>
+<url>URL#6213172</url>
+</hit>
+<hit score="1" id="6213173">
+<info><authors><author pid="96/5484">Erik Stensrud</author><author pid="25/4132">Tron Foss</author><author pid="k/BarbaraAKitchenham">Barbara A. Kitchenham</author><author pid="71/4660">Ingunn Myrtveit</author></authors><title>A Further Empirical Investigation of the Relationship Between MRE and Project Size.</title><venue>Empir. Softw. Eng.</venue><volume>8</volume><number>2</number><pages>139-161</pages><year>2003</year><type>Journal Articles</type><access>unavailable</access><key>journals/ese/StensrudFKM03</key><url>https://dblp.org/rec/journals/ese/StensrudFKM03</url></info>
+<url>URL#6213173</url>
+</hit>
+<hit score="1" id="6213174">
+<info><authors><author pid="17/5631">Giancarlo Succi</author><author pid="p/WitoldPedrycz">Witold Pedrycz</author><author pid="46/2414">Milorad Stefanovic</author><author pid="r/BarbaraRusso">Barbara Russo</author></authors><title>An Investigation on the Occurrence of Service Requests in Commercial Software Applications.</title><venue>Empir. Softw. Eng.</venue><volume>8</volume><number>2</number><pages>197-215</pages><year>2003</year><type>Journal Articles</type><access>unavailable</access><key>journals/ese/SucciPSR03</key><url>https://dblp.org/rec/journals/ese/SucciPSR03</url></info>
+<url>URL#6213174</url>
+</hit>
+<hit score="1" id="6213175">
+<info><authors><author pid="59/5542">Thomas Thelin</author></authors><title>Empirical Evaluations of Usage-Based Reading and Fault Content Estimation for Software Inspections.</title><venue>Empir. Softw. Eng.</venue><volume>8</volume><number>3</number><pages>309-313</pages><year>2003</year><type>Journal Articles</type><access>closed</access><key>journals/ese/Thelin03</key><doi>10.1023/A:1024428912254</doi><ee>https://doi.org/10.1023/A:1024428912254</ee><url>https://dblp.org/rec/journals/ese/Thelin03</url></info>
+<url>URL#6213175</url>
+</hit>
+<hit score="1" id="6213176">
+<info><authors><author pid="w/ClaesWohlin">Claes Wohlin</author><author pid="a/AnnelieseAmschlerAndrews">Anneliese Amschler Andrews</author></authors><title>Prioritizing and Assessing Software Project Success Factors and Project Characteristics using Subjective Data.</title><venue>Empir. Softw. Eng.</venue><volume>8</volume><number>3</number><pages>285-308</pages><year>2003</year><type>Journal Articles</type><access>closed</access><key>journals/ese/WohlinA03</key><doi>10.1023/A:1024476828183</doi><ee>https://doi.org/10.1023/A:1024476828183</ee><url>https://dblp.org/rec/journals/ese/WohlinA03</url></info>
+<url>URL#6213176</url>
+</hit>
+</hits>
+</result>

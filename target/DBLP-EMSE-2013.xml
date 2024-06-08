@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="83454">:facetid:toc:\"db/journals/ese/ese18.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">75.40</time>
+<completions total="1" computed="1" sent="1">
+<c sc="37" dc="37" oc="37" id="44049476">:facetid:toc:db/journals/ese/ese18.bht</c>
+</completions>
+<hits total="37" computed="37" sent="37" first="0">
+<hit score="1" id="4114735">
+<info><authors><author pid="73/3515">Giuliano Antoniol</author><author pid="g/KBGallagher">Keith B. Gallagher</author></authors><title>Preface to the special issue on program comprehension.</title><venue>Empir. Softw. Eng.</venue><volume>18</volume><number>2</number><pages>177-180</pages><year>2013</year><type>Journal Articles</type><access>open</access><key>journals/ese/AntoniolG13</key><doi>10.1007/S10664-012-9212-1</doi><ee>https://doi.org/10.1007/s10664-012-9212-1</ee><url>https://dblp.org/rec/journals/ese/AntoniolG13</url></info>
+<url>URL#4114735</url>
+</hit>
+<hit score="1" id="4114736">
+<info><authors><author pid="59/2858">Andrea Arcuri</author><author pid="74/2259">Gordon Fraser 0001</author></authors><title>Parameter tuning or default values? An empirical investigation in search-based software engineering.</title><venue>Empir. Softw. Eng.</venue><volume>18</volume><number>3</number><pages>594-623</pages><year>2013</year><type>Journal Articles</type><access>closed</access><key>journals/ese/ArcuriF13</key><doi>10.1007/S10664-013-9249-9</doi><ee>https://doi.org/10.1007/s10664-013-9249-9</ee><url>https://dblp.org/rec/journals/ese/ArcuriF13</url></info>
+<url>URL#4114736</url>
+</hit>
+<hit score="1" id="4114737">
+<info><authors><author pid="09/8523">Gabriele Bavota</author><author pid="33/2785">Andrea De Lucia</author><author pid="m/AndrianMarcus">Andrian Marcus</author><author pid="18/6986">Rocco Oliveto</author></authors><title>Using structural and semantic measures to improve software modularization.</title><venue>Empir. Softw. Eng.</venue><volume>18</volume><number>5</number><pages>901-932</pages><year>2013</year><type>Journal Articles</type><access>closed</access><key>journals/ese/BavotaLMO13</key><doi>10.1007/S10664-012-9226-8</doi><ee>https://doi.org/10.1007/s10664-012-9226-8</ee><url>https://dblp.org/rec/journals/ese/BavotaLMO13</url></info>
+<url>URL#4114737</url>
+</hit>
+<hit score="1" id="4114738">
+<info><authors><author pid="b/FabianBeck">Fabian Beck 0001</author><author pid="d/StephanDiehl1">Stephan Diehl 0001</author></authors><title>On the impact of software evolution on software clustering.</title><venue>Empir. Softw. Eng.</venue><volume>18</volume><number>5</number><pages>970-1004</pages><year>2013</year><type>Journal Articles</type><access>closed</access><key>journals/ese/BeckD13</key><doi>10.1007/S10664-012-9225-9</doi><ee>https://doi.org/10.1007/s10664-012-9225-9</ee><url>https://dblp.org/rec/journals/ese/BeckD13</url></info>
+<url>URL#4114738</url>
+</hit>
+<hit score="1" id="4114739">
+<info><authors><author pid="97/1217">Robert M. Bell</author><author pid="50/7016">Thomas J. Ostrand</author><author pid="55/1672">Elaine J. Weyuker</author></authors><title>The limited impact of individual developer data on software defect prediction.</title><venue>Empir. Softw. Eng.</venue><volume>18</volume><number>3</number><pages>478-505</pages><year>2013</year><type>Journal Articles</type><access>closed</access><key>journals/ese/BellOW13</key><doi>10.1007/S10664-011-9178-4</doi><ee>https://doi.org/10.1007/s10664-011-9178-4</ee><url>https://dblp.org/rec/journals/ese/BellOW13</url></info>
+<url>URL#4114739</url>
+</hit>
+<hit score="1" id="4114740">
+<info><authors><author pid="76/6207">Nicolas Bettenburg</author><author pid="h/AhmedEHassan">Ahmed E. Hassan</author></authors><title>Studying the impact of social interactions on software quality.</title><venue>Empir. Softw. Eng.</venue><volume>18</volume><number>2</number><pages>375-431</pages><year>2013</year><type>Journal Articles</type><access>closed</access><key>journals/ese/BettenburgH13</key><doi>10.1007/S10664-012-9205-0</doi><ee>https://doi.org/10.1007/s10664-012-9205-0</ee><url>https://dblp.org/rec/journals/ese/BettenburgH13</url></info>
+<url>URL#4114740</url>
+</hit>
+<hit score="1" id="4114741">
+<info><authors><author pid="b/DavidBinkley">Dave W. Binkley</author><author pid="29/7548">Marcia Davis</author><author pid="l/DawnLawrie">Dawn J. Lawrie</author><author pid="m/JonathanIMaletic">Jonathan I. Maletic</author><author pid="38/468">Christopher Morrell</author><author pid="08/3315">Bonita Sharif</author></authors><title>The impact of identifier style on effort and comprehension.</title><venue>Empir. Softw. Eng.</venue><volume>18</volume><number>2</number><pages>219-276</pages><year>2013</year><type>Journal Articles</type><access>closed</access><key>journals/ese/BinkleyDLMMS13</key><doi>10.1007/S10664-012-9201-4</doi><ee>https://doi.org/10.1007/s10664-012-9201-4</ee><url>https://dblp.org/rec/journals/ese/BinkleyDLMMS13</url></info>
+<url>URL#4114741</url>
+</hit>
+<hit score="1" id="4114742">
+<info><authors><author pid="57/9655">Oscar Callaú</author><author pid="43/5822">Romain Robbes</author><author pid="t/EricTanter">Éric Tanter</author><author pid="43/1028">David Röthlisberger</author></authors><title>How (and why) developers use the dynamic features of programming languages: the case of smalltalk.</title><venue>Empir. Softw. Eng.</venue><volume>18</volume><number>6</number><pages>1156-1194</pages><year>2013</year><type>Journal Articles</type><access>closed</access><key>journals/ese/CallauRTR13</key><doi>10.1007/S10664-012-9203-2</doi><ee>https://doi.org/10.1007/s10664-012-9203-2</ee><url>https://dblp.org/rec/journals/ese/CallauRTR13</url></info>
+<url>URL#4114742</url>
+</hit>
+<hit score="1" id="4114743">
+<info><authors><author pid="32/5889">Andrea Capiluppi</author><author pid="52/8838-1">Daniel Izquierdo-Cortazar</author></authors><title>Effort estimation of FLOSS projects: a study of the Linux kernel.</title><venue>Empir. Softw. Eng.</venue><volume>18</volume><number>1</number><pages>60-88</pages><year>2013</year><type>Journal Articles</type><access>closed</access><key>journals/ese/CapiluppiI13</key><doi>10.1007/S10664-011-9191-7</doi><ee>https://doi.org/10.1007/s10664-011-9191-7</ee><url>https://dblp.org/rec/journals/ese/CapiluppiI13</url></info>
+<url>URL#4114743</url>
+</hit>
+<hit score="1" id="4114744">
+<info><authors><author pid="71/1464">Mel Ó Cinnéide</author><author pid="79/5975">Myra B. Cohen</author></authors><title>Introduction to the special issue on search based software engineering.</title><venue>Empir. Softw. Eng.</venue><volume>18</volume><number>3</number><pages>547-549</pages><year>2013</year><type>Journal Articles</type><access>open</access><key>journals/ese/CinneideC13</key><doi>10.1007/S10664-013-9257-9</doi><ee>https://doi.org/10.1007/s10664-013-9257-9</ee><url>https://dblp.org/rec/journals/ese/CinneideC13</url></info>
+<url>URL#4114744</url>
+</hit>
+<hit score="1" id="4114745">
+<info><authors><author pid="02/2002">Anna Corazza</author><author pid="29/2259">Sergio Di Martino</author><author pid="68/6536">Filomena Ferrucci</author><author pid="62/1673">Carmine Gravino</author><author pid="18/7526">Federica Sarro</author><author pid="m/EMendes">Emilia Mendes</author></authors><title>Using tabu search to configure support vector regression for effort estimation.</title><venue>Empir. Softw. Eng.</venue><volume>18</volume><number>3</number><pages>506-546</pages><year>2013</year><type>Journal Articles</type><access>closed</access><key>journals/ese/CorazzaMFGSM13</key><doi>10.1007/S10664-011-9187-3</doi><ee>https://doi.org/10.1007/s10664-011-9187-3</ee><url>https://dblp.org/rec/journals/ese/CorazzaMFGSM13</url></info>
+<url>URL#4114745</url>
+</hit>
+<hit score="1" id="4114746">
+<info><authors><author pid="43/8127">Julius Davies</author><author pid="g/DanielMGerman">Daniel M. Germán</author><author pid="g/MichaelWGodfrey">Michael W. Godfrey</author><author pid="76/2009">Abram Hindle</author></authors><title>Software Bertillonage - Determining the provenance of software development artifacts.</title><venue>Empir. Softw. Eng.</venue><volume>18</volume><number>6</number><pages>1195-1237</pages><year>2013</year><type>Journal Articles</type><access>closed</access><key>journals/ese/DaviesGGH13</key><doi>10.1007/S10664-012-9199-7</doi><ee>https://doi.org/10.1007/s10664-012-9199-7</ee><url>https://dblp.org/rec/journals/ese/DaviesGGH13</url></info>
+<url>URL#4114746</url>
+</hit>
+<hit score="1" id="4114747">
+<info><authors><author pid="65/8337">Bogdan Dit</author><author pid="24/794">Meghan Revelle</author><author pid="02/320">Denys Poshyvanyk</author></authors><title>Integrating information retrieval, execution and link analysis algorithms to improve feature location in software.</title><venue>Empir. Softw. Eng.</venue><volume>18</volume><number>2</number><pages>277-309</pages><year>2013</year><type>Journal Articles</type><access>closed</access><key>journals/ese/DitRP13</key><doi>10.1007/S10664-011-9194-4</doi><ee>https://doi.org/10.1007/s10664-011-9194-4</ee><url>https://dblp.org/rec/journals/ese/DitRP13</url></info>
+<url>URL#4114747</url>
+</hit>
+<hit score="1" id="4114748">
+<info><authors><author pid="88/7055">Janet Feigenspan</author><author pid="85/3873">Christian Kästner</author><author pid="a/SvenApel">Sven Apel</author><author pid="15/7442">Jörg Liebig</author><author pid="03/1761">Michael Schulze</author><author pid="45/4302">Raimund Dachselt</author><author pid="79/9988">Maria Papendieck</author><author pid="00/3032">Thomas Leich</author><author pid="s/GunterSaake">Gunter Saake</author></authors><title>Do background colors improve program comprehension in the #ifdef hell?</title><venue>Empir. Softw. Eng.</venue><volume>18</volume><number>4</number><pages>699-745</pages><year>2013</year><type>Journal Articles</type><access>closed</access><key>journals/ese/FeigenspanKALSDPLS13</key><doi>10.1007/S10664-012-9208-X</doi><ee>https://doi.org/10.1007/s10664-012-9208-x</ee><url>https://dblp.org/rec/journals/ese/FeigenspanKALSDPLS13</url></info>
+<url>URL#4114748</url>
+</hit>
+<hit score="1" id="4114749">
+<info><authors><author pid="94/886">Michaela Greiler</author><author pid="d/ArievanDeursen">Arie van Deursen</author></authors><title>What your plug-in test suites really test: an integration perspective on test suite understanding.</title><venue>Empir. Softw. Eng.</venue><volume>18</volume><number>5</number><pages>859-900</pages><year>2013</year><type>Journal Articles</type><access>closed</access><key>journals/ese/GreilerD13</key><doi>10.1007/S10664-012-9235-7</doi><ee>https://doi.org/10.1007/s10664-012-9235-7</ee><url>https://dblp.org/rec/journals/ese/GreilerD13</url></info>
+<url>URL#4114749</url>
+</hit>
+<hit score="1" id="4114750">
+<info><authors><author pid="h/MarijnHeule">Marijn Heule</author><author pid="81/5891">Sicco Verwer</author></authors><title>Software model synthesis using satisfiability solvers.</title><venue>Empir. Softw. Eng.</venue><volume>18</volume><number>4</number><pages>825-856</pages><year>2013</year><type>Journal Articles</type><access>closed</access><key>journals/ese/HeuleV13</key><doi>10.1007/S10664-012-9222-Z</doi><ee>https://doi.org/10.1007/s10664-012-9222-z</ee><url>https://dblp.org/rec/journals/ese/HeuleV13</url></info>
+<url>URL#4114750</url>
+</hit>
+<hit score="1" id="4114751">
+<info><authors><author pid="76/2009">Abram Hindle</author><author pid="68/3691">Neil A. Ernst</author><author pid="g/MichaelWGodfrey">Michael W. Godfrey</author><author pid="m/JohnMylopoulos">John Mylopoulos</author></authors><title>Automated topic naming - Supporting cross-project analysis of software maintenance activities.</title><venue>Empir. Softw. Eng.</venue><volume>18</volume><number>6</number><pages>1125-1155</pages><year>2013</year><type>Journal Articles</type><access>closed</access><key>journals/ese/HindleEGM13</key><doi>10.1007/S10664-012-9209-9</doi><ee>https://doi.org/10.1007/s10664-012-9209-9</ee><url>https://dblp.org/rec/journals/ese/HindleEGM13</url></info>
+<url>URL#4114751</url>
+</hit>
+<hit score="1" id="4114752">
+<info><authors><author pid="64/5457">Elizabeth Ashlee Holbrook</author><author pid="16/1155">Jane Huffman Hayes</author><author pid="d/AlexDekhtyar">Alex Dekhtyar</author><author pid="27/1736-9">Wenbin Li 0009</author></authors><title>A study of methods for textual satisfaction assessment.</title><venue>Empir. Softw. Eng.</venue><volume>18</volume><number>1</number><pages>139-176</pages><year>2013</year><type>Journal Articles</type><access>closed</access><key>journals/ese/HolbrookHDL13</key><doi>10.1007/S10664-012-9198-8</doi><ee>https://doi.org/10.1007/s10664-012-9198-8</ee><url>https://dblp.org/rec/journals/ese/HolbrookHDL13</url></info>
+<url>URL#4114752</url>
+</hit>
+<hit score="1" id="4114753">
+<info><authors><author pid="39/4382">Huzefa H. Kagdi</author><author pid="11/8025">Malcom Gethers</author><author pid="02/320">Denys Poshyvanyk</author></authors><title>Integrating conceptual and logical couplings for change impact analysis in software.</title><venue>Empir. Softw. Eng.</venue><volume>18</volume><number>5</number><pages>933-969</pages><year>2013</year><type>Journal Articles</type><access>closed</access><key>journals/ese/KagdiGP13</key><doi>10.1007/S10664-012-9233-9</doi><ee>https://doi.org/10.1007/s10664-012-9233-9</ee><url>https://dblp.org/rec/journals/ese/KagdiGP13</url></info>
+<url>URL#4114753</url>
+</hit>
+<hit score="1" id="4114754">
+<info><authors><author pid="93/7095">Ekrem Kocaguneli</author><author pid="m/TimMenzies">Tim Menzies</author><author pid="86/7853">Jacky W. Keung</author></authors><title>Kernel methods for software effort estimation - Effects of different kernel functions and bandwidths on estimation accuracy.</title><venue>Empir. Softw. Eng.</venue><volume>18</volume><number>1</number><pages>1-24</pages><year>2013</year><type>Journal Articles</type><access>closed</access><key>journals/ese/KocaguneliMK13</key><doi>10.1007/S10664-011-9189-1</doi><ee>https://doi.org/10.1007/s10664-011-9189-1</ee><url>https://dblp.org/rec/journals/ese/KocaguneliMK13</url></info>
+<url>URL#4114754</url>
+</hit>
+<hit score="1" id="4114755">
+<info><authors><author pid="65/1171">Heiko Koziolek</author><author pid="83/6332">Bastian Schlich</author><author pid="78/3405">Steffen Becker 0001</author><author pid="13/7073-1">Michael Hauck 0001</author></authors><title>Performance and reliability prediction for evolving service-oriented software systems - Industrial experience report.</title><venue>Empir. Softw. Eng.</venue><volume>18</volume><number>4</number><pages>746-790</pages><year>2013</year><type>Journal Articles</type><access>closed</access><key>journals/ese/KoziolekSBH13</key><doi>10.1007/S10664-012-9213-0</doi><ee>https://doi.org/10.1007/s10664-012-9213-0</ee><url>https://dblp.org/rec/journals/ese/KoziolekSBH13</url></info>
+<url>URL#4114755</url>
+</hit>
+<hit score="1" id="4114756">
+<info><authors><author pid="l/RalfLammel">Ralf Lämmel</author><author pid="40/8337">Ekaterina Pek</author></authors><title>Understanding privacy policies - A study in empirical analysis of language usage.</title><venue>Empir. Softw. Eng.</venue><volume>18</volume><number>2</number><pages>310-374</pages><year>2013</year><type>Journal Articles</type><access>closed</access><key>journals/ese/LammelP13</key><doi>10.1007/S10664-012-9204-1</doi><ee>https://doi.org/10.1007/s10664-012-9204-1</ee><url>https://dblp.org/rec/journals/ese/LammelP13</url></info>
+<url>URL#4114756</url>
+</hit>
+<hit score="1" id="4114757">
+<info><authors><author pid="m/TimMenzies">Tim Menzies</author><author pid="41/5540">Günes Koru</author></authors><title>Predictive models in software engineering.</title><venue>Empir. Softw. Eng.</venue><volume>18</volume><number>3</number><pages>433-434</pages><year>2013</year><type>Journal Articles</type><access>open</access><key>journals/ese/MenziesK13</key><doi>10.1007/S10664-013-9252-1</doi><ee>https://doi.org/10.1007/s10664-013-9252-1</ee><url>https://dblp.org/rec/journals/ese/MenziesK13</url></info>
+<url>URL#4114757</url>
+</hit>
+<hit score="1" id="4114758">
+<info><authors><author pid="15/6373">Parastoo Mohagheghi</author><author pid="99/2575">Wasif Gilani</author><author pid="17/512">Alin Stefanescu</author><author pid="55/2229">Miguel A. Fernández</author></authors><title>An empirical study of the state of the practice and acceptance of model-driven engineering in four industrial cases.</title><venue>Empir. Softw. Eng.</venue><volume>18</volume><number>1</number><pages>89-116</pages><year>2013</year><type>Journal Articles</type><access>closed</access><key>journals/ese/MohagheghiGSF13</key><doi>10.1007/S10664-012-9196-X</doi><ee>https://doi.org/10.1007/s10664-012-9196-x</ee><url>https://dblp.org/rec/journals/ese/MohagheghiGSF13</url></info>
+<url>URL#4114758</url>
+</hit>
+<hit score="1" id="4114759">
+<info><authors><author pid="35/9656">Dennis Pagano</author><author pid="98/6717">Walid Maalej</author></authors><title>How do open source communities blog?</title><venue>Empir. Softw. Eng.</venue><volume>18</volume><number>6</number><pages>1090-1124</pages><year>2013</year><type>Journal Articles</type><access>closed</access><key>journals/ese/PaganoM13</key><doi>10.1007/S10664-012-9211-2</doi><ee>https://doi.org/10.1007/s10664-012-9211-2</ee><url>https://dblp.org/rec/journals/ese/PaganoM13</url></info>
+<url>URL#4114759</url>
+</hit>
+<hit score="1" id="4114760">
+<info><authors><author pid="46/2873">Chris Parnin</author><author pid="b/ChristianBird">Christian Bird</author><author pid="02/3722">Emerson R. Murphy-Hill</author></authors><title>Adoption and use of Java generics.</title><venue>Empir. Softw. Eng.</venue><volume>18</volume><number>6</number><pages>1047-1089</pages><year>2013</year><type>Journal Articles</type><access>closed</access><key>journals/ese/ParninBM13</key><doi>10.1007/S10664-012-9236-6</doi><ee>https://doi.org/10.1007/s10664-012-9236-6</ee><url>https://dblp.org/rec/journals/ese/ParninBM13</url></info>
+<url>URL#4114760</url>
+</hit>
+<hit score="1" id="4114761">
+<info><authors><author pid="98/5177">Martin Pinzger 0001</author><author pid="73/3515">Giuliano Antoniol</author></authors><title>Guest editorial: reverse engineering.</title><venue>Empir. Softw. Eng.</venue><volume>18</volume><number>5</number><pages>857-858</pages><year>2013</year><type>Journal Articles</type><access>open</access><key>journals/ese/PinzgerA13</key><doi>10.1007/S10664-012-9237-5</doi><ee>https://doi.org/10.1007/s10664-012-9237-5</ee><url>https://dblp.org/rec/journals/ese/PinzgerA13</url></info>
+<url>URL#4114761</url>
+</hit>
+<hit score="1" id="4114762">
+<info><authors><author pid="82/5098">Uzma Raja</author></authors><title>All complaints are not created equal: text analysis of open source software defect reports.</title><venue>Empir. Softw. Eng.</venue><volume>18</volume><number>1</number><pages>117-138</pages><year>2013</year><type>Journal Articles</type><access>closed</access><key>journals/ese/Raja13</key><doi>10.1007/S10664-012-9197-9</doi><ee>https://doi.org/10.1007/s10664-012-9197-9</ee><url>https://dblp.org/rec/journals/ese/Raja13</url></info>
+<url>URL#4114762</url>
+</hit>
+<hit score="1" id="4114763">
+<info><authors><author pid="13/2349">Thomas Schulz</author><author pid="32/6177">Lukasz Radlinski</author><author pid="95/2111">Thomas Gorges</author><author pid="r/WRosenstiel">Wolfgang Rosenstiel</author></authors><title>Predicting the Flow of Defect Correction Effort using a Bayesian Network Model.</title><venue>Empir. Softw. Eng.</venue><volume>18</volume><number>3</number><pages>435-477</pages><year>2013</year><type>Journal Articles</type><access>closed</access><key>journals/ese/SchulzRGR13</key><doi>10.1007/S10664-011-9175-7</doi><ee>https://doi.org/10.1007/s10664-011-9175-7</ee><url>https://dblp.org/rec/journals/ese/SchulzRGR13</url></info>
+<url>URL#4114763</url>
+</hit>
+<hit score="1" id="4114764">
+<info><authors><author pid="30/7677">Yeong-Seok Seo</author><author pid="32/5432">Doo-Hwan Bae</author></authors><title>On the value of outlier elimination on software effort estimation research.</title><venue>Empir. Softw. Eng.</venue><volume>18</volume><number>4</number><pages>659-698</pages><year>2013</year><type>Journal Articles</type><access>closed</access><key>journals/ese/SeoB13</key><doi>10.1007/S10664-012-9207-Y</doi><ee>https://doi.org/10.1007/s10664-012-9207-y</ee><url>https://dblp.org/rec/journals/ese/SeoB13</url></info>
+<url>URL#4114764</url>
+</hit>
+<hit score="1" id="4114765">
+<info><authors><author pid="05/5996">Emad Shihab</author><author pid="22/8358">Akinori Ihara</author><author pid="88/3251">Yasutaka Kamei</author><author pid="27/8321">Walid M. Ibrahim</author><author pid="47/1216">Masao Ohira</author><author pid="98/6356">Bram Adams</author><author pid="h/AhmedEHassan">Ahmed E. Hassan</author><author pid="73/942">Ken-ichi Matsumoto</author></authors><title>Studying re-opened bugs in open source software.</title><venue>Empir. Softw. Eng.</venue><volume>18</volume><number>5</number><pages>1005-1042</pages><year>2013</year><type>Journal Articles</type><access>closed</access><key>journals/ese/ShihabIKIOAHM13</key><doi>10.1007/S10664-012-9228-6</doi><ee>https://doi.org/10.1007/s10664-012-9228-6</ee><url>https://dblp.org/rec/journals/ese/ShihabIKIOAHM13</url></info>
+<url>URL#4114765</url>
+</hit>
+<hit score="1" id="4114766">
+<info><authors><author pid="47/6410">Yonghee Shin</author><author pid="w/LaurieAWilliams">Laurie A. Williams</author></authors><title>Can traditional fault prediction models be used for vulnerability prediction?</title><venue>Empir. Softw. Eng.</venue><volume>18</volume><number>1</number><pages>25-59</pages><year>2013</year><type>Journal Articles</type><access>closed</access><key>journals/ese/ShinW13</key><doi>10.1007/S10664-011-9190-8</doi><ee>https://doi.org/10.1007/s10664-011-9190-8</ee><url>https://dblp.org/rec/journals/ese/ShinW13</url></info>
+<url>URL#4114766</url>
+</hit>
+<hit score="1" id="4114767">
+<info><authors><author pid="00/6421">Gursimran Singh Walia</author><author pid="c/JeffreyCCarver">Jeffrey C. Carver</author></authors><title>Using error abstraction and classification to improve requirement quality: conclusions from a family of four empirical studies.</title><venue>Empir. Softw. Eng.</venue><volume>18</volume><number>4</number><pages>625-658</pages><year>2013</year><type>Journal Articles</type><access>closed</access><key>journals/ese/WaliaC13</key><doi>10.1007/S10664-012-9202-3</doi><ee>https://doi.org/10.1007/s10664-012-9202-3</ee><url>https://dblp.org/rec/journals/ese/WaliaC13</url></info>
+<url>URL#4114767</url>
+</hit>
+<hit score="1" id="4114768">
+<info><authors><author pid="36/3976">Neil Walkinshaw</author><author pid="34/1185">Bernard Lambeau</author><author pid="68/5066">Christophe Damas</author><author pid="11/6933-2">Kirill Bogdanov 0002</author><author pid="63/2403">Pierre Dupont</author></authors><title>STAMINA: a competition to encourage the development and assessment of software model inference techniques.</title><venue>Empir. Softw. Eng.</venue><volume>18</volume><number>4</number><pages>791-824</pages><year>2013</year><type>Journal Articles</type><access>open</access><key>journals/ese/WalkinshawLDBD13</key><doi>10.1007/S10664-012-9210-3</doi><ee>https://doi.org/10.1007/s10664-012-9210-3</ee><url>https://dblp.org/rec/journals/ese/WalkinshawLDBD13</url></info>
+<url>URL#4114768</url>
+</hit>
+<hit score="1" id="4114769">
+<info><authors><author pid="x/TaoXie">Tao Xie 0001</author><author pid="19/3622-1">Thomas Zimmermann 0001</author><author pid="d/ArievanDeursen">Arie van Deursen</author></authors><title>Introduction to the special issue on mining software repositories.</title><venue>Empir. Softw. Eng.</venue><volume>18</volume><number>6</number><pages>1043-1046</pages><year>2013</year><type>Journal Articles</type><access>open</access><key>journals/ese/XieZD13</key><doi>10.1007/S10664-013-9273-9</doi><ee>https://doi.org/10.1007/s10664-013-9273-9</ee><url>https://dblp.org/rec/journals/ese/XieZD13</url></info>
+<url>URL#4114769</url>
+</hit>
+<hit score="1" id="4114770">
+<info><authors><author pid="06/1626">Shin Yoo</author><author pid="h/MarkHarman">Mark Harman</author><author pid="41/371">Shmuel Ur</author></authors><title>GPGPU test suite minimisation: search based software engineering performance improvement using graphics cards.</title><venue>Empir. Softw. Eng.</venue><volume>18</volume><number>3</number><pages>550-593</pages><year>2013</year><type>Journal Articles</type><access>closed</access><key>journals/ese/YooHU13</key><doi>10.1007/S10664-013-9247-Y</doi><ee>https://doi.org/10.1007/s10664-013-9247-y</ee><url>https://dblp.org/rec/journals/ese/YooHU13</url></info>
+<url>URL#4114770</url>
+</hit>
+<hit score="1" id="4114771">
+<info><authors><author pid="68/6471">Andy Zaidman</author><author pid="60/8337">Nick Matthijssen</author><author pid="s/MargaretAnneDStorey">Margaret-Anne D. Storey</author><author pid="d/ArievanDeursen">Arie van Deursen</author></authors><title>Understanding Ajax applications by connecting client and server-side execution traces.</title><venue>Empir. Softw. Eng.</venue><volume>18</volume><number>2</number><pages>181-218</pages><year>2013</year><type>Journal Articles</type><access>open</access><key>journals/ese/ZaidmanMSD13</key><doi>10.1007/S10664-012-9200-5</doi><ee>https://doi.org/10.1007/s10664-012-9200-5</ee><url>https://dblp.org/rec/journals/ese/ZaidmanMSD13</url></info>
+<url>URL#4114771</url>
+</hit>
+</hits>
+</result>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="80517">:facetid:toc:\"db/conf/isese/isese2003.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">76.64</time>
+<completions total="1" computed="1" sent="1">
+<c sc="34" dc="34" oc="34" id="44007694">:facetid:toc:db/conf/isese/isese2003.bht</c>
+</completions>
+<hits total="34" computed="34" sent="34" first="0">
+<hit score="1" id="6289397">
+<info><authors><author pid="91/2927">Bente Anda</author><author pid="32/889">Dag I. K. Sjøberg</author></authors><title>Applying Use Cases to Design versus Validate Class Diagrams - A Controlled Experiment Using a Professional Modelling Tool.</title><venue>ISESE</venue><pages>50-60</pages><year>2003</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/isese/AndaS03</key><doi>10.1109/ISESE.2003.1237964</doi><ee>https://doi.org/10.1109/ISESE.2003.1237964</ee><url>https://dblp.org/rec/conf/isese/AndaS03</url></info>
+<url>URL#6289397</url>
+</hit>
+<hit score="1" id="6289398">
+<info><authors><author pid="54/2889">Carina Andersson</author><author pid="59/5542">Thomas Thelin</author><author pid="24/24">Per Runeson</author><author pid="95/5952">Nina Dzamashvili</author></authors><title>An Experimental Evaluation of Inspection and Testing for Detection of Design Faults.</title><venue>ISESE</venue><pages>174-184</pages><year>2003</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/isese/AnderssonTRD03</key><doi>10.1109/ISESE.2003.1237976</doi><ee>https://doi.org/10.1109/ISESE.2003.1237976</ee><url>https://dblp.org/rec/conf/isese/AnderssonTRD03</url></info>
+<url>URL#6289398</url>
+</hit>
+<hit score="1" id="6289399">
+<info><authors><author pid="73/1559">Maria Teresa Baldassarre</author><author pid="21/1408">Danilo Caivano</author><author pid="94/4920">Giuseppe Visaggio</author></authors><title>Comprehensibility and Efficiency of Multiview Framework for Measurement Plan Design.</title><venue>ISESE</venue><pages>89-99</pages><year>2003</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/isese/BaldassarreCG03</key><doi>10.1109/ISESE.2003.1237968</doi><ee>https://doi.org/10.1109/ISESE.2003.1237968</ee><url>https://dblp.org/rec/conf/isese/BaldassarreCG03</url></info>
+<url>URL#6289399</url>
+</hit>
+<hit score="1" id="6289400">
+<info><authors><author pid="99/2602">Patrik Berander</author><author pid="w/ClaesWohlin">Claes Wohlin</author></authors><title>Identification of Key Factors in Software Process Management - A Case Study.</title><venue>ISESE</venue><pages>316-325</pages><year>2003</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/isese/BeranderW03</key><doi>10.1109/ISESE.2003.1237992</doi><ee>https://doi.org/10.1109/ISESE.2003.1237992</ee><url>https://dblp.org/rec/conf/isese/BeranderW03</url></info>
+<url>URL#6289400</url>
+</hit>
+<hit score="1" id="6289401">
+<info><authors><author pid="b/StefanBiffl">Stefan Biffl</author><author pid="84/418">Michael Halling</author><author pid="15/1451">Sabine T. Köszegi</author></authors><title>Investigating the Accuracy of Defect Estimation Models for Individuals and Teams Based on Inspection Data.</title><venue>ISESE</venue><pages>232-243</pages><year>2003</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/isese/BifflHK03</key><doi>10.1109/ISESE.2003.1237982</doi><ee>https://doi.org/10.1109/ISESE.2003.1237982</ee><url>https://dblp.org/rec/conf/isese/BifflHK03</url></info>
+<url>URL#6289401</url>
+</hit>
+<hit score="1" id="6289402">
+<info><authors><author pid="b/BarryWBoehm">Barry W. Boehm</author><author pid="p/DanielPort">Daniel Port</author><author pid="55/4341">Ye Yang</author><author pid="12/2425">Jesal Bhuta</author><author pid="27/4154">Chris Abts</author></authors><title>Composable Process Elements for Developing COTS-Based Applications.</title><venue>ISESE</venue><pages>8-17</pages><year>2003</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/isese/BoehmPYBA03</key><doi>10.1109/ISESE.2003.1237960</doi><ee>https://doi.org/10.1109/ISESE.2003.1237960</ee><url>https://dblp.org/rec/conf/isese/BoehmPYBA03</url></info>
+<url>URL#6289402</url>
+</hit>
+<hit score="1" id="6289403">
+<info><authors><author pid="c/JeffreyCCarver">Jeffrey C. Carver</author><author pid="18/462">Forrest Shull</author><author pid="b/VRBasili">Victor R. Basili</author></authors><title>Observational Studies to Accelerate Process Experience in Classroom Studies: An Evaluation.</title><venue>ISESE</venue><pages>72-79</pages><year>2003</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/isese/CarverSB03</key><doi>10.1109/ISESE.2003.1237966</doi><ee>https://doi.org/10.1109/ISESE.2003.1237966</ee><url>https://dblp.org/rec/conf/isese/CarverSB03</url></info>
+<url>URL#6289403</url>
+</hit>
+<hit score="1" id="6289404">
+<info><authors><author pid="d/DanielaEDamian">Daniela E. Damian</author><author pid="56/5517">James Chisan</author><author pid="80/4352">Lakshminarayanan Vaidyanathasamy</author><author pid="37/1119">Yogendra Pal</author></authors><title>An Industrial Case Study of the Impact of Requirements Engineering on Downstream Development.</title><venue>ISESE</venue><pages>40-49</pages><year>2003</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/isese/DamianCVP03</key><doi>10.1109/ISESE.2003.1237963</doi><ee>https://doi.org/10.1109/ISESE.2003.1237963</ee><url>https://dblp.org/rec/conf/isese/DamianCVP03</url></info>
+<url>URL#6289404</url>
+</hit>
+<hit score="1" id="6289405">
+<info><authors><author pid="f/PGFrankl">Phyllis G. Frankl</author><author pid="25/6796">Gregg Rothermel</author><author pid="34/4847">Kent Sayre</author><author pid="88/5849">Filippos I. Vokolos</author></authors><title>An Empirical Comparison of Two Safe Regression Test Selection Techniques.</title><venue>ISESE</venue><pages>195-205</pages><year>2003</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/isese/FranklRSV03</key><doi>10.1109/ISESE.2003.1237978</doi><ee>https://doi.org/10.1109/ISESE.2003.1237978</ee><url>https://dblp.org/rec/conf/isese/FranklRSV03</url></info>
+<url>URL#6289405</url>
+</hit>
+<hit score="1" id="6289406">
+<info><authors><author pid="41/6280">Hans Gallis</author><author pid="27/5178">Erik Arisholm</author><author pid="81/2485">Tore Dybå</author></authors><title>An Initial Framework for Research on Pair Programming.</title><venue>ISESE</venue><pages>132-142</pages><year>2003</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/isese/GallisAD03</key><doi>10.1109/ISESE.2003.1237972</doi><ee>https://doi.org/10.1109/ISESE.2003.1237972</ee><url>https://dblp.org/rec/conf/isese/GallisAD03</url></info>
+<url>URL#6289406</url>
+</hit>
+<hit score="1" id="6289407">
+<info><authors><author pid="64/5268">Fred J. Heemstra</author><author pid="50/5192">Rob J. Kusters</author><author pid="58/2001">Huibert de Man</author></authors><title>Guidelines for Managing Bias in Project Risk Assessment.</title><venue>ISESE</venue><pages>272-280</pages><year>2003</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/isese/HeemstraKM03</key><doi>10.1109/ISESE.2003.1237988</doi><ee>https://doi.org/10.1109/ISESE.2003.1237988</ee><url>https://dblp.org/rec/conf/isese/HeemstraKM03</url></info>
+<url>URL#6289407</url>
+</hit>
+<hit score="1" id="6289408">
+<info><authors><author pid="17/6328">Andreas Jedlitschka</author><author pid="p/DietmarPfahl">Dietmar Pfahl</author></authors><title>Experience-Based Model-Driven Improvement Management with Combined Data Sources from Industry and Academia.</title><venue>ISESE</venue><pages>154-161</pages><year>2003</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/isese/JedlitschkaP03</key><doi>10.1109/ISESE.2003.1237974</doi><ee>https://doi.org/10.1109/ISESE.2003.1237974</ee><url>https://dblp.org/rec/conf/isese/JedlitschkaP03</url></info>
+<url>URL#6289408</url>
+</hit>
+<hit score="1" id="6289409">
+<info><authors><author pid="55/2562">Amr Kamel</author><author pid="76/3827">Paul G. Sorenson</author></authors><title>The Application of Capture-Recapture Log-Linear Models To Software Inspections Data.</title><venue>ISESE</venue><pages>213-222</pages><year>2003</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/isese/KamelS03</key><doi>10.1109/ISESE.2003.1237980</doi><ee>https://doi.org/10.1109/ISESE.2003.1237980</ee><url>https://dblp.org/rec/conf/isese/KamelS03</url></info>
+<url>URL#6289409</url>
+</hit>
+<hit score="1" id="6289410">
+<info><authors><author pid="97/1900">Kalpesh Kapoor</author><author pid="b/JonathanPBowen">Jonathan P. Bowen</author></authors><title>Experimental Evaluation of the Variation in Effectiveness for DC, FPC and MC/DC Test Criteria.</title><venue>ISESE</venue><pages>185-194</pages><year>2003</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/isese/KapoorB03</key><doi>10.1109/ISESE.2003.1237977</doi><ee>https://doi.org/10.1109/ISESE.2003.1237977</ee><url>https://dblp.org/rec/conf/isese/KapoorB03</url></info>
+<url>URL#6289410</url>
+</hit>
+<hit score="1" id="6289411">
+<info><authors><author pid="29/4646">Filippo Lanubile</author><author pid="33/3044">Teresa Mallardo</author></authors><title>An Empirical Study of Web-Based Inspection Meetings.</title><venue>ISESE</venue><pages>244-251</pages><year>2003</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/isese/LanubileM03</key><doi>10.1109/ISESE.2003.1237984</doi><ee>https://doi.org/10.1109/ISESE.2003.1237984</ee><url>https://dblp.org/rec/conf/isese/LanubileM03</url></info>
+<url>URL#6289411</url>
+</hit>
+<hit score="1" id="6289412">
+<info><authors><author pid="m/EMendes">Emilia Mendes</author><author pid="43/1246">Nile Mosley</author><author pid="93/6557">Steve Counsell</author></authors><title>A Replicated Assessment of the Use of Adaptation Rules to Improve Web Cost Estimation.</title><venue>ISESE</venue><pages>100-109</pages><year>2003</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/isese/MendesMC03</key><doi>10.1109/ISESE.2003.1237969</doi><ee>https://doi.org/10.1109/ISESE.2003.1237969</ee><url>https://dblp.org/rec/conf/isese/MendesMC03</url></info>
+<url>URL#6289412</url>
+</hit>
+<hit score="1" id="6289413">
+<info><authors><author pid="79/6124">Audris Mockus</author></authors><title>Analogy Based Prediction of Work Item Flow in Software Projects: a Case Study.</title><venue>ISESE</venue><pages>110-119</pages><year>2003</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/isese/Mockus03</key><doi>10.1109/ISESE.2003.1237970</doi><ee>https://doi.org/10.1109/ISESE.2003.1237970</ee><url>https://dblp.org/rec/conf/isese/Mockus03</url></info>
+<url>URL#6289413</url>
+</hit>
+<hit score="1" id="6289414">
+<info><authors><author pid="m/KjetilMolokken">Kjetil Moløkken</author><author pid="26/5690">Magne Jørgensen</author></authors><title>A Review of Surveys on Software Effort Estimation.</title><venue>ISESE</venue><pages>223-231</pages><year>2003</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/isese/MolokkenJ03</key><doi>10.1109/ISESE.2003.1237981</doi><ee>https://doi.org/10.1109/ISESE.2003.1237981</ee><url>https://dblp.org/rec/conf/isese/MolokkenJ03</url></info>
+<url>URL#6289414</url>
+</hit>
+<hit score="1" id="6289415">
+<info><authors><author pid="62/3260">Jürgen Münch</author><author pid="70/3445">Ove Armbrust</author></authors><title>Using Empirical Knowledge from Replicated Experiments for Software Process Simulation: A Practical Example.</title><venue>ISESE</venue><pages>18-27</pages><year>2003</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/isese/MunchA03</key><doi>10.1109/ISESE.2003.1237961</doi><ee>https://doi.org/10.1109/ISESE.2003.1237961</ee><url>https://dblp.org/rec/conf/isese/MunchA03</url></info>
+<url>URL#6289415</url>
+</hit>
+<hit score="1" id="6289416">
+<info><authors><author pid="p/DLParnas">David Lorge Parnas</author></authors><title>The Limits of Empirical Studies of Software Engineering.</title><venue>ISESE</venue><pages>2-7</pages><year>2003</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/isese/Parnas03</key><doi>10.1109/ISESE.2003.1237959</doi><ee>https://doi.org/10.1109/ISESE.2003.1237959</ee><url>https://dblp.org/rec/conf/isese/Parnas03</url></info>
+<url>URL#6289416</url>
+</hit>
+<hit score="1" id="6289417">
+<info><authors><author pid="p/UrsulaPassing">Ursula Passing</author><author pid="08/3451">Martin J. Shepperd</author></authors><title>An experiment on software project size and effort estimation.</title><venue>ISESE</venue><pages>120-131</pages><year>2003</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/isese/PassingS03</key><doi>10.1109/ISESE.2003.1237971</doi><ee>https://doi.org/10.1109/ISESE.2003.1237971</ee><url>https://dblp.org/rec/conf/isese/PassingS03</url></info>
+<url>URL#6289417</url>
+</hit>
+<hit score="1" id="6289418">
+<info><authors><author pid="09/5320">Maurizio Pighin</author><author pid="48/4456">Anna Marzona</author></authors><title>An Empirical Analysis of Fault Persistence Through Software Releases.</title><venue>ISESE</venue><pages>206-212</pages><year>2003</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/isese/PighinM03</key><doi>10.1109/ISESE.2003.1237979</doi><ee>https://doi.org/10.1109/ISESE.2003.1237979</ee><url>https://dblp.org/rec/conf/isese/PighinM03</url></info>
+<url>URL#6289418</url>
+</hit>
+<hit score="1" id="6289419">
+<info><authors><author pid="72/1364">Teade Punter</author><author pid="03/4122">Marcus Ciolkowski</author><author pid="60/3941">Bernd G. Freimut</author><author pid="18/5628">Isabel John</author></authors><title>Conducting On-line Surveys in Software Engineering.</title><venue>ISESE</venue><pages>80-88</pages><year>2003</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/isese/PunterCFJ03</key><doi>10.1109/ISESE.2003.1237967</doi><ee>https://doi.org/10.1109/ISESE.2003.1237967</ee><url>https://dblp.org/rec/conf/isese/PunterCFJ03</url></info>
+<url>URL#6289419</url>
+</hit>
+<hit score="1" id="6289420">
+<info><authors><author pid="15/642">Austen Rainer</author><author pid="69/3214">Tracy Hall</author><author pid="66/2636">Nathan Baddoo</author></authors><title>Persuading Developers to &apos;Buy into&apos; Software Process Improvement: Local Opinion and Empirical Evidence.</title><venue>ISESE</venue><pages>326-335</pages><year>2003</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/isese/RainerHB03</key><doi>10.1109/ISESE.2003.1237993</doi><ee>https://doi.org/10.1109/ISESE.2003.1237993</ee><url>https://dblp.org/rec/conf/isese/RainerHB03</url></info>
+<url>URL#6289420</url>
+</hit>
+<hit score="1" id="6289421">
+<info><authors><author pid="89/180">Kristian Rautiainen</author><author pid="90/1290">Lauri Vuornos</author><author pid="28/3392">Casper Lassenius</author></authors><title>An Experience in Combining Flexibility and Control in a Small Company&apos;s Software Product Development Process.</title><venue>ISESE</venue><pages>28-39</pages><year>2003</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/isese/RautiainenVL03</key><doi>10.1109/ISESE.2003.1237962</doi><ee>https://doi.org/10.1109/ISESE.2003.1237962</ee><url>https://dblp.org/rec/conf/isese/RautiainenVL03</url></info>
+<url>URL#6289421</url>
+</hit>
+<hit score="1" id="6289422">
+<info><authors><author pid="42/6131">Günther Ruhe</author><author pid="g/DesGreer">Des Greer</author></authors><title>Quantitative Studies in Software Release Planning under Risk and Resource Constraints.</title><venue>ISESE</venue><pages>262-271</pages><year>2003</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/isese/RuheG03</key><doi>10.1109/ISESE.2003.1237987</doi><ee>https://doi.org/10.1109/ISESE.2003.1237987</ee><url>https://dblp.org/rec/conf/isese/RuheG03</url></info>
+<url>URL#6289422</url>
+</hit>
+<hit score="1" id="6289423">
+<info><authors><author pid="24/24">Per Runeson</author><author pid="59/5542">Thomas Thelin</author></authors><title>A Case Study Using Sampling to Improve Software Inspection Effectiveness.</title><venue>ISESE</venue><pages>252-261</pages><year>2003</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/isese/RunesonT03</key><doi>10.1109/ISESE.2003.1237985</doi><ee>https://doi.org/10.1109/ISESE.2003.1237985</ee><url>https://dblp.org/rec/conf/isese/RunesonT03</url></info>
+<url>URL#6289423</url>
+</hit>
+<hit score="1" id="6289424">
+<info><authors><author pid="38/3065">Louise Scott</author><author pid="99/2957">D. Ross Jeffery</author></authors><title>The Anatomy of an Experience Repository.</title><venue>ISESE</venue><pages>162-173</pages><year>2003</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/isese/ScottJ03</key><doi>10.1109/ISESE.2003.1237975</doi><ee>https://doi.org/10.1109/ISESE.2003.1237975</ee><url>https://dblp.org/rec/conf/isese/ScottJ03</url></info>
+<url>URL#6289424</url>
+</hit>
+<hit score="1" id="6289425">
+<info><authors><author pid="29/7640">Cleidson R. B. de Souza</author><author pid="84/6534">David F. Redmiles</author><author pid="17/1744">Gloria Mark</author><author pid="84/3141">John Penix</author><author pid="65/1780">Maarten Sierhuis</author></authors><title>Management of Interdependencies in Collaborative Software Development.</title><venue>ISESE</venue><pages>294-303</pages><year>2003</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/isese/SouzaRMPS03</key><doi>10.1109/ISESE.2003.1237990</doi><ee>https://doi.org/10.1109/ISESE.2003.1237990</ee><url>https://dblp.org/rec/conf/isese/SouzaRMPS03</url></info>
+<url>URL#6289425</url>
+</hit>
+<hit score="1" id="6289426">
+<info><authors><author pid="81/5477">Mikael Svahnberg</author></authors><title>A Study on Agreement Between Participants in an Architecture Assessment.</title><venue>ISESE</venue><pages>61-71</pages><year>2003</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/isese/Svahnberg03</key><doi>10.1109/ISESE.2003.1237965</doi><ee>https://doi.org/10.1109/ISESE.2003.1237965</ee><url>https://dblp.org/rec/conf/isese/Svahnberg03</url></info>
+<url>URL#6289426</url>
+</hit>
+<hit score="1" id="6289427">
+<info><authors><author pid="w/LaurieAWilliams">Laurie A. Williams</author><author pid="m/CharlesMMcDowell">Charlie McDowell</author><author pid="91/1758">Nachiappan Nagappan</author><author pid="07/4298">Julian Fernald</author><author pid="50/5282">Linda L. Werner</author></authors><title>Building Pair Programming Knowledge through a Family of Experiments.</title><venue>ISESE</venue><pages>143-153</pages><year>2003</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/isese/WilliamsMNFW03</key><doi>10.1109/ISESE.2003.1237973</doi><ee>https://doi.org/10.1109/ISESE.2003.1237973</ee><url>https://dblp.org/rec/conf/isese/WilliamsMNFW03</url></info>
+<url>URL#6289427</url>
+</hit>
+<hit score="1" id="6289428">
+<info><authors><author pid="34/2603-2">Bernard Wong 0002</author></authors><title>Applying the Software Evaluation Framework &apos;SEF&apos; to the Software Development Life Cycle.</title><venue>ISESE</venue><pages>281-293</pages><year>2003</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/isese/Wong03</key><doi>10.1109/ISESE.2003.1237989</doi><ee>https://doi.org/10.1109/ISESE.2003.1237989</ee><url>https://dblp.org/rec/conf/isese/Wong03</url></info>
+<url>URL#6289428</url>
+</hit>
+<hit score="1" id="6289429">
+<info><authors><author pid="15/1008">James Wu</author><author pid="g/TCNicholasGraham">T. C. Nicholas Graham</author><author pid="61/4864">Paul W. Smith</author></authors><title>A Study of Collaboration in Software Design.</title><venue>ISESE</venue><pages>304-315</pages><year>2003</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/isese/WuGS03</key><doi>10.1109/ISESE.2003.1237991</doi><ee>https://doi.org/10.1109/ISESE.2003.1237991</ee><url>https://dblp.org/rec/conf/isese/WuGS03</url></info>
+<url>URL#6289429</url>
+</hit>
+<hit score="1" id="6313725">
+<info><title>2003 International Symposium on Empirical Software Engineering (ISESE 2003), 30 September - 1 October 2003. Rome, Italy</title><venue>ISESE</venue><publisher>IEEE Computer Society</publisher><year>2003</year><type>Editorship</type><key>conf/isese/2003</key><ee>https://ieeexplore.ieee.org/xpl/conhome/8770/proceeding</ee><url>https://dblp.org/rec/conf/isese/2003</url></info>
+<url>URL#6313725</url>
+</hit>
+</hits>
+</result>
