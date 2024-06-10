@@ -1,4 +1,4 @@
-#checkurl
+# checkurl
 
 To run this tool, you need to have:
 1. A recent Java Virtual Machine (11 or higher)
