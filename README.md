@@ -7,10 +7,10 @@ To run this tool, you need to have:
 
 The results obtained in the paper can be reproduced as follows. Go to the project directory (where the pom.xml file appears) and do the following:
 
-```mvn package
-  cd target
-  chmod 751 ./runEntireFlow.sh
-  ./runEntireFlow.sh DBLP-EMSE-2003.xml #Or any other DBLP XML file
+    mvn package
+    cd target
+    chmod 751 ./runEntireFlow.sh
+    ./runEntireFlow.sh DBLP-EMSE-2003.xml #Or any other DBLP XML file
 
 Once the processing is finished, the extracted URLs, their accessibility and the category under which they have been classified will appear in the pdf_database.db (SQLite) database. The different steps of the process are documented in text files within the same execution directory.
 
