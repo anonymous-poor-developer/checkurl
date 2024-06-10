@@ -12,7 +12,8 @@ import org.apache.commons.lang3.tuple.ImmutablePair;
 import org.apache.commons.lang3.tuple.Pair;
 
 public class ConexionBaseDeDatos {
-    private static final String DATABASE_URL = "jdbc:sqlite:pdf_database.db";
+	private static final String DATABASE_FILE_NAME = "pdf_database.db";
+    private static final String DATABASE_URL = "jdbc:sqlite:" + DATABASE_FILE_NAME;
 
     private static final String CREATE_DOWNLOADED_PDFS_TABLE_SQL = "CREATE TABLE IF NOT EXISTS downloaded_pdfs (doi TEXT, URL TEXT, finalURL TEXT, accesible NUMBER, contexto TEXT, type TEXT)";
     private static final String CREATE_NOMBRE_PDFS_TABLE_SQL = "CREATE TABLE IF NOT EXISTS nombre_pdfs (nombre TEXT PRIMARY KEY)";
@@ -119,17 +120,16 @@ public class ConexionBaseDeDatos {
     }
 	
 	public static boolean BDExist() {
-		try {
-			
-			DriverManager.getConnection(DATABASE_URL);
 		
-		} catch (SQLException e) {
+		File file = new File (DATABASE_FILE_NAME);
+
+		  if(file.exists()) {
+			  
+			  return true;
+
+		  }
 		
-			return false;
-		
-		}
-		
-		return true;
+		return false;
 		
 	}
 

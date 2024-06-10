@@ -4,7 +4,10 @@ import okhttp3.OkHttpClient;
 import okhttp3.Request;
 import okhttp3.Response;
 
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.io.InputStream;
 import java.net.URLEncoder;
 import java.nio.charset.StandardCharsets;
 
@@ -14,9 +17,10 @@ import org.json.JSONObject;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Properties;
 
 public class ObtenerPdfConSerpApi {
-    private static final String API_KEY = "";//API_KEY de SerpApi para buscar
+    static String API_KEY = "";//API_KEY de SerpApi para buscar
 
     // Hace lo mismo que obtenerTodosLosEnlacesPDF(), pero genera salida a stdout
 	// Al usar stdout, los strings deben ir entrecomillados para facilitar el procesamiento posterior
@@ -26,6 +30,23 @@ public class ObtenerPdfConSerpApi {
             System.exit(1);
         }
         
+        // Load key
+        Properties key = new Properties();
+        InputStream inputStream;
+		try {
+			
+			inputStream = new FileInputStream("key.properties");
+			key.load(inputStream);
+			API_KEY = key.getProperty("Key");
+			
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
         int numeroEnlaces = 0;
         
 		System.err.println("Getting links from SerAPI");
@@ -55,6 +76,23 @@ public class ObtenerPdfConSerpApi {
             System.exit(1);
         }
         
+        // Load key
+        Properties key = new Properties();
+        InputStream inputStream;
+		try {
+			
+			inputStream = new FileInputStream("key.properties");
+			key.load(inputStream);
+			API_KEY = key.getProperty("Key");
+			
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+        
         for(String tituloArticulo : titulosArticulos) {
         	
         	String[] respuesta = obtenerEnlacePDF(tituloArticulo);
@@ -82,13 +120,13 @@ public class ObtenerPdfConSerpApi {
 				System.err.println("El PDF ya había sido descargado previamente: " + "\"" + tituloArticulo + "\"");
 				skip = true;
         		
-        	} else {
-        		
-        		ConexionBaseDeDatos.initializeDatabase();
-        		
-        	}
+        	} 
         	
-        }
+        } else {
+    		
+    		ConexionBaseDeDatos.initializeDatabase();
+    		
+    	}
         
         if(!skip) {
         	
