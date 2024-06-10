@@ -7,7 +7,7 @@ To run this tool, you need to have:
 
 The results obtained in the paper can be reproduced as follows. Go to the project directory (where the pom.xml file appears) and do the following:
 
-  mvn package
+```mvn package
   cd target
   chmod 751 ./runEntireFlow.sh
   ./runEntireFlow.sh DBLP-EMSE-2003.xml #Or any other DBLP XML file
